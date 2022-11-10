@@ -1,0 +1,13 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CUIMR-R-95-005
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,Improved destriping of GOES images using finite impulse response filters
+3,Author:,"Simpson, James J."
+4,,"Gobat, Jason I."
+5,,"Frouin, Robert"
+6,Publication Year :,1995
+7,Source Citation:,"""Remote Sensing of Environment,"" 52:15-35, 1995."
+8,# Pages / Video Length:,21
+9,Publication Type:,reprints (peer-reviewed)
+10,Project #:,R/OE-25
+11,Abstract:,"GOES data are known to be contaminated with stripes whose presence affects the usefulness of the data in quantitative studies. This article: (1) reviews the causes of the striping; (2) develops frequency domain and spatial domain finite impulse response (FIR) filters for minimizing the stripes in the data while simultaneously introducing minimum distortion into the filtered data; and (3) quantitatively compares the results obtained with these new filtering methods with those produced by traditional destriping methods (e.g., simple smoothing, moment matching, histogram matching). Results show that a finite impulse response filter, implemented in either the spatial or Fourier domain, is superior to all other methods evaluated."

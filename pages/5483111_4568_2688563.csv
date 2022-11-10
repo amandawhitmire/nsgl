@@ -1,0 +1,11 @@
+,MetadataField,Metadata
+0,NSGL Document #:,MIT-R-89-010
+1,Sea Grant Program/Affiliate:,MIT Sea Grant
+2,Title:,Multisensor modeling of undersea terrain
+3,Author:,"Stewart, W. Kenneth"
+4,Publication Year :,1989
+5,Source Citation:,"""Proceedings from MTS ROV '89,"" pp. 160-169, San Diego, California, March 1989."
+6,Publication Type:,reprints (not peer-reviewed)
+7,Program Report #:,MITSG 89-27J
+8,Project #:,RU-12
+9,Abstract:,"This paper describes a method of constructing multidimensiona​l models of the undersea environment with real-time multisensor data. The basis of this approach is to divide the space into small cubical units, each of which has a multisensor feature vector that represents the properties within the region. New sensor data are merged to continuously update the image."

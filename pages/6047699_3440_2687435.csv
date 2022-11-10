@@ -1,0 +1,13 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-06-002
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,A semi-empirical growth estimation method for matrix models of endangered species
+3,Author:,"Rogers-Bennett, Laura"
+4,,"Rodgers, Donald W."
+5,Publication Year :,2006
+6,Source Citation:,"""Ecological Modelling,"" 195(3-​4):237-​246, December 2005."
+7,# Pages / Video Length:,10
+8,Publication Type:,reprints (peer-reviewed)
+9,Project #:,R/F-198
+10,,R/CZ-69 PD
+11,Abstract:,"Matrix models are critical for conservation planning of endangered species or any species with limited data. Sufficient growth data to construct growth-​transition matrices required for size-structured population dynamics models may be lacking using traditional methods. We present a simple semi-empirical method for converting limited growth data into estimated transition probabilities required as elements in structured matrix models. Rather than approximating transition probabilities by counting actual transition frequencies between sparsely populated size classes, we assume that a selected function represents the entire data set, we obtain the model parameters by conventional curve fitting, and we construct the matrix model from the assumed model function. To illustrate the method, we use a sparse, scattered sample of growth data from the endangered white abalone. We use the slope and intercept of the von Bertalanffy model function to determine the growth-​transition matrix elements, where the paucity and or scatter of the data preclude using the traditional counting method. The method we propose can accommodate both linear and non-linear mappings of size into growth rate, as we demonstrate with a Gaussian function which has been used to model growth of red abalone and red sea urchins. We illustrate how our method can convert confidence intervals from the model function into confidence intervals for the matrix elements. We suggest that this modelling procedure, which is simple to use and is suitable in data poor situations, will be broadly applicable for conservation practitioners in developing quantitative models to evaluate the population viability of endangered species."

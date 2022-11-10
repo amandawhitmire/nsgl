@@ -1,0 +1,25 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-R-20-006
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,Oceanographic features delineate growth zonation in Northeast Pacific sablefish
+3,Author:,"Kapur, M."
+4,,"Haltuch, M."
+5,,"Connors, B."
+6,,"Rogers, L."
+7,,"Berger, A."
+8,,"Koontz, E."
+9,,"Cope, J."
+10,,"Echave, K."
+11,,"Fenske, K."
+12,,"Hanselman, D."
+13,,"Punt, A. E."
+14,Publication Year :,2020
+15,Source Citation:,"Fisheries Research, 222: Article 105414, February 2020"
+16,DOI #:,10.1016/j.fishr​es.2019.105414
+17,Publisher:,Elsevier B.V.
+18,# Pages / Video Length:,14
+19,Publication Type:,reprints (peer-reviewed)
+20,Program Report #:,WSG-TA 20-04
+21,Grant/Contract #:,NA15OAR4320063
+22,Project #:,R/E/I-33
+23,Abstract:,"Renewed interest in the estimation of spatial and temporal variation in fish traits, such as body size, is a result of computing advances and the development of spatially-​explicit management frameworks. However, many attempts to quantify spatial structure or the distribution of traits utilize a priori approaches, which involve pre-designated geographic regions and thus cannot detect unanticipated spatial patterns. We developed a new, model-based method that uses the first derivative of the spatial smoothing term of a generalized additive model to identify spatial zones of variation in fish length-at-age. We use simulation testing to evaluate the method across a variety of synthetic, stratified age and length datasets, and then apply it to survey data for Northeast Pacific sablefish (Anoplopoma fimbria). Simulation testing illustrates the robustness of the method across a variety of scenarios related to spatially or temporally stratified length-at-age data, including strict boundaries, overlapping zones and changes at the extreme of the range. Results indicate that length-at-age for Northeast Pacific sablefish increases with latitude, which is consistent with previous work from the western United States. Model-detected spatial breakpoints corresponded to major oceanographic features, including the northern end of the Southern California Bight and the bifurcation of the North Pacific Current. This method has the potential to improve detection of large-scale patterns in fish growth, and aid in the development of spatiotemporall​y structured population dynamics models to inform ecosystem-based fisheries management.Rene​wed interest in the estimation of spatial and temporal variation in fish traits, such as body size, is a result of computing advances and the development of spatially-​explicit management frameworks. However, many attempts to quantify spatial structure or the distribution of traits utilize a priori approaches, which involve pre-designated geographic regions and thus cannot detect unanticipated spatial patterns. We developed a new, model-based method that uses the first derivative of the spatial smoothing term of a generalized additive model to identify spatial zones of variation in fish length-at-age. We use simulation testing to evaluate the method across a variety of synthetic, stratified age and length datasets, and then apply it to survey data for Northeast Pacific sablefish (Anoplopoma fimbria). Simulation testing illustrates the robustness of the method across a variety of scenarios related to spatially or temporally stratified length-at-age data, including strict boundaries, overlapping zones and changes at the extreme of the range. Results indicate that length-at-age for Northeast Pacific sablefish increases with latitude, which is consistent with previous work from the western United States. Model-detected spatial breakpoints corresponded to major oceanographic features, including the northern end of the Southern California Bight and the bifurcation of the North Pacific Current. This method has the potential to improve detection of large-scale patterns in fish growth, and aid in the development of spatiotemporall​y structured population dynamics models to inform ecosystem-based fisheries management."

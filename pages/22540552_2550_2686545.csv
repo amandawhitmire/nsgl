@@ -1,0 +1,19 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-19-030
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,Decision-​support tools for dynamic management
+3,Author:,"Welch, Heather"
+4,,"Brodie, Stephanie"
+5,,"Jacox, Michael G."
+6,,"Bograd, Steven J."
+7,,"Hazen, Elliott L."
+8,Publication Year :,2019
+9,Source Citation:,"Conservation Biology, 0(0):1-11, First published 04 September 2019; https://doi.org​/10.1111/cobi.1​3417"
+10,DOI #:,10.1111/cobi.13​417
+11,Publisher:,"Wiley Periodicals, Inc."
+12,# Pages / Video Length:,11
+13,Publication Type:,reprints (peer-reviewed)
+14,Grant/Contract #:,NA14OAR4170075
+15,Project #:,R/SSFS-04
+16,Notes:,Open access article
+17,Abstract:,"Spatial management is a valuable strategy to advance regional goals for nature conservation, economicdevelop​ment, and human health. One challenge of spatial management is navigating the prioritization of multiplefeature​s. This challenge becomes more pronounced in dynamic management scenarios, in which boundariesare flexible in space and time in response to changing biological, environmental, or socioeconomic conditions.To implement dynamic management, decision-​support tools are needed to guide spatial prioritization as featuredistribu​tions shift under changing conditions. Marxan is a widely applied decision-​support tool designed forstatic management scenarios, but its utility in dynamic management has not been evaluated. EcoCast is a newdecision-​support tool developed explicitly for the dynamic management of multiple features, but it lacks someof Marxan’s functionality. We used a hindcast analysis to compare the capacity of these 2 tools to prioritize 4marine species in a dynamic management scenario for fisheries sustainability. We successfully configured Marxanto operate dynamically on a daily time scale to resemble EcoCast. The relationship between EcoCast solutions andthe underlying species distributions was more linear and less noisy, whereas Marxan solutions had more contrastbetween waters that were good and poor to fish. Neither decision-​support tool clearly outperformed the other;the appropriateness of each depends on management purpose, resource-​manager preference, and technologicalca​pacity of tool developers."

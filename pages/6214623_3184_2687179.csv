@@ -1,0 +1,23 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-09-032
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,Interpretation of tandem mass spectra obtained from cyclic nonribosomal peptides
+3,Author:,"Liu, Wei-Ting"
+4,,"Ng, Julio"
+5,,"Meluzzi, Dario"
+6,,"Bandeira, Nuno"
+7,,"Gutierrez, Marcelino"
+8,,"Simmons, Thomas L."
+9,,"Schultz, Andrew W."
+10,,"Linington, Roger G."
+11,,"Moore, Bradley S."
+12,,"Gerwick, William H."
+13,,"Pevzner, Pavel A."
+14,,"Dorrestein, Pieter C."
+15,Publication Year :,2009
+16,Source Citation:,"""Analytical Chemistry,"" 81(11):4200-​4209, June 1, 2009 [doi: 10.1021/ac90011​4t]."
+17,DOI #:,10.1021/ac90011​4t
+18,# Pages / Video Length:,10
+19,Publication Type:,reprints (peer-reviewed)
+20,Project #:,R/NMP-98
+21,Abstract:,"Natural and non-natural cyclic peptides are a crucial component in drug discovery programs because of their considerable pharmaceutical properties. Cyclosporin, microcystins, and nodularins are all notable pharmacological​ly important cyclic peptides. Because these biologically active peptides are often biosynthesized nonribosomally, they often contain nonstandard amino acids, thus increasing the complexity of the resulting tandem mass spectrometry data. In addition, because of the cyclic nature, the fragmentation patterns of many of these peptides showed much higher complexity when compared to related counterparts. Therefore, at the present time it is still difficult to annotate cyclic peptides MS/MS spectra. In this current work, an annotation program was developed for the annotation and characterizatio​n of tandem mass spectra obtained from cyclic peptides. This program, which we call MS-CPA is available as a web tool (http://lol.ucs​d.edu/ms-​cpa_v1/Input.py​). Using this program, we have successfully annotated the sequence of representative cyclic peptides, such as seglitide, tyrothricin, desmethoxymajus​culamide C, dudawalamide A, and cyclomarins, in a rapid manner and also were able to provide the first-pass structure evidence of a newly discovered natural product based on predicted sequence. This compound is not available in sufficient quantities for structural elucidation by other means such as NMR.1 In addition to the development of this cyclic annotation program, it was observed that some cyclic peptides fragmented in unexpected ways resulting in the scrambling of sequences. In summary, MS-CPA not only provides a platform for rapid confirmation and annotation of tandem mass spectrometry data obtained with cyclic peptides but also enables quantitative analysis of the ion intensities. This program facilitates cyclic peptide analysis, sequencing, and also acts as a useful tool to investigate the uncommon fragmentation phenomena of cyclic peptides and aids the characterizatio​n of newly discovered cyclic peptides encountered in drug discovery programs."

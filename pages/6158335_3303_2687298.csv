@@ -1,0 +1,13 @@
+,MetadataField,Metadata
+0,NSGL Document #:,MIT-WR-03-001
+1,Sea Grant Program/Affiliate:,MIT Sea Grant
+2,Title:,A wearable vehicle interface for augmented reality in operating AUVs
+3,Author:,"Damus, R."
+4,,"Morash, J."
+5,,"Chryssostomidis​, C."
+6,Publication Year :,2003
+7,Source Citation:,"""IEEE Oceans 2003,"" proceedings, pp. 1154-1160, San Diego, California, September 22- 26, 2003."
+8,# Pages / Video Length:,7
+9,Publication Type:,reprints (peer-reviewed)
+10,Program Report #:,MITSG 03-35J
+11,Abstract:,"Running an operation with an Autonomous Underwater Vehicle (AUV) presently requires that the pilots situate themselves, primarily in a sedentary position for extended periods of time, in front of a computer that is in communication with the vehicle. Such an Operations Workstation is likely to be a networked PC that cannot be exposed to the elements, but has access to all of the software necessary for data reduction and visualization. At the MIT AUV Lab we have extensive experience with this mode of operation. In order to overcome the deficiencies in the current paradigm, we have developed a lightweight computing system that is worn by members of the AUV deployment team to investigate the human factors issues associated with immersing a user in a computing environment that is being used to control an underwater robot. The Wearable Vehicle Interface (WeVl) is intended for use in the marine environment and fits over a US Coast Guard approved personal flotation device. The WeVl provides for connectivity to the AUV as well as other WeVl suits via Radio Frequency and 802.11 b wireless standards. The operator's point-of-view and GPS location may be shared among WeVl suits to promote situational awareness for the entire operations team. Mission control (planning, scripting, and launching), and visualizing datasets is performed through the graphical user interface that is displayed in a user's head-mounted display. Research into particular attributes of the augmented reality provided by such a suit is ongoing and presented in this paper."

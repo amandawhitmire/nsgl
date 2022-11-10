@@ -1,0 +1,16 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-WR-14-014
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,The impacts of climate-change on estuarine flooding: a Pacific Northwest case study (poster presentation.)
+3,Author:,"Parker, K."
+4,,"Cheng, T."
+5,,"Hill, D."
+6,,"Beamer, J."
+7,,"Garcia, G."
+8,Publication Year :,2014
+9,Source Citation:,"American Geophysical Union Meeting, poster presentation, San Francisco, California, December 15-19, 2014"
+10,# Pages / Video Length:,1
+11,Publication Type:,reprints (not peer-reviewed)
+12,Program Report #:,ORESU-WR-14-014
+13,Project #:,R/CNH-25
+14,Abstract:,"While understanding of climate change’s impact on coastal systems has recently seen great improvements, there still remains much to be understood, especially for systems as hydraulically complex as estuaries. The hydrodynamic climate in estuarine waters is controlled by multiple factors such as boundary conditions offshore (tides, waves), across the surface (winds), at the upper estuary margin (streamflow), as well as mean sea level. On the decadal to century scale, climate change modulated variability in these forcings will drastically effect state of the overall system resulting in changes to experienced extreme water level events. A study of climate change impacts on two Pacific Northwest estuaries is presently underway. ADCIRC-SWAN is being used to conduct multi-decadal simulations of water levels across the study estuaries. A GCM-RCM configuration was selected from the NARCCAP project and then bias-corrected against the observation-​based NARR data. This was separated into two data streams (historical and future) which were then run through a set of models in order to develop forcing for ADCIRC-SWAN. At the open ocean boundary, the model is forced with wave output from the WaveWatch III model. The free surface of the model is forced with surface winds and pressure. The streamflow boundaries are forced with hydrographs obtained from the Micromet - Snowmodel - Hydroflow suite of runoff routing models. The ADCIRC-SWAN output provides time series data on total water levels (TWLs) throughout the model domain. These time series can be used to construct CDFs of water elevation at any site of interest and also to derive return periods for extreme water level events. Of particular interest to this study is how these products change from the historical to future runs and which processes (changing offshore waves, changing streamflow) are primarily responsible for the observed changes in flooding characteristics​."

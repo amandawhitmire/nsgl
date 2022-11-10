@@ -1,0 +1,100 @@
+[EOSMAIN|22553586|1|2681650, USC Sea Grant Strategic Plan 2014-2017
+EOSMAIN|5054641|2|2681651, University of California Sea Grant Annual Report 1971-1972
+EOSMAIN|6048603|3|2681652, California and the World Ocean '02: revisiting and revising California's ocean agenda
+EOSMAIN|5054710|4|2681653, University of California Sea Grant College Program Annual Report 1975-1976
+EOSMAIN|5054659|5|2681654, University of California Sea Grant College Program Annual Report 1972-1973
+EOSMAIN|5236796|6|2681655, California Sea Grant College Program Annual Summary 1980-1981
+EOSMAIN|22750818|7|2681656, The Urban Mariner USC Sea Grant Newsletter (April 2020-January 2021)
+EOSMAIN|6457287|8|2681657, Research and Outreach Needs to Address the Nation's Fisheries Problems
+EOSMAIN|5261424|9|2681658, Making Waves: California's Sea Grant Program 5-Year Report 1977-1982
+EOSMAIN|5393927|10|2681659, California Sea Grant Biennial Report, 1982-1984
+EOSMAIN|5413942|11|2681660, Sea Grant: A National Resource for Marine Research and Education; A Summary Report of the California Sea Grant College Program
+EOSMAIN|5352268|12|2681661, California and the Pacific: Exploring the Exclusive Economic Zone - A Summary Report of the California Sea Grant College Program, 1982-1984
+EOSMAIN|5054743|13|2681662, University of California's Sea Grant Program: A Review, February 1978
+EOSMAIN|5054758|14|2681663, California's Sea Grant Program: Summary of the Review Report February 1978
+EOSMAIN|5826678|15|2681664, Sea Grant in Brief (January, April, and November-December 1999): Newsletter of the California Sea Grant College Program
+EOSMAIN|17658211|16|2681665, Sea Grant: An Ocean of Activity
+EOSMAIN|22529237|17|2681666, Regional Priority-Setting to Minimize Health, Social, and Economic Disruptions from Oil Spills: A Summary Report as part of the National Academies and Sea Grant Collaborative Workshop Series
+EOSMAIN|5933664|18|2681667, California Sea Grant turns 30
+EOSMAIN|5054803|19|2681668, California Sea Grant College Program: A Summary 1978-1979
+EOSMAIN|22373424|20|2681669, California Sea Grant Extension (Program Report)
+EOSMAIN|5448188|21|2681670, California Sea Grant Biennial Report of Completed Projects 1984-1986
+EOSMAIN|5054726|22|2681671, University of California Sea Grant College Program Annual Report 1976-1977
+EOSMAIN|6096537|23|2681672, Extension education and applied research to improve marine resource management
+EOSMAIN|5592312|24|2681673, The management and enhancement of sea urchins and other kelp bed resources: a Pacific rim perspective
+EOSMAIN|5191815|25|2681674, University of Southern California Sea Grant Annual Report 1971-1972
+EOSMAIN|5437483|26|2681675, California Sea Grant: Coastal Ocean Science and Technology
+EOSMAIN|5936061|27|2681676, California Sea Grant News (March, Summer, and Fall 2003)
+EOSMAIN|22601644|28|2681677, Regional priority-setting to minimize health, social, and economic disruptions from oil spills: A summary report as part of the National Academies and Sea Grant collaborative workshop series
+EOSMAIN|22601618|29|2681678, Evaluation of a National Workshop Series to Minimize Health, Social, and Economic Disruptions from Oil Spills
+EOSMAIN|6191764|30|2681679, West Coast Regional Marine Research and Information Needs
+EOSMAIN|5351509|31|2681680, USC Sea Grant 1983-84  Annual Report
+EOSMAIN|5260655|32|2681681, USC Sea Grant Institutional Program 1981-1982 Annual Report
+EOSMAIN|5978358|33|2681682, California Sea Grant News (Winter, Spring, Summer 2004): Science Serving California's Coast
+EOSMAIN|22677723|34|2681683, Evaluation of a National Workshop Series to Minimize Health, Social, and Economic Disruptions from Oil Spills
+EOSMAIN|6096856|35|2681684, California Sea Grant Program directory 2008-2009
+EOSMAIN|5054773|36|2681685, California Sea Grant College Program Annual Report 1977-1978
+EOSMAIN|5019405|37|2681686, Using California's Marine Resources: A Summary Report on the California Sea Grant College Program 1979-1980
+EOSMAIN|5765581|38|2681687, California and the World Ocean, '97: Taking a look at California's ocean resources: an agenda for the future, Volume 2
+EOSMAIN|5324262|39|2681688, The Planning and Management of California's Coastal Resources 1980-1981 Annual Report
+EOSMAIN|5310921|40|2681689, Marine Research at USC 1982-1983: Sea Grant Biological Sciences, Geological Sciences, Socio-Economics, Academic Programs, Advisory Services, Facilities, Publications
+EOSMAIN|5191849|41|2681690, University of Southern California Sea Grant Annual Report 1974-1975
+EOSMAIN|5176124|42|2681691, Pacific Sea Grant Advisory Program
+EOSMAIN|5286304|43|2681692, California Sea Grant College Program Annual Summary 1981-1982
+EOSMAIN|5063393|44|2681693, California's Ocean Related Needs: A Study to Determine the Ocean Related Needs and to Identify Programs to Meet the Needs
+EOSMAIN|5093748|45|2681694, A Report on the Humboldt State University Sea Grant Program September 1974-September 1976
+EOSMAIN|5040073|46|2681695, The Planning and Management of California's Coastal Resources Annual Report 1979-1980
+EOSMAIN|5358976|47|2681696, University of Southern California Sea Grant 1984-85 Trainee Report
+EOSMAIN|5837903|48|2681697, California Sea Grant News (February-August 2000)
+EOSMAIN|5627561|49|2681698, Sea Urchin, Kelp, Abalone News (Number 1 and 2, March and September 1993)
+EOSMAIN|22498348|50|2681699, Deep Dive: Insight from attending the World Aquaculture Conference
+EOSMAIN|6252810|51|2681700, Managing data-poor fisheries: case studies, models and solutions
+EOSMAIN|5468012|52|2681701, Sea Grant in California: Twenty Years of Achievement
+EOSMAIN|6012783|53|2681702, Sea Grant News (Winter, Spring, Summer, and Fall 2005): Science Serving California's Coast
+EOSMAIN|19233469|54|2681703, University of Southern California Sea Grant Strategic Plan 2018-2021
+EOSMAIN|17866989|55|2681704, Northward range extension of the crowned sea urchin (Centrostephanus coronatus) to Monterey Bay, California
+EOSMAIN|12761327|56|2681705, Market Your Catch (website)
+EOSMAIN|6096877|57|2681706, California Sea Grant Program directory 2007-2008
+EOSMAIN|5574712|58|2681707, Taxonomy of Economic Seaweeds with reference to some Pacific and Western Atlantic species, Volume III
+EOSMAIN|5512684|59|2681708, Pacific Sea Grant College Program Project Directory 1990
+EOSMAIN|5191895|60|2681709, The Planning and Management of California's Coastal Resources Annual Report 1978-1979
+EOSMAIN|6199959|61|2681710, Moss Landing Marine Laboratories News (Volume IV, Number 2 and Number 3, Winter and Spring 1976)
+EOSMAIN|6199914|62|2681711, Moss Landing Marine Laboratories News (Volume II, Number 1, January-​February 1974; Volume III, Number 1, Fall 1974)
+EOSMAIN|5054788|63|2681712, California Sea Grant College Program: An Overview 1977-1978
+EOSMAIN|5054693|64|2681713, UNIVERSITY OF CALIFORNIA SEA GRANT COLLEGE PROGRAM ANNUAL REPORT 1974-1975
+EOSMAIN|5054676|65|2681714, UNIVERSITY OF CALIFORNIA SEA GRANT COLLEGE PROGRAM ANNUAL REPORT 1973-1974
+EOSMAIN|5380262|66|2681715, The developing order of the oceans
+EOSMAIN|5936118|67|2681716, Sea Grant Fisheries (Spring, Summer, and Fall 2003)
+EOSMAIN|5901533|68|2681717, Bight Bulletin/Boleti​n de la Cuenca (No. 4 and No. 5, Spring/Primaver​a and Summer/Fall/Ver​ano/Otorio 2002)
+EOSMAIN|22777536|69|2681718, Marine Education Newsletter (No. 7, Fall 1985)
+EOSMAIN|5498591|70|2681719, California Sea Grant Marine Advisory Programs Newsletter/Sea Grant Extension Program Newsletter (January-December 1989)
+EOSMAIN|17867393|71|2681720, Spatial Variation in Predator-Prey Interactions on Subtidal Rocky Reefs
+EOSMAIN|17364449|72|2681721, USC Sea Grant Newsletter 2015 (June, August, September, October, and December)
+EOSMAIN|15101181|73|2681722, 40 Years of Progress in the Urban Ocean: USC Sea Grant Celebrating 1972-2015
+EOSMAIN|6148788|74|2681723, Relationships between oceanic conditions and growth of Chinook salmon ("Oncorhynchus tshawytscha") from California, Washington, and Alaska, USA
+EOSMAIN|5694769|75|2681724, Taxonomy of Economic Seaweeds With reference to some Pacific species. Volume V
+EOSMAIN|6199936|76|2681725, Moss Landing Marine Laboratories News (Volume III, Number 2 and 3; Volume IV, Number 1, Winter, Spring, and Fall 1975)
+EOSMAIN|6012803|77|2681726, California Sea Grant Fisheries Newsletter (Winter, Spring, and Summer 2005)
+EOSMAIN|6070856|78|2681727, California Sea Grant News (Fall 2006): Coastal Science Serving California
+EOSMAIN|5878787|79|2681728, California Sea Grant in Brief (July-August and October-November, 2001)
+EOSMAIN|22404958|80|2681729, California Ocean Litter Prevention Strategy: Addressing Marine Debris from Source to Sea
+EOSMAIN|19302997|81|2681730, Readying California Fisheries for Climate Change
+EOSMAIN|5193408|82|2681731, INDUSTRY AND THE CALIFORNIA COAST: A SURVEY REPORT
+EOSMAIN|5162082|83|2681732, Ocean Law Memo (Issue 17, 18, and 19, May, June, and October 1990)
+EOSMAIN|6125201|84|2681733, The SandBar (Volume 7:3, October 2008): Legal Reporter for the National Sea Grant College Program
+EOSMAIN|5242156|85|2681734, CALIFORNIA COOPERATIVE OCEANIC FISHERIES INVESTIGATIONS HYDROGRAPHIC DATA REPORT  MONTEREY BAY  JNAUARY TO JUNE 1978
+EOSMAIN|6293250|86|2681735, Sea Grant U-California Newsletter (Volume 2, Numbers 3, 4, and 5, January, March, and May 1974; Volume 3, Number 1, 1974)
+EOSMAIN|5261388|87|2681736, Marine Education Newsletter (No. 2 and No. 3, Winter and Spring 1982)
+EOSMAIN|5313110|88|2681737, Marine Education Newsletter (No. 6, Spring 1984)
+EOSMAIN|5307488|89|2681738, Marine Education Newsletter (No. 4 and No. 5, Winter and Spring 1983)
+EOSMAIN|6290019|90|2681739, California Sea Grant News (Winter 2011): Coastal Science Serving California
+EOSMAIN|6128471|91|2681740, California Sea Grant News (July 2008): Coastal Science Serving California
+EOSMAIN|22746614|92|2681741, University of Southern California Sea Grant Strategic Plan 2018-2023: The Urban Ocean Program
+EOSMAIN|22553561|93|2681742, Improving Oil Spill Preparedness and Response in Santa Barbara, CA: A Workshop Report
+EOSMAIN|22551794|94|2681743, Overcoming Impediments to Shellfish Aquaculture through Legal Research and Outreach: Case Studies
+EOSMAIN|20672495|95|2681744, Assessment of length- and age-at-maturity for California halibut (Paralichthys californicus), including a histologically-based description of the reproductive cycle
+EOSMAIN|9535734|96|2681745, Avian predators target nocturnal runs of the beach-spawning marine fish, California grunion, Leuresthes tenuis (Atherinopsidae)
+EOSMAIN|8333913|97|2681746, Taxonomy of Economic Seaweeds With Reference to Some Pacific Species Volume VIII
+EOSMAIN|6400213|98|2681747, Use of morphology and endrocrinology to predict sex in California sheephead: Evidence of altered timing of sex change at Santa Catalina Island, California
+EOSMAIN|6300036|99|2681748, California Sea Grant strategic plan (2006-2010)
+EOSMAIN|6292995|100|2681749, Sea Grant 70's (Volume 3, Numbers 5-12, 1973; Volume 4, Numbers 1-4, 1973)]

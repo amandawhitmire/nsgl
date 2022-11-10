@@ -1,0 +1,12 @@
+,MetadataField,Metadata
+0,NSGL Document #:,LSU-WR-08-015
+1,Sea Grant Program/Affiliate:,Louisiana Sea Grant
+2,Title:,Electrical resistivity tomography using MODFLOW
+3,Author:,"Tsai, Frank T.-C."
+4,,"Pillala, Madhava"
+5,Publication Year :,2008
+6,Source Citation:,"""American Geophysical Union Fall Meeting,"" San Francisco, California, December 15-19, 2008."
+7,# Pages / Video Length:,1
+8,Publication Type:,reprints (not peer-reviewed)
+9,Project #:,R/PCP-02
+10,Abstract:,"Numerical studies and laboratory experiments have been conducted to initiate and explore electrical resistivity tomography (ERT) to better understand subsurface heterogeneity and characterizatio​n of heterogeneous porous media. ERT is a geophysical method which calculates the electrical resistivity distribution in the subsurface environment from a large number of electrical potential measurements made from electrodes. The electrostatic model is solved by MODFLOW to investigate its application to ERT and parameterizatio​n of electrical resistivity. In this study, the ERT is fonnulated as a regularized least-squares (RLS) problem. The inversion of electrical resistivity is conducted through an adjoint-state method, where the Jacobian matrix is not necessary. At each optimization step we only need to solve the electrostatic model and the adjoint state model once to evaluate the gradients ofRLS with respect to the unknown resistivity regardless of the dimensions of parameterizatio​n. The MODFLOW is also applied to the solution of the adjoint-state equation. We first numerically verified the inversion algorithm in a twodimensional ERT problem. Then, we conducted ERT experiments in a three-​dimensional sand box."

@@ -1,0 +1,16 @@
+,MetadataField,Metadata
+0,NSGL Document #:,SCU-R-20-001
+1,Sea Grant Program/Affiliate:,Southern California Sea Grant
+2,Title:,High correlation but high scale-dependent variance between satellite measured night lights and terrestrial exposure
+3,Author:,"Simons, Ariel Levi"
+4,,"Yin, Xiaozhe"
+5,,"Longcore, Travis"
+6,Publication Year :,2020
+7,Source Citation:,"Environmental Research Communications, 2(2): Article 021006, February 27, 2020"
+8,DOI #:,10.1088/2515-​7620/ab7501
+9,Publisher:,IOP Publishing Ltd.
+10,# Pages / Video Length:,13
+11,Publication Type:,reprints (peer-reviewed)
+12,Grant/Contract #:,NA18OAR4170075
+13,Notes:,Open access
+14,Abstract:,"Exposure to artificial light at night (ALAN) is a significant factor in ecological and epidemiological​ research. Although levels of exposure are frequently estimated from satellite-based measurements of upward radiance, and the correlation between upward radiance and zenith sky brightness is established, the correlation between upward radiance and the biologically relevant exposure to light experienced from all directions on the ground has not been investigated. Because ground-​based exposure to ALAN can depend on local glare sources and atmospheric scattering, ecological and epidemiological​ studies using upward radiance have relied on an untested relationship. To establish the nature of the relationship between upward radiance and hemispherical scalar illuminance (SI) on the ground and to calibrate future experimental studies of ALAN, we used hemispheric digital photography to measure SI at 515 locations in coastal southern California, and compared those values to co-located satellite-based measures of upward radiance as described by the Visible Infrared Imaging Radiometer Suite (VIIRS) satellite’s Day-Night Band (DNB) sensor and zenith downwards radiance as estimated by the World Atlas of Artificial Night Sky Brightness (WA). We found significant variations in SI within the geographic scale defined by the resolutions of both the DNB and WA, as well as in both luminance and color correlated temperature (CCT) across individual image hemispheres. We observed up to two or more orders of magnitude in ALAN exposure within any given satellite-​ measured unit. Notwithstanding this variation, a linear model of log(SI) (log(SImodeled)​), dependent only on the percent of the image hemisphere obscured by structures along the horizon (percent horizon) and log(WA) accounted for 76% of the variation in observed log(SI). DNB does not perform as well in alternative models and consequently future studies seeking to characterize the light environment should be built on WA data when the high temporal resolution of DNB measurements are not needed."

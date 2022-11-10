@@ -1,0 +1,14 @@
+,MetadataField,Metadata
+0,NSGL Document #:,HAWAU-WR-06-006
+1,Sea Grant Program/Affiliate:,Hawaii Sea Grant
+2,Title:,"Modeling alongshore propagating tides and currents around West Maui, Hawaii: Implications for transport using Delft3D (abstract)"
+3,Author:,"Vitousek, S."
+4,,"Fletcher, C. H."
+5,,"Storlazzi, C. D."
+6,Publication Year :,2006
+7,Source Citation:,"""Eos Transactions, AGU,"" 87(52), Fall Meeting Supplement, 2006 [American Geophysical Union Fall Meeting, San Francisco, California, December 11-15, 2006]."
+8,# Pages / Video Length:,1
+9,Publication Type:,reprints (not peer-reviewed)
+10,Program Report #:,UNIHI-​SEAGRANT-​OP-​06-​19
+11,Project #:,R/EP-26
+12,Abstract:,"Nearshore currents are driven by a number of components including tides, waves winds and even internal tides. To adequately simulate transport of sand and other constituents, the realistic behavior of the dominant current-​generating phenomena should be resolved. This often requires sufficient observations and calibration/val​idation efforts to achieve realistic modeling results. The work explores the capabilities of modeling the currents along West Maui. The West Maui coast has a propagating tide where the observed peak tidal currents, which are directed parallel to the coast, occur very closely to the peak tidal water levels. In 2003, the USGS collected an extensive set of current observations along West Maui, Hawaii, with the goal of better understanding transport mechanisms of sediment, larvae, pollutants and other particles in coral reef settings. The observations included vessel mounted ADCP surveys and an array seafloor instruments at the 10m isobath along the coast. A simple 2DH model of West Maui using Delft3D shows good comparison of the modeled and observed currents. Nearshore currents driven by waves and winds are also considered. During the data collection period a significant erosion event occurred within the study domain at Kaanapali Beach. This event undermined several trees on the shoreline and threatened resort infrastructure. In modeling the nearshore currents of this region we hope to determine the potential for sand transport and shoreline change to hindcast this event."

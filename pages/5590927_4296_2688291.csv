@@ -1,0 +1,13 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CUIMR-R-91-076
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,System reliability and sensitivity analysis of an offshore jacket structure using conditional expectation approach
+3,Author:,"De Rabi, S."
+4,,"Karamchandani, Ashish"
+5,,"Cornell, C. Allin"
+6,Publication Year :,1991
+7,Source Citation:,"""Sixth International Conference on Applications of Statistics and Probability in Civil Engineering,"" Mexico City, Mexico, June 1991."
+8,# Pages / Video Length:,8
+9,Publication Type:,reprints (not peer-reviewed)
+10,Project #:,R/OE-5
+11,Abstract:,"The system reliability of an offshore jacket structure is calculated using the conditional expectation (also known as the reduced space) Monte Carlo approach. The system failure probability (of the order 10[-3]) is accurately estimated from only 60 simulations of the structural capacity variables. A formulation for estimating sensitivity measures of the failure probability with respect to the distribution parameters of the load and the member capacity variables, without requiring any additional simulation, is presented. In order to identify the critical members from the limited simulation information available, the sensitivity measures with respect to the distribution parameters of the individual member capacity variables exhibit large covs of estimation for the small sample size (60) used in the reduced space Monte Carlo simulation. The conclusions of the study are confirmed by analyzing a simple but representative academic example problem using a range of sample sizes."

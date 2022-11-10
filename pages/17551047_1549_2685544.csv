@@ -1,0 +1,18 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-15-040
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,Application of hyperspectral remote sensing to cyanobacterial blooms in inland waters
+3,Author:,"Kudela, Raphael M."
+4,,"Palacios, Sherry L."
+5,,"Austerberry, David C."
+6,,"Accorsi, Emma K."
+7,,"Guild, Liane S."
+8,,"Torres-Perez, Juan"
+9,Publication Year :,2015
+10,Source Citation:,"Remote Sensing of Environment, 167:196-205, 2015"
+11,DOI #:,10.1016/j.rse.2​015.01.025
+12,# Pages / Video Length:,10
+13,Publication Type:,reprints (peer-reviewed)
+14,Project #:,R/OPCCONT-12
+15,Notes:,Open Access
+16,Abstract:,"Cyanobacterial blooms are increasingly posing a severe threat to inland waters, particularly at the land-sea interfacewhere ​ toxins can be transported downstreamwith subsequent impacts to both terrestrial and marine organisms. These blooms are relatively easy to detect optically because of the surface concentration of cells, the presence of phycocyanin pigments, and the elevated backscatter associated with cell size and the presence of gas vacuoles.Major challenges limiting the use of remote sensing have been, first, that many of thesewater bodies are small relative to the spatial resolution of ocean color satellites, and second, evenwith a bright algal target, the spectral resolution, signal-to-noise ratio, and repeat timefor terrestrial satellites is often inadequate. The next generation of multispectral and hyperspectral sensors begin to address these issues with both increased spatial and spectral resolution. Weekly monitoring of Pinto Lake, California has demonstrated that this small water body provides an ideal testbed for development and application of algorithms applicable for legacy and nextgeneration ​ sensors. Pinto Lake experiences seasonal nearly monospecific bloomswith a pronounced species succession. Biomass (as chlorophyll) within Pinto Lake seasonally ranges from~1 to 1000 μg/L. Pinto Lake has been within the flight lines for several recent airborne missions, including the HyspIRI Preparatory Flight Campaign, and is often targeted for HICO acquisitions. Using these data we demonstrate that spectral-shape algorithms requiring minimal atmospheric correction can be used across a range of legacy sensors to detect cyanobacterial ​ blooms and that, with the availability of high spectral resolution data and appropriate atmospheric correction, it is possible to separate the cyanobacterial genera Aphanizomenon and Microcystis. In California Aphanizomenon is typically non-toxic and blooms prior to toxin-producing Microcystis, thus leading to the potential for an early warning system based on the identification of algal types"

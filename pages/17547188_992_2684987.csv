@@ -1,0 +1,15 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-15-029
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,Variational Lagrangian data assimilation in open channel networks
+3,Author:,"Wu, Quinfang"
+4,,"Tinka, Andrew"
+5,,"Weekly, Kevin"
+6,,"Beard, Jonathan"
+7,,"Bayen, Alexandre M."
+8,Publication Year :,2015
+9,Source Citation:,"Water Resources Research 51(4):1916-​1938, 2015"
+10,DOI #:,10.1002/2014WR0​15270
+11,# Pages / Video Length:,23
+12,Publication Type:,reprints (peer-reviewed)
+13,Abstract:,"This article presents a data assimilation method in a tidal system, where data from both Lagrangian drifters and Eulerian flow sensors were fused to estimate water velocity. The system is modeled by first-​order, hyperbolic partial differential equations subject to periodic forcing. The estimation problem can then be formulated as the minimization of the difference between the observed variables and model outputs, and eventually provide the velocity and water stage of the hydrodynamic system. The governing equations are linearized and discretized using an implicit discretization scheme, resulting in linear equality constraints in the optimization program. Thus, the flow estimation can be formed as an optimization problem and efficiently solved. The effectiveness of the proposed method was substantiated by a large-​scale field experiment in the Sacramento-San Joaquin River Delta in California. A fleet of 100 sensors developed at the University of California, Berkeley, were deployed in Walnut Grove, CA, to collect a set of Lagrangian data, a time series of positions as the sensors moved through the water. Measurements were also taken from Eulerian sensors in the region, provided by the United States Geological Survey. It is shown that the proposed method can effectively integrate Lagrangian and Eulerian measurement data, resulting in a suited estimation of the flow variables within the hydraulic system"

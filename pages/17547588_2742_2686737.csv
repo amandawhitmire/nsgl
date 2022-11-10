@@ -1,0 +1,18 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-15-030
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,Optofluidic ultrahigh-​throughput detection of fluorescent drops
+3,Author:,"Kim, Minkyu"
+4,,"Pan, Ming"
+5,,"Gai, Ya"
+6,,"Pang, Shuo"
+7,,"Han, Chao"
+8,,"Yang, Changhuei"
+9,,"Tang, Sindy K. Y."
+10,Publication Year :,2015
+11,Source Citation:,"Lab on a Chip, 15(6):1417-​1423, 2015"
+12,Publisher:,The Royal Society of Chemistry
+13,# Pages / Video Length:,7
+14,Publication Type:,reprints (peer-reviewed)
+15,Project #:,R/CONT-219
+16,Abstract:,"This paper describes an optofluidic droplet interrogation device capable of counting fluorescent drops at a throughput of 254000 drops per second. To our knowledge, this rate is the highest interrogation rate published thus far. Our device consists of 16 parallel microfluidic channels bonded directly to a filtercoated two-dimensional Complementary Metal-​Oxide-​Semiconductor (CMOS) sensor array. Fluorescence signals emitted from the drops are collected by the sensor that forms the bottom of the channel. The proximity of the drops to the sensor facilitates efficient collection of fluorescence emission from the drops, and overcomes the trade-off between light collection efficiency and field of view in conventional microscopy. The interrogation rate of our device is currently limited by the acquisition speed of CMOS sensor, and is expected to increase further as high-speed sensors become increasingly available."

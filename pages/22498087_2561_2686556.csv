@@ -1,0 +1,19 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-19-017
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,"An Annotated Genome for Haliotis rufescens (Red Abalone) and Resequenced Green, Pink, Pinto, Black, and White Abalone Species"
+3,Author:,"Masonbrink, Rick E."
+4,,"Purcell, Catherine M."
+5,,"Boles, Sara E."
+6,,"Whitehead, Andrew"
+7,,"Hyde, John R."
+8,,"Seetharam, Arun S."
+9,,"Severin, Andrew J."
+10,Publication Year :,2019
+11,Source Citation:,"Genome Biology and Evolution, 11(2): 431-438, February 2019"
+12,DOI #:,10.1093/gbe/evz​006
+13,# Pages / Video Length:,8
+14,Publication Type:,reprints (peer-reviewed)
+15,Project #:,R/HCME-10
+16,Notes:,Open access
+17,Abstract:,"Abalone are one of the few marine taxa where aquaculture production dominates the global market as a result of increasing demand and declining natural stocks from overexploitatio​n and disease. To better understand abalone biology, aid in conservation efforts for endangered abalone species, and gain insight into sustainable aquaculture, we created a draft genome of the red abalone (Haliotis rufescens). The approach to this genome draft included initial assembly using raw Illumina and PacBio sequencing data with MaSuRCA, before scaffolding using sequencing data generated from Chicago library preparations with HiRise2. This assembly approach resulted in 8,371 scaffolds and total length of 1.498 Gb; the N50 was 1.895 Mb, and the longest scaffold was 13.2 Mb. Gene models were predicted, using MAKER2, from RNA-Seq data and all related expressed sequence tags and proteins from NCBI; this resulted in 57,785 genes with an average length of 8,255 bp. In addition, single nucleotide polymorphisms were called on Illumina short-​sequencing reads from five other eastern Pacific abalone species: the green (H. fulgens), pink (H. corrugata), pinto (H. kamtschatkana), black (H. cracherodii), and white (H. sorenseni) abalone. Phylogenetic relationships largely follow patterns detected by previous studies based on 1,784,991 high-quality single nucleotide polymorphisms. Among the six abalone species examined, the endangered white abalone appears to harbor the lowest levels of heterozygosity. This draft genome assembly and the sequencing data provide a foundation for genome-enabled aquaculture improvement for red abalone, and for genome-guided conservation efforts for the other five species and, in particular, for the endangered white and black abalone."

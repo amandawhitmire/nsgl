@@ -1,0 +1,23 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-17-035
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,Fit to predict? Eco-informatics for predicting the catchability of a pelagic fish in near real time
+3,Author:,"Scales, Kylie L."
+4,,"Hazen, Elliott L."
+5,,"Maxwell, Sara M."
+6,,"Dewar, Heidi"
+7,,"Kohin, Suzanne"
+8,,"Jacox, Michael G."
+9,,"Edwards, Christopher A"
+10,,"Briscoe, Dana K."
+11,,"Crowder, Larry B."
+12,,"Lewison, Rebecca L."
+13,,"Bograd, Steven J."
+14,Publication Year :,2017
+15,Source Citation:,"Ecological Applications, 27(8):2313-​2329, 2017"
+16,DOI #:,10.1002/eap.161​0
+17,Publisher:,Ecological Society of America
+18,# Pages / Video Length:,17
+19,Publication Type:,reprints (peer-reviewed)
+20,Project #:,SSFS-04
+21,Abstract:,"The ocean is a dynamic environment inhabited by a diverse array of highly migratory species, many of which are under direct exploitation in targeted fisheries. The timescales of variability in the marine realm coupled with the extreme mobility of ocean‐wandering species such as tuna and billfish complicates fisheries management. Developing eco‐informatics solutions that allow for near real‐time prediction of the distributions of highly mobile marine species is an important step towards the maturation of dynamic ocean management and ecological forecasting. Using 25 yr (1990–2014) of NOAA fisheries’ observer data from the California drift gillnet fishery, we model relative probability of occurrence (presence–absen​ce) and catchability (total catch per gillnet set) of broadbill swordfish Xiphias gladius in the California Current System. Using freely available environmental data sets and open source software, we explore the physical drivers of regional swordfish distribution. Comparing models built upon remotely sensed data sets with those built upon a data‐assimilati​ve configuration of the Regional Ocean Modelling System (ROMS), we explore trade‐offs in model construction, and address how physical data can affect predictive performance and operational capacity. Swordfish catchability was found to be highest in deeper waters (>1,500 m) with surface temperatures in the 14–20°C range, isothermal layer depth (ILD) of 20–40 m, positive sea surface height (SSH) anomalies, and during the new moon (<20% lunar illumination). We observed a greater influence of mesoscale variability (SSH, wind speed, isothermal layer depth, eddy kinetic energy) in driving swordfish catchability (total catch) than was evident in predicting the relative probability of presence (presence–absen​ce), confirming the utility of generating spatiotemporall​y dynamic predictions. Data‐assimilati​ve ROMS circumvent the limitations of satellite remote sensing in providing physical data fields for species distribution models (e.g., cloud cover, variable resolution, subsurface data), and facilitate broad‐scale prediction of dynamic species distributions in near real time."

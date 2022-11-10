@@ -1,0 +1,15 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-16-012
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,Observations and modeling of San Diego beaches during El Niño
+3,Author:,"Doria, Andre"
+4,,"Guza, R. T."
+5,,"O'Reilly, William C."
+6,,"Yates, M. L."
+7,Publication Year :,2016
+8,Source Citation:,"Continental Shelf Research, 124:153–164, August 1, 2016"
+9,DOI #:,10.1016/j.csr.2​016.05.008
+10,# Pages / Video Length:,12
+11,Publication Type:,reprints (peer-reviewed)
+12,Project #:,RCC-01
+13,Abstract:,"Subaerial sand levels were observed at five southern California beaches for 16 years, including notable El Niños in 1997–98 and 2009–10. An existing, empirical shoreline equilibrium model, driven with wave conditions estimated using a regional buoy network, simulates well the seasonal changes in subaerial beach width (e.g. the cross-shore location of the MSL contour) during non-El Niño years, similar to previous results with a 5-year time series lacking an El Niño winter. The existing model correctly identifies the 1997–98 El Niño winter conditions as more erosive than 2009–10, but overestimates shoreline erosion during both El Niños. The good skill of the existing equilibrium model in typical conditions does not necessarily extrapolate to extreme erosion on these beaches where a few meters thick sand layer often overlies more resistant layers. The modest over-prediction of the 2009–10 El Niño is reduced by gradually decreasing the model mobility of highly eroded shorelines (simulating cobbles, kelp wrack, shell hash, or other stabilizing layers). Over prediction during the more severe 1997–98 El Niño is corrected by stopping model erosion when resilient surfaces (identified with aerial imagery) are reached. The trained model provides a computationally simple (e.g. nonlinear first order differential equation) representation of the observed relationship between incident waves and shoreline change."

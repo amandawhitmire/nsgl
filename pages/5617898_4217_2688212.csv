@@ -1,0 +1,13 @@
+,MetadataField,Metadata
+0,NSGL Document #:,MIT-R-90-014
+1,Sea Grant Program/Affiliate:,MIT Sea Grant
+2,Title:,State configured layered control
+3,Author:,"Bellingham, James G."
+4,,"Consi, Thomas R."
+5,Publication Year :,1990
+6,Source Citation:,"""Proceedings of the IARP 1st Workshop on Mobile Robots for Subsea Environments,"" Monterey, California, October 23-26, 1990."
+7,# Pages / Video Length:,6
+8,Publication Type:,reprints (not peer-reviewed)
+9,Program Report #:,MITSG 93-24J
+10,Project #:,RU-20
+11,Abstract:,This paper presents a 'state configured layered control' software architecture specifically designed to enable fully autonomous underwater vehicles (AUVs) to carry out complex missions with good real-time performance on modest computers. It can be configured by a user for a given mission in a relatively straightforward fashion. Results from layered control tests on a real vehicle were used to motivate the architecture. Survey-type missions were conducted in simulation to test the approach.

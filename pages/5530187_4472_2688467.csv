@@ -1,0 +1,10 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CUIMR-T-89-002
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,The numerical computation of free surface flows in a wetland environment
+3,Author:,"LaBolle, Eric"
+4,Publication Year :,1989
+5,# Pages / Video Length:,25
+6,Publication Type:,technical reports/surveys​/patents
+7,Project #:,R/CZ-84
+8,Abstract:,"Transport due to the movement of water is one of the most important processes governing the fate of constituents in a wetland environment, and a firm understanding of hydrodynamic processes is necessary to develop effective management strategies for wetland wastewater treatment. In this paper, the equations of motion describing 2-D unsteady free-surface flow in a wetland environment are derived from basic principles. A numerical model based on the time-centered implicit scheme is developed. The motivation for developing the model lies in the need for a well-written, structured code that can be easily incorporated as part of an optimization model to determine management strategies for wetland wastewater treatment."
