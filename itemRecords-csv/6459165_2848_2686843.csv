@@ -1,0 +1,14 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-13-014
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,Model-free forecasting outperforms the correct mechanistic model for simulated and experimental data
+3,Author:,"Perretti, Charles T."
+4,,"Munch, Stephan B."
+5,,"Sugihara, George"
+6,Publication Year :,2013
+7,Source Citation:,"""Proceedings of the National Academy of Sciences,"" 110(13):5253-​5257, March 2013."
+8,DOI #:,10.1073/pnas.12​16076110
+9,# Pages / Video Length:,5
+10,Publication Type:,reprints (peer-reviewed)
+11,Project #:,E/PD-9
+12,Abstract:,"Accurate predictions of species abundance remain one of the most vexing challenges in ecology. This observation is perhaps unsurprising, because population dynamics are often strongly forced and highly nonlinear. Recently, however, numerous statistical techniques have been proposed for fitting highly parameterized mechanistic models to complex time series, potentially providing the machinery necessary for generating useful predictions. Alternatively, there is a wide variety of comparatively simple model-free forecasting methods that could be used to predict abundance. Here we pose a rather conservative challenge and ask whether a correctly specified mechanistic model, fit with commonly used statistical techniques, can provide better forecasts than simple model-free methods for ecological systems with noisy nonlinear dynamics. Using four different control models and seven experimental time series of flour beetles, we found that Markov chain Monte Carlo procedures for fitting mechanistic models often converged on best-fit parameterizatio​ns far different from the known parameters. As a result, the correctly specified models provided inaccurate forecasts and incorrect inferences. In contrast, a model-free method based on state-space reconstruction gave the most accurate short-term forecasts, even while using only a single time series from the multivariate system. Considering the recent push for ecosystem-based management and the increasing call for ecological predictions, our results suggest that a flexible model-free approach may be the most promising way forward."

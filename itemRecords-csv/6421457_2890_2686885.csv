@@ -1,0 +1,15 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-12-032
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,A Bayesian hierarchical model of size-at-age in ocean-harvested stocks - quantifying effects of climate and temporal variability
+3,Author:,"Satterthwaite, William Hallowell"
+4,,"Mohr, Steven Michael"
+5,,"O'Farrell, Michael Robert"
+6,,"Wells, Brian Kenneth"
+7,Publication Year :,2012
+8,Source Citation:,"""Canadian Journal of Fisheries and Aquatic Sciences,"" 69(5):942-954, May 2012."
+9,DOI #:,10.1139/F2012-​036
+10,# Pages / Video Length:,13
+11,Publication Type:,reprints (peer-reviewed)
+12,Project #:,R/OPCFISH-10
+13,Abstract:,"Quantifying size-at-age in harvested marine fish populations is a challenge with implications for both conservation and management. We describe a Bayesian hierarchical modeling approach for estimating mean and variation in size-at-age, incorporating environmental covariates. We apply the approach to two runs of Sacramento River Chinook salmon (Oncorhynchus tshawytscha): one data-rich (fall) and one data-poor (winter). We combine information on the size of recreationally harvested tagged fish and fishery size limits to reconstruct time-dependent marine size distributions. Our framework allows informed modeling of environmental effects on size-at-age, estimation of annual variability without overfitting, estimating size in years with limited data, and projecting sizes in future years. We found that fall run fish are anomalously small in years following Novembers with low values of the Northern Oscillation Index (NOI). Winter run data did not include anomalously low NOI years, but typical annual variability could be quantified. Importantly, our results suggest that it is possible to predict small size and slow growth during the upcoming fishery season on the basis of an environmental index available months in advance."

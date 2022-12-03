@@ -1,0 +1,14 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-13-026
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,Nonparametric forecasting outperforms parametric methods for a simulated multispecies system
+3,Author:,"Perretti, Charles T."
+4,,"Sugihara, George"
+5,,"Munch, Stephanie B."
+6,Publication Year :,2013
+7,Source Citation:,"""Ecology,"" 94(4):794-800, April 2013."
+8,DOI #:,10.1890/12-​0904.1
+9,# Pages / Video Length:,7
+10,Publication Type:,reprints (peer-reviewed)
+11,Project #:,E/PD-9
+12,Abstract:,"Ecosystem dynamics are often complex, nonlinear, and characterized by critical thresholds or phase shifts. To implement sustainable management plans, resource managers need to accurately forecast species abundance. Moreover, an ecosystem-based approach to management requires forecasting the dynamics of all relevant species and the ability to anticipate indirect effects of management decisions. It is therefore crucial to determine which forecasting methods are most robust to observational and structural uncertainty. Here we describe a nonparametric method for multispecies forecasting and evaluate its performance relative to a suite of parametric models. We found that, in the presence of noise, it is often possible to obtain more accurate forecasts from the nonparametric method than from the model that was used to generate the data. The inclusion of data from additional species yielded a large improvement for the nonparametric model, a smaller improvement for the control model, and only a slight improvement for the alternative parametric models. These results suggest that flexible nonparametric modeling should be considered for ecosystem management."

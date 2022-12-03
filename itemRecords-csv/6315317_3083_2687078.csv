@@ -1,0 +1,15 @@
+,MetadataField,Metadata
+0,NSGL Document #:,NCU-WR-11-003
+1,Sea Grant Program/Affiliate:,North Carolina Sea Grant
+2,Title:,Landscape dynamics from LiDAR data time series
+3,Author:,"Mitasova, Helena"
+4,,"Hardin, Eric"
+5,,"Starek, Michael J."
+6,,"Harmon, Russell S."
+7,,"Overton, Margery F."
+8,Publication Year :,2011
+9,Source Citation:,"""Geomorphometry 2011,"" Redlands, California, September 7-11, 2011."
+10,# Pages / Video Length:,4
+11,Publication Type:,reprints (not peer-reviewed)
+12,URL:,http://www.geom​orphometry.org/​Mitasova2011
+13,Abstract:,"We propose a multidimensiona​l framework for characterizatio​n of land surface dynamics based on time series of elevation data acquired by LiDAR technology. The proposed methods integrate line feature, surface and volume analysis. A novel, least cost path approach for coastal dune ridge and dune toe extraction is presented to support automated feature evolution analysis. Per-cell statistics is applied to DEM time series to extract the stable landscape core and map the extent of land surface dynamics. Voxel representation of terrain evolution within spacetime cube is explored and used to visualize contour evolution. The framework is applied to analysis of barrier island dynamics using time series of airborne LiDAR data acquired over the past decade. Field-scale elevation change is studied based on terrestrial LiDAR surveys and flow patterns. Impact of terrain modification on flow pattern is investigated using Tangible Geospatial Modeling System."

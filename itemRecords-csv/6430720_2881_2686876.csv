@@ -1,0 +1,13 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-12-038
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,TopCAT-​topographical compartment analysis tool to analyze seacliff and beach change in GIS
+3,Author:,"Olsen, Michael J."
+4,,"Young, Adam P."
+5,,"Ashford, Scott A."
+6,Publication Year :,2012
+7,Source Citation:,"""Computers & Geosciences,"" 45:284-292, August 2012."
+8,# Pages / Video Length:,9
+9,Publication Type:,reprints (peer-reviewed)
+10,Project #:,R/OE-39
+11,Abstract:,"This paper discusses the development of a new GIS extension named the Topographic Compartment Analysis Tool (TopCAT), which compares sequential digital elevation models (DEMs) and provides a quantitative and statistical analysis of the alongshore topographical change. TopCAT was specifically designed for the morphological analysis of seacliffs and beaches but may be applied to other elongated features which experience topographical change, such as stream beds, river banks, coastal dunes, etc. To demonstrate the capabilities of TopCAT two case studies are presented herein. The first case examines coastal cliff retreat for a 500 m section in Del Mar, California and shows that large failures comprised a large portion of the total eroded volume and the average retreat rate does not provide a good estimate of local maximum cliff retreat. The second case investigates the alongshore volumetric beach sand change caused by hurricane Bonnie (1998) for an 85 km section in the Cape Hatteras National Seashore, North Carolina. The results compare well (generally within 6%) with previous investigations. These case studies highlight additional information gained through performing a detailed, discretized analysis using TopCAT"

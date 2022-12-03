@@ -1,0 +1,18 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-18-056
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,IsoFishR: An application for reproducible data reduction and analysis of strontium isotope ratios (87Sr/86Sr) obtained via laser-ablation MC-ICP-MS
+3,Author:,"Willmes, Malte"
+4,,"Ransom, Katherine M."
+5,,"Lewis, Levi S."
+6,,"Denney, Christian T."
+7,,"Glessner, Justin J. G."
+8,,"Hobbs, James A."
+9,Publication Year :,2018
+10,Source Citation:,"PLoS ONE, 13(9):e0204519, September 27, 2018"
+11,DOI #:,10.1371/journal​.pone.0204519
+12,# Pages / Video Length:,15
+13,Publication Type:,reprints (peer-reviewed)
+14,Project #:,R/SF-82
+15,Notes:,Open Access
+16,Abstract:,"The IsoFishR application is a data reduction and analysis tool for laser-ablation strontiumisotop​e data, following common best practices and providing reliable and reproducibleres​ults. Strontium isotope ratios (87Sr/86Sr) are a powerful geochemical tracer commonlyapplied in a wide range of scientific fields and laser-ablation inductively coupled mass spectrometryis considered the method of choice to obtain spatially resolved 87Sr/86Sr isotoperatios from a variety of sample materials. However, data reduction and analyses methodsare variable between different research groups and research communities limiting reproducibility​between studies. IsoFishR provides a platform to standardize these methods and canbe used for both spot and time-resolved line transects. Furthermore, it provides advanceddata analysis tools and filters for outlier removal, noise reduction, and visualization of timeresolved data. The application can be downloaded from GitHub (https://github​.com/MalteWillm​es/IsoFishR) and the source code is available, encouraging future developmentand evolution of this software."

@@ -1,0 +1,16 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-11-031
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,New automated point-cloud alignment for ground-based light detection and ranging data of long coastal sections
+3,Author:,"Olsen, Michael J."
+4,,"Johnstone, Elizabeth"
+5,,"Kuester, Falko"
+6,,"Driscoll, Neal"
+7,,"Ashford, Scott A."
+8,Publication Year :,2011
+9,Source Citation:,"""Journal of Surveying Engineering,"" 137(1):14-25, February 1, 2011."
+10,DOI #:,10.1061/(ASCE)S​U.1943-​5428.0000030
+11,# Pages / Video Length:,12
+12,Publication Type:,reprints (peer-reviewed)
+13,Project #:,R/OE-39
+14,Abstract:,"This paper presents new techniques with corresponding algorithms to automate three-​dimensional point-cloud georeferencing for large-scale data sets collected in dynamic environments where typical controls cannot be efficiently employed. Beam distortion occurs at the scan window edges of long-range scans on near-linear surfaces from oblique laser reflections. Coregistration of adjacent scans relies on these overlapping edges, so alignment errors quickly propagate through the data set unless constraints origin and leveling information are incorporated throughout the alignment process. This new methodology implements these constraints with a multineighbor least-squares approach to simultaneously improve alignment accuracy between adjacent scans in a survey and between time-series surveys, which need to be aligned separately for quantitative change analysis. A 1.4-km test survey was aligned without the aforementioned constraints using global alignment techniques, and the modified scan origins showed poor agreement up to 8 m with measured real-time kinematic global positioning system values. Further, the effectiveness of the constrained multineighbor alignments to minimize error propagation was evidenced by a lower average, range, and standard deviation of RMS values compared with various single neighbor techniques."

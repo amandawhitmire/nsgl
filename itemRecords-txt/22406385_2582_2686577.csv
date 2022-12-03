@@ -1,0 +1,19 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-17-036
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,Modeling pesticide diuron loading from the San Joaquin watershed into the Sacramento-San Joaquin Delta using SWAT
+3,Author:,"Chen, Huajin"
+4,,"Luo, Yuzhou"
+5,,"Potter, Christopher"
+6,,"Moran, Patrick J."
+7,,"Grieneisen, Michael L."
+8,,"Zhang, Minghua"
+9,Publication Year :,2017
+10,Source Citation:,"Water Research, 121:374-385, 2017"
+11,DOI #:,10.1016/j.watre​s.2017.05.032
+12,Publisher:,Elsevier
+13,# Pages / Video Length:,12
+14,Publication Type:,reprints (peer-reviewed)
+15,Grant/Contract #:,NA14OAR4170075
+16,Project #:,R/SF-78
+17,Abstract:,"Quantifying pesticide loading into the Sacramento-San Joaquin Delta of northern California is critical for water quality management in the region, and potentially useful for biological weed control planning. In this study, the Soil and Water Assessment Tool (SWAT) was applied to model streamflow, sediment, and pesticide diuron loading in the San Joaquin watershed, a major contributing area to the elevated pesticide levels in the downstream Delta. The Sequential Uncertainty Fitting version 2 (SUFI-2) algorithm was employed to perform calibration and uncertainty analysis. A combination of performance measures(PMs) and standardized performance evaluation criteria (PEC) was applied to evaluate model performance, while prediction uncertainty was quantified by 95% prediction uncertainty band (95PPU). Results showed that streamflow simulation was at least “satisfactory” at most stations, with more than 50% of the observed data bracketed by the 95PPU. Sediment simulation was rated as at least “satisfactory” based on two PMs, and diuron simulation was judged as “good” by all PMs. The 95PPU of sediment and diuron bracketed about 40% and 30% of the observed data, respectively. Significant correlations were observed between the diuron loads, and precipitation, streamflow, and the current and antecedent pesticide use.Results also showed that the majority (>70%) of agricultural diuron was transported during winter months, when direct exposure of biocontrol agents to diuron runoff is limited. However, exposure in the dry season could be a concern because diuron is relatively persistent in aquatic system. This study not only provides valuable information for the development of biological weed control plan in the Delta, but also serves as a foundation for the continued research on calibration, evaluation, and uncertainty analysis of spatially distributed, physically based hydrologic models."

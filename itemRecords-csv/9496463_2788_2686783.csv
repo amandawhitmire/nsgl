@@ -1,0 +1,15 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-14-013
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,Using areas-as-fleets selectivity to model spatial fishing: Asymptotic curves are unlikely under equilibrium conditions
+3,Author:,"Waterhouse, Lynn"
+4,,"Sampson, David B."
+5,,"Maunder, Mark"
+6,,"Semmens, Brice X."
+7,Publication Year :,2014
+8,Source Citation:,"Fisheries Research, 158:15-25, October 2014."
+9,DOI #:,10.1016/j.fishr​es.2014.01.009
+10,Publisher:,Elsevier
+11,# Pages / Video Length:,11
+12,Publication Type:,reprints (peer-reviewed)
+13,Abstract:,"Most population models and stock assessment approaches assume that fish and fishing are spatially uniform. Here, we examine the effects of spatial structure on fishery selection (selectivity). Selectivity refers to the fact that age- or size-classes of fish are not equally vulnerable to fishing; such differences in class-specific vulnerabilities will influence the age-structure of a fish stock, which in turn will determine the stock’s productivity and ability to sustain harvest. The selectivity of the gear produces a characteristic selection curve that is generally assumed to be asymptotic. However, population-​level selection curves can deviate considerably from an asymptotic shape given spatial structure in the population. For exam-ple, given time-invariant recruitment and time-invariant age-specific survival, the shape of the selection curve at the level of the population will be dome-shaped under a wide range of conditions, even though the gear-selection curves operating in common in all areas within the population are asymptotic. This paper explores the factors, under equilibrium conditions, influencing the areas-as-fleets selection curves that result from using selectivity coefficients to represent spatial catch-at-age in a non-spatial population dynamics model. We use a simplified set of survival equations from Sampson and Scott (Can. J. Fish. Aquat.Sci. 68 (2011) 1077–1086), in which there are three distinct spatial regions with the same asymptotic selection curve operating in each region, and show that while the overall population-​selectivity is typically dome shaped, the corresponding areas-as-fleets selection curve shapes differ from each other and from the population-​selection and gear-selection curves. Factors that influence how much the selectivity curves differ from each other include the magnitude of the differences in the regional fishing mortality rates, the rates of fish movement and whether the movements are diffusive or directional, and the regional distribution of the recruits. If fish movement rates are relatively slow (say, less than 20% per time-step),then in nearly all cases areas-as-fleets selectivity will differ from the underlying gear-​selectivity, except under the extraordinary conditions of equal recruitment and equal fishing mortality across all spatial regions."

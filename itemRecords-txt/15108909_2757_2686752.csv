@@ -1,0 +1,11 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-06-034
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,Using multi-angle scattered sound to size fish swimbladders
+3,Author:,"Jaffe, Jules S."
+4,Publication Year :,2006
+5,Source Citation:,"ICES Journal of Marine Science, 63:1397-1404, 2006"
+6,DOI #:,10.1016/j.icesj​ms.2006.04.024
+7,# Pages / Video Length:,8
+8,Publication Type:,reprints (peer-reviewed)
+9,Abstract:,"Common current practice in fisheries acoustics is to use sound that has been backscattered at 180 degrees in order to infer parameters of individual or aggregations of animals. This article proposes that there is interesting information that can be obtained by processing scatter from other observation angles. Using a simple one-dimensional model of scatter from a fish swimbladder, an expression is derived that predicts the location of the nulls of the scattered sound as a function of transmit angle, observation angle, and tilt. The model was used retrospectively to compute the size of a swimbladder from an existing data set (that of Foote, K. G. 1985. Rather-​high-​frequency sound scattering by swimbladdered fish. Journal of the Acoustical Society of America, 78: 688e700), with good agreement. In order to pursue the development of a pragmatic collection system, a method is suggested that uses a single transmitter with multiple receivers. The locations of the receivers can be determined using a design methodology that considers bandwidth, centre frequency, and the size of the intended object. The method ensures that a spatially unaliased backscattered waveform can be measured over a specified sampling interval. The technique is illustrated with a practical example that uses a small number of receivers, placed in the backscattered hemisphere."

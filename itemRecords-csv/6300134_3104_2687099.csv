@@ -1,0 +1,16 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-09-055
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,Effects of small-scale features and local wind forcing on tracer dispersion and estimates of population connectivity in a regional scale circulation model
+3,Author:,"Rasmussen, L. L."
+4,,"Cornuelle, B. D."
+5,,"Levin, L. A."
+6,,"Largier, J. L."
+7,,"Di, Lorenzo E."
+8,Publication Year :,2009
+9,Source Citation:,"Journal of Geophysical Research, 114:C01012 1-18, 2009"
+10,DOI #:,10.1029/2008JC0​04777
+11,# Pages / Video Length:,18
+12,Publication Type:,reprints (peer-reviewed)
+13,Project #:,R/ANS-209
+14,Abstract:,"A small-scale model of the Southern California-​Northern Baja California coastline has been developed to explore dispersion over the continental shelf, with specific attention to physical parameters pertinent to simulations of larval dispersal and population connectivity. The ROMS simulation employs a nested grid system, with an inner domain resolution of 600 m and an outer domain resolution of 1.5 km. Realistic bathymetry and forcing were employed to investigate the effects of passive transport of tracers introduced at locations with known communities of mytilid mussels along the coastline. The effects of topographic resolution, boundary conditions, and choice of meteorological forcing products on dispersion rates, tracer trajectories, and the subsequent measures of population connectivity were examined. In particular, the choice of wind forcing product resulted in different circulation patterns and tracer trajectories and had especially important consequences on measures of larval connectivity such as self-seeding, potential for larval settlement (import), and contribution to the pool of available larvae (export). While some forcing products performed better when model data were compared to field measurements, no product was clearly superior. The uncertainty in results, which may appear minor in larger-scale temperature or surface velocity fields, is significant when examining a sensitive passive tracer. This modeling uncertainty needs to be addressed when interpreting connectivity results."

@@ -1,0 +1,10 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CUIMR-T-86-007
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,Sampling surveys for highly aggregated populations
+3,Author:,"Mangel, Marc"
+4,Publication Year :,1986
+5,# Pages / Video Length:,49
+6,Publication Type:,technical reports/surveys​/patents
+7,Project #:,R/F-109
+8,Abstract:,"In this paper, a number of sampling problems for populations that have an underlying negative binomial distribution with a mean m and aggregation parameter k are discussed. It is assumed that k is known but m is unknown, with a prior distribution f0(m). The objective is to determine if m exceeds a critical level mc. Three models are introduced: presence-​absence sampling when all sampling sites are habitats, presence-​absence sampling when a site may not be a habitat, and actual updating of the mean. Both fixed sample and sequential procedures are described; the problem of knowing when a habitat has been exited is also discussed. A new model for aggregation is proposed."

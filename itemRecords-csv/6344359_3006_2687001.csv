@@ -1,0 +1,10 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-Y-10-017
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,Finding categories
+3,Author:,"Fulkerson, Brian Daniel"
+4,Publication Year :,2010
+5,# Pages / Video Length:,144
+6,Publication Type:,theses/disserta​tions
+7,Project #:,E/UG-4
+8,Abstract:,"Assigning categorical labels to objects in images has proven to be a Significant challenge for automated systems. As cameras rapidly proliferate our society, however, we will necessarily depend more heavily on computers to help us label and sort our images. This work addresses the problem of trying to assign categorical labels to images. We contend that to do this task effectively, we should consider also which part of the image contains the object. We examine the sensitivity of feature detection to nuisances and propose a new feature detector based on a tree of segmentations. When a detector is not required, we describe a fast adaptation that extracts a popular descriptor (SIFT) on a dense grid on the image. Next, we show that a dictionary constructed for the task of categorization can be both smaller and more accurate than one constructed to represent the data alone. We explore splitting descriptors along segmentation boundaries, and show that knowing which part of an image contains the object can make a large difference in accuracy. With these pieces, we construct a fast and accurate pixel-level categorization technique. Then, we move from pixels to small homogeneous collections of pixels (superpixels) and exploit the neighborhood structure of these to form precise superpixel-​level categorization. Finally, the appendix discusses open software we have developed and released including a GPU implementation of a segmentation algorithm (quick shift) and a MATLAB experiment framework (Blocks) which implements the techniques described in the thesis."

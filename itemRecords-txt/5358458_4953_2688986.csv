@@ -1,0 +1,11 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-R-85-012
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,Sonar detection of riverine fish using the pulse pair covariance Doppler frequency estimator
+3,Author:,"Waite, James W."
+4,,"Belcher, Edward O."
+5,Publication Year :,1985
+6,Source Citation:,"""Oceans '85,"" IEEE/MTS Conference and Exposition, San Diego, California, November 12-14, 1985."
+7,Publication Type:,reprints (peer-reviewed)
+8,Program Report #:,WSG-TA 85-12
+9,Abstract:,"Detecting riverine fish by sonar is a difficult problem because of volume and boundary reverberation. For fish migrating upstream, counter to the flow of the current and debris, estimation of the Doppler shift can significantly increase the accuracy of the fish counts. A prototype system using this principle is described here. An advanced, cost-effective microcomputer system performs all signal processing tasks in real time. Detected fish are indicated on a monitor for operator verification, and a count of the fish is maintained automatically. The system gives good results except in rivers with extreme reverberation."

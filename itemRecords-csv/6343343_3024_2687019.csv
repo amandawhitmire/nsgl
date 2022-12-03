@@ -1,0 +1,14 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-11-040
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,Modeling surf zone tracer plumes: 2. Transport and dispersion
+3,Author:,"Clark, David B."
+4,,"Feddersen, Falk"
+5,,"Guza, R. T."
+6,Publication Year :,2011
+7,Source Citation:,"""Journal of Geophysical Research,"" 16(C11028), published online [doi: 10.1029/2011JC0​07211], 2011."
+8,DOI #:,10.1029/2011JC0​07211
+9,# Pages / Video Length:,12
+10,Publication Type:,reprints (peer-reviewed)
+11,Project #:,R/CA-196
+12,Abstract:,"Five surf zone dye tracer releases from the HB06 experiment are simulated with a tracer advection diffusion model coupled to a Boussinesq surf zone model (funwaveC). Model tracer is transported and stirred by currents and eddies and diffused with a breaking wave eddy diffusivity, set equal to the breaking wave eddy viscosity, and a small (0.01 m2 s−1) background diffusivity. Observed and modeled alongshore parallel tracer plumes, transported by the wave driven alongshore current, have qualitatively similar cross‐sho​re structures. Although the model skill for mean tracer concentration is variable (from negative to 0.73) depending upon release, cross‐sho​re integrated tracer moments (normalized by the cross‐sho​re tracer integral) have consistently high skills (≈0.9). Modeled and observed bulk surf zone cross‐sho​re diffusivity estimates are also similar, with 0.72 squared correlation and skill of 0.4. Similar to the observations, the model bulk (absolute) cross‐sho​re diffusivity is consistent with a mixing length parameterizatio​n based on low‐frequ​ency (0.001-0.03 Hz) eddies. The model absolute cross‐sho​re dispersion is dominated by stirring from surf zone eddies and does not depend upon the presence of the breaking wave eddy diffusivity. Given only the bathymetry and incident wave field, the coupled Boussinesq̴​8;tracer model qualitatively reproduces the observed cross‐sho​re absolute tracer dispersion, suggesting that the model can be used to study surf zone tracer dispersion mechanisms."

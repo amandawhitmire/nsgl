@@ -1,0 +1,16 @@
+,MetadataField,Metadata
+0,NSGL Document #:,SCU-R-11-001
+1,Sea Grant Program/Affiliate:,Southern California Sea Grant
+2,Title:,"Testing a New acoustic telemetry technique to quantify long-term, fine-scale movements of aquatic animals"
+3,Author:,"Espoinoza, Mario"
+4,,"Farrugia, Thomas J."
+5,,"Webber, Dale M."
+6,,"Smith, Frank"
+7,,"Lowe, Christopher G."
+8,Publication Year :,2011
+9,Source Citation:,"Fisheries Research, 108(2-3): 364-371, March 2011"
+10,DOI #:,10.1016/j.fishr​es.2011.01.011
+11,# Pages / Video Length:,8
+12,Publication Type:,reprints (peer-reviewed)
+13,Program Report #:,USCSG-R-02-2011
+14,Abstract:,"The evolution and improvement of novel applications on acoustic telemetry technology are driven mainly by the need to address more complex behavioral, ecological and physiological questions. A new Vemco VR2W Positioning System (VPS) is described and tested here using an array of 16 VR2W acoustic monitoring receivers and 8 fixed synchronizing transmitters. VPS positioning algorithm is based on the 3-receiver time-difference-of-arrival (TDOA) algorithm used by the existing Vemco VRAP system, extended to work with an array of three or more receivers that do not have synchronized clocks. The positional accuracy and performance of the VPS was estimated on a stationary and a slow-moving coded transmitter, and on two free-swimming elasmobranch species. Mean positional accuracy (�SD) of VPS estimates from a stationary transmitter deployed at several locations within the receiver array was 2.64 � 2.32 m. Positional error was significantly lower inside (2.13 � 1.31 m) than outside the array (5.12 � 4.11 m; p <0001). There were no significant differences in positional accuracy between stationary and moving tests (4.09 � 2.53 m; p = 0.067). Furthermore, home range estimates and movement parameters of two elasmobranch species tracked simultaneously with VPS and active tracking were statistically similar (p> 0.05). Our results suggest that the positional accuracy of the VPS is comparable to active tracking; however, researchers must consider specific environmental and biological variables when using the VPS. Additionally, the number, layout and proximity of acoustic receivers and synchronizing transmitters can improve considerably the performance of the VPS. The VPS provides a more efficient, less expensive approach to study and quantify fine-scale, long-term movements and habitat use of multiple individuals simultaneously, with the potential for improving our understanding on ecological and behavioral population level processes in aquatic environments"

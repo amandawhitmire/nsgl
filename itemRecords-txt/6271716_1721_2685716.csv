@@ -1,0 +1,13 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-09-043
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,Habitat suitability modelling of an invasive plant with advanced remote sensing data
+3,Author:,"Andrew, Margaret E."
+4,,"Ustin, Susan L."
+5,Publication Year :,2009
+6,Source Citation:,"""Diversity and Distributions,"" 15:627-640, 2009."
+7,DOI #:,10.1111/j.1472-​4642.2009.00568​.x
+8,# Pages / Video Length:,15
+9,Publication Type:,reprints (peer-reviewed)
+10,Project #:,R/SF-10
+11,Abstract:,"Aim Lepidium latifolium (Brassicaceae; perennial pepperweed) is a noxious Eurasian weed invading riparian and wetland areas of the western USA. Understanding which sites are most susceptible to invasion by L. latifolium will allow more efficient management of this weed. We assessed the ability of advanced remote sensing techniques to develop habitat suitability models for L. latifolium. Location San Francisco Bay/Sacramento-​San Joaquin River Delta, California, USA. Methods Lepidium latifolium distribution was mapped with hyperspectral image data of Rush Ranch Open Space Preserve, providing presence/absenc​e data to train and validate habitat models. A high-resolution light detection and ranging digital elevation model was used to derive predictor environmental variables (distance to channel, distance to upland, elevation, slope, aspect and convexity). Aggregate decision tree models were used to predict the potential distribution of this species. Results Lepidium latifolium infested two zones: near the marshland-​upland margin and along channels within the marsh. Topographical data, which are typically strongly correlated with wetland species distributions, were relatively unimportant to L. latifolium occurrence, although relevant microtopography information, particularly relative elevation, was subsumed in the distance to channel variable. The map of potential L. latifolium distribution reveals that Rush Ranch contains considerable habitat that it is susceptible to continued invasion. Main conclusions Lepidium latifolium invades relatively less stressful sites along the inundation and salinity gradients. Advanced remote sensing datasets were shown to be sufficient for species distribution modelling. Remote sensing offers powerful tools that deserve wider use in ecological research and management."

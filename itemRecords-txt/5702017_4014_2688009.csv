@@ -1,0 +1,12 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CUIMR-R-95-019
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,Segmented transducer design using an optimum mean square quantizer approach
+3,Author:,"McGehee, Duncan"
+4,,"Jaffe, Jules S."
+5,Publication Year :,1995
+6,Source Citation:,"""Journal of Acoustic Society of America,"" 97(4):2316-​2325, April 1995."
+7,# Pages / Video Length:,10
+8,Publication Type:,reprints (peer-reviewed)
+9,Project #:,R/OE-15
+10,Abstract:,"Production of a specified radiation pattern is a key part in the design of most acoustic systems. A uniformly excited transducer, while relatively straightforward in its construction, produces sidelobes that may be unacceptably high for a given application. This paper describes the optimum mean square quantizer approach as an optimal way to approximate a continuous shading using a small number of constant amplitude segments. Both the sizes and the amplitude levels of the elements are allowed to vary, permitting better performance for a fixed number of elements than might be achievable for the same number of equisized elements. Development is limited to two one-dimensional cases, the linear segmented transducer and the radially symmetric segmented transducer."

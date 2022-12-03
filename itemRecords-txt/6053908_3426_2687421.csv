@@ -1,0 +1,15 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-R-06-014
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,Probabilistic shoreline change modeling
+3,Author:,"Ruggiero, Peter"
+4,,"List, Jeff"
+5,,"Hanes, Dan"
+6,,"Eshleman, Jodi"
+7,Publication Year :,2006
+8,Source Citation:,"""30th International Conference on Coastal Engineering,"" San Diego, California, September 2006."
+9,# Pages / Video Length:,14
+10,Publication Type:,reprints (not peer-reviewed)
+11,Program Report #:,ORESU-R-06-014
+12,Project #:,R/CHN-14-PD
+13,Abstract:,"A methodology is developed in which a simple deterministic shoreline change model is applied in a probabilistic manner as one component of a quantitative coastal change hazards assessment. The main drivers of decadal-scale shoreline change, wave climate and sediment supply, are varied within a range of realistic scenarios to develop over 200 shoreline change model simulations. Through numerous SWAN wave simulations, a lookup table is developed to transform deep water wave conditions to the relatively shallow water offshore boundary of the shoreline change model. By applying the shoreline change model in a Monte Carlo sense, predicted probability density functions for shoreline position can be calculated at any location in the model domain. Approaches for the use of these probabilistic shoreline change modeling results by coastal managers to aid decision making are discussed."

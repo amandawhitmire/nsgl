@@ -1,0 +1,13 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-08-041
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,The role of environmental context in mapping invasive plants with hyperspectral image data
+3,Author:,"Andrew, Margaret E."
+4,,"Ustin, Susan L."
+5,Publication Year :,2008
+6,Source Citation:,"""Remote Sensing of Environment,"" 112:4301-4317, 2008."
+7,DOI #:,10.1016/j.rse.2​008.07.016
+8,# Pages / Video Length:,17
+9,Publication Type:,reprints (peer-reviewed)
+10,Project #:,R/SF-10
+11,Abstract:,"Lepidium latifolium (perennial pepperweed) is a noxious Eurasian weed invading riparian and wetland areas of the western US. Effective management of Lepidium requires detailed, accurate maps of its distribution, as may be provided by remote sensing, to contain existing infestations and eradicate incipient populations. We mapped Lepidium with 3 m spatial resolution, 128-band HyMap image data in three sites of California's San Francisco Bay/Sacramento-​San Joaquin Delta Estuary (Rush Ranch in Suisun Marsh and the Greater Jepson Prairie Ecosystem and the Cosumnes River Preserve in the Delta). These sites are markedly different in terms of hydrology, salinity, species composition, and structural and landscape diversity. Aggregated classification and regression tree models (CART), incorporating the results of mixture tuned matched filter (MTMF) analyses and spectral physiological indexes, were used to map Lepidium at the three sites. This approach was sufficiently flexible and robust to detect Lepidium with similar accuracies (~90%) at both Rush Ranch and Jepson Prairie, but was unsuccessful at Cosumnes River Preserve. Comparisons of the behavior of the MTMFs and the CARTs between sites reveal the importance of environmental context in species mapping. Rush Ranch presents the simplest conditions for mapping Lepidium: it is the wettest and least diverse site and Lepidium is spectrally distinct from co-occurring species. At Jepson Prairie, several co-occurring species closely resemble Lepidium spectrally. Nevertheless, hyperspectral data provide sufficient spectral detail to resolve Lepidium even at this challenging site, which is facilitated by phenological separation from the matrix of annual grasses. At Cosumnes River Preserve, however, Lepidium is neither spectrally nor phenologically distinct, and consequently could not be mapped successfully. Evidence suggests that the success of a remote sensing analysis declines as site complexity increases (species, structural, and landscape diversity; spectral variability; etc.), although this relationship is complex, indirect, and may be phenology-​dependent."

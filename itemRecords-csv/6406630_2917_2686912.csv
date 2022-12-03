@@ -1,0 +1,16 @@
+,MetadataField,Metadata
+0,NSGL Document #:,HAWAU-WR-91-002
+1,Sea Grant Program/Affiliate:,Hawaii Sea Grant
+2,Title:,Improved methods for undersea optical stationkeeping
+3,Author:,"Negahdaripour, S."
+4,,"Shokrollahi, A."
+5,,"Fox, J."
+6,,"Arora, S."
+7,Publication Year :,1991
+8,Source Citation:,"""IEEE International Conference on Robotics and Automation,"" Sacramento, California, April 9-11, 1991"
+9,DOI #:,10.1109/ROBOT.1​991.132048
+10,# Pages / Video Length:,7
+11,Publication Type:,reprints (not peer-reviewed)
+12,Program Report #:,UNIHI-​SEAGRANT-​CP-​91-​05
+13,Project #:,R/OE-11
+14,Abstract:,"A particular advantage of an optical stationkeeping system is its ability to use natural rather than man-made beacons. Improvements to previously reported optical flow methods for detecting vehicle motion are presented. Experimental results indicate that an adaptation of Newton-Raphson search combined with the use of a low-noise, high-accuracy camera drastically reduces the number of points at which computations need be done. Experiments with an algorithm which accounts for illumination variations one encounters in undersea environments show significant improvement in the estimation of vehicle motion."

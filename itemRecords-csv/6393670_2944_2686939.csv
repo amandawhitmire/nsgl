@@ -1,0 +1,16 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-10-052
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,MINOE: A software tool to analyze ocean management efforts in the context of ecosystems
+3,Author:,"Ekstrom, Julia A."
+4,,"Lau, Gloria T."
+5,,"Spiteri, Daniel J."
+6,,"Cheng, Jack C. P."
+7,,"Law, Kincho H."
+8,Publication Year :,2010
+9,Source Citation:,"""Coastal Management,"" 38(5):457-473, July 2010."
+10,DOI #:,10.1080/0892075​3.2010.498400
+11,# Pages / Video Length:,18
+12,Publication Type:,reprints (peer-reviewed)
+13,Project #:,R/OPCENV-02
+14,Abstract:,"Transitioning ocean governance into an integrated ecosystem-based approach requires improved knowledge of existing governance arrangements. This article presents a software tool, MINOE, to assist policymakers, scientists, and others involved in ecosystem-based management initiatives to navigate through management documents as they relate to a user-defined ecosystem. The tool uses a conceptually modeled ecosystem, defined by the user, and text analysis of a set of management-​related documents to determine which ecosystem linkages are potentially acknowledged in the documents. For illustration, the set of documents included with MINOE currently (and used to demonstrate the software in this article) are laws and regulations from four geopolitical jurisdictions for the year 2006; however, users may also import other documents for a more tailored application. Features include an interactive matrix containing results about the set of management documents within the user's scope and scale of interest. In addition, MINOE includes metrics and visualization tools to synthesize information derived from the documents. The article presents the software tool, describes potential uses for the tool, and ends with a discussion of future work to expand the program."

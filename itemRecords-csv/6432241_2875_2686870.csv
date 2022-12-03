@@ -1,0 +1,16 @@
+,MetadataField,Metadata
+0,NSGL Document #:,MIT-WR-12-008
+1,Sea Grant Program/Affiliate:,MIT Sea Grant
+2,Title:,"Hindcasting coastal flooding in Scituate (MA) during the Dec. 27, 2010 nor'easter)"
+3,Author:,"Beardsley, Robert C."
+4,,"Chen, Changsheng"
+5,,"Xu, Qichun"
+6,,"Qi, Jianhua"
+7,,"Lin, Huichan"
+8,Publication Year :,2012
+9,Source Citation:,"""American Geophysical Union (AGU) 2012 Fall Meeting,"" poster presentation OS11D-1684, San Francisco, California, December 3-7, 2012."
+10,# Pages / Video Length:,1
+11,Publication Type:,reprints (not peer-reviewed)
+12,Program Report #:,MITSG 12-27
+13,Project #:,2012-R/RC-127
+14,Abstract:,"As part of the Northeast Coastal Ocean Forecast System (NECOFS) and in collaboration with the Taunton NWS Weather Forecast Office, we have built a nested inundation forecast model system for Scituate (MA). Here we have used this system to hindcast the coastal flooding in Scituate during the Dec. 26-27 2010 Nor'easter. This classic storm started as a large extratropical low pressure system centered off North Carolina on Dec. 26 and strengthen into a gale as it approached Cape Cod and southeastern Massachusetts the next day. By 06 GMT Dec. 27, barometric pressure in Scituate had dropped 42 mb in 21 hrs, northeast winds had increased to 22 m/s, and waves offshore increased to 7.5 m. NECOFS uses a regional mesoscale weather model (WRF) to drive an unstructured-​grid ocean model (FVCOM) and surface wave model (SWAVE) to produce hindcast/foreca​sts of total water level, currents, and waves on a Northeast regional (GOM3) grid. The Scituate FVCOM inundation model includes flooding/drying​, seawall/dike, and wave-current interaction capabilities, and is driven by one-way nesting with NECOFS. Hindcasts were made with two grids, a base grid with resolution varying from 10 m to 100 m within the harbor and a second more refined grid with resolution up to 2 m. The Dec. 27 Nor'easter simulations made with a base grid indicate that inundation predicted within the harbor was realistic and agreed well with tidal measurements. Increasing the grid resolution down to 2 m within the harbor produced greater flooding in several shallow areas but did not change the maximum water level in the main harbor significantly. The inundation model system did not predict significant flooding caused by the wind-​wave-​current-​driven overtopping of the exposed northern seawall. This ""splash-over"" process is not included in the Scituate inundation forecast system at present but work has started on including this in the future. The computational effort and efficiency to product timely inundation forecasts with this system are discussed."

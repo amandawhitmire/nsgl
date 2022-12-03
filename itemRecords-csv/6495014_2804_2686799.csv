@@ -1,0 +1,9 @@
+,MetadataField,Metadata
+0,NSGL Document #:,NCU-Y-13-004
+1,Sea Grant Program/Affiliate:,North Carolina Sea Grant
+2,Title:,The value of connectivity information in the spatial management of marine Reserves
+3,Author:,"Schroeger, Julianna"
+4,Publication Year :,2013
+5,# Pages / Video Length:,27
+6,Publication Type:,theses/disserta​tions
+7,Abstract:,"As marine ecosystems continue to decline, the use of marine reserves is growing in popularity for conservation and management purposes. There are two distinct approaches typically used for designing reserve networks. The first is a static optimization, in which the desired amount of protected habitat and minimum reserve size is specified, and a computer algorithm is used to find the optimal reserve design. The software program Marxan (a simulated annealing algorithm) is commonly used in this method. The second approach uses spatially explicit population models, which include larval connectivity and population dynamics, to simulate the response of formerly fished populations in protected areas. Marxan is not designed to account for these factors. We investigated the possibility of improving Marxan's performance by including larval connectivity information in the optimization routine. We compared reserve networks designed with and without connectivity information for a region of coastal California. We then compared the performance of those networks in a population dynamics model of the region to determine which design criteria produced the highest overall fish biomass. In general, Marxan solutions that included connectivity information outperformed those using only habitat information. Our approach could be used to improve future Marxan design activities."

@@ -1,0 +1,15 @@
+,MetadataField,Metadata
+0,NSGL Document #:,OHSU-R-90-012
+1,Sea Grant Program/Affiliate:,Ohio Sea Grant
+2,Title:,A three-​dimensional/ste​reoscopic display and model control system for Great Lakes forecasts
+3,Author:,"Yen, Chieh-Cheng J."
+4,,"Bedford, Keith W."
+5,,"Kempf, Jill L."
+6,,"Marshall, Robert E."
+7,Publication Year :,1991
+8,Source Citation:,"""Visualization '90,"" Proceedings of the First IEEE Conference on Visualization, pp. 194-201, 473 and 474, San Francisco, California, October 23-26, 1990."
+9,# Pages / Video Length:,10
+10,Publication Type:,conference/work​shop proceedings
+11,Program Report #:,OHSU-RS-131
+12,Project #:,R/EM-11
+13,Abstract:,"A numerical model for forecasting currents, water levels and temperatures will be an important tool for predicting the effects of storms on the Great Lakes and facilitate planning for utilization of the Lakes' resources. An interactive visualization program is presented in this paper as well as the scenario testing part of the Forecasting System which also requires interactive visual procedures to set parameters and events for the numerical model. This combination leads to a two-part structure of the visualization system: the control part which oversees the model and the rendering program and directs the data flow between Cray supercomputer and Stardent graphics workstation; and the rendering program which has the necessary graphics and animation capabilities as well as the ability to recognize hydrodynamic features."

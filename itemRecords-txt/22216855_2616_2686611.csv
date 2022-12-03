@@ -1,0 +1,15 @@
+,MetadataField,Metadata
+0,NSGL Document #:,LSU-R-16-018
+1,Sea Grant Program/Affiliate:,Louisiana Sea Grant
+2,Title:,Valley and channel networks extraction based on local topograph​ic curvature and k-means clustering of contours
+3,Author:,"Hooshyar, Milad"
+4,,"Wang, Dingbao"
+5,,"Kim, Seoyoung"
+6,,"Medeiros, Stephen C."
+7,,"Hagen, Scott C."
+8,Publication Year :,2016
+9,Source Citation:,"Water Resources Research, 52:8081–8102, October 2016"
+10,DOI #:,10.1002/2015WR0​18479
+11,# Pages / Video Length:,22
+12,Publication Type:,reprints (peer-reviewed)
+13,Abstract:,"A method for automatic extraction of valley and channel networks from high-resolution digital elevation models (DEMs) is presented. This method utilizes both positive (i.e., convergent topography) and negative (i.e., divergent topography) curvature to delineate the valley network. The valley and ridge skele-tons are extracted using the pixels’ curvature and the local terrain conditions. The valley network is generat-ed by checking the terrain for the existence of at least one ridge between two intersecting valleys. The transition from unchannelized to channelized sections (i.e., channel head) in each ﬁrst-order valley tributary is identiﬁed independently by categorizing the corresponding contours using an unsupervised approach based on k-means clustering. The method does not require a spatially constant channel initiation threshold (e.g., curvature or contributing area). Moreover, instead of a point attribute (e.g., curvature), the proposed clustering method utilizes the shape of contours, which reﬂects the entire cross-sectional proﬁle including possible banks. The method was applied to three catchments: Indian Creek and Mid Bailey Run in Ohio and Feather River in California. The accuracy of channel head extraction from the proposed method is compara-ble to state-​of-​the-​art channel extraction methods."

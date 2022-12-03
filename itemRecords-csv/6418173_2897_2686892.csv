@@ -1,0 +1,12 @@
+,MetadataField,Metadata
+0,NSGL Document #:,HAWAU-WR-93-002
+1,Sea Grant Program/Affiliate:,Hawaii Sea Grant
+2,Title:,A Learning control of underwater robotic vehicles with thruster dynamics
+3,Author:,"Yuh, Junku"
+4,Publication Year :,1993
+5,Source Citation:,"""Proceedings of the American Control Conference l,"" pp. 565-569, San Francisco, California, June 2-4, 1993."
+6,# Pages / Video Length:,4
+7,Publication Type:,reprints (not peer-reviewed)
+8,Program Report #:,UNIHI-​SEAGRANT-​CP-​93-​06
+9,Project #:,R/OE-13
+10,Abstract:,Most vehicle control systems based on the simplified vehicle model often result in poor performance because of the nonlinear and time-varying vehicle dynamics as well as thruster dynamics. It is desired to have an advanced control system with capability of learning and adapting to changes in the vehicle dynamics and parameters. This paper describes a learning control system using neural networks for under-water robotic vehicles having a velocity-​controlled thruster system. Its effectiveness was investigated by simulation with a single thruster system.

@@ -1,0 +1,20 @@
+,MetadataField,Metadata
+0,NSGL Document #:,MIT-WR-10-003
+1,Sea Grant Program/Affiliate:,MIT Sea Grant
+2,Title:,FPGA-based spectral envelope preprocessor for power monitoring and control
+3,Author:,"Remscrim, Zachary"
+4,,"Paris, James"
+5,,"Leeb, Steven B."
+6,,"Shaw, Steven R."
+7,,"Neuman, Sabrina"
+8,,"Schantz, Christopher"
+9,,"Muller, Sean"
+10,,"Page, Sarah"
+11,Publication Year :,2010
+12,Source Citation:,"""Twenty-Fifth Annual IEEE Applied Power Electronics Conference and Exposition (APEC),"" pp. 2194-2201, Palm Springs, California, February 21-25, 2010."
+13,DOI #:,10.1109/APEC.20​10.5433541
+14,# Pages / Video Length:,8
+15,Publication Type:,reprints (peer-reviewed)
+16,Program Report #:,MITSG 10-27
+17,Project #:,2007-R/RD-37
+18,Abstract:,"Smart Grid and Smart Meter initiatives seek to enable energy providers and consumers to intelligently manage their energy needs through real-time monitoring, analysis, and control. We have developed an inexpensive FPGA implementation of a spectral envelope preprocessor. This FPGA permits cost-effective and richly detailed power consumption monitoring for individual loads or collections of loads. It permits a flexible trade-off between data transmission, storage, and computation requirements in a power monitoring or control system. The information from the FPGA can be used to coordinate the operation of power electronic controls."

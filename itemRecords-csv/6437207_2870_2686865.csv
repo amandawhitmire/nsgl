@@ -1,0 +1,12 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-13-006
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,Implementing a statistical catch-at-age model (stock synthesis) as a tool for deriving overfishing limits in data-limited situations
+3,Author:,"Cope, Jason M."
+4,Publication Year :,2013
+5,Source Citation:,"""Fisheries Research,"" 142:3-14, May 2013."
+6,DOI #:,10.1016/j.fishr​es.2012.03.006
+7,# Pages / Video Length:,12
+8,Publication Type:,reprints (peer-reviewed)
+9,Project #:,R/OPCFISH-13
+10,Abstract:,"Stock Synthesis (SS) is a likelihood-​based statistical catch-at-age modeling environment allowing multiple data sources to be used to characterize population dynamics through time. While it is typically applied in data-rich circumstances, its suitability in data-limited situations is investigated in this work. Two ""Simple Stock Synthesis"" (SSS) approaches are outlined, each developed to mimic the Depletion-Based Stock Reduction Analysis (DB-SRA) estimation of overfishing limits (OFLs) currently applied to data-limited U.S. west coast groundfish species. SSS-MC uses Monte Carlo draws of natural mortality, steepness, and stock depletion and estimates initial recruitment, while SSS-MCMC estimates natural mortality, steepness, and initial recruitment while fitting to an artificial abundance survey representing stock depletion with an error distribution equivalent to the stock depletion prior used in DB-SRA. These approaches are applied to 45 species of unassessed groundfishes in the Pacific Fishery Management Council Groundfish Fishery Management Plan, and the OFL estimates are compared to corresponding DB-SRA estimates. Despite model structure and parameter specification differences, SSS led to results comparable to DB-SRA over a wide range of species and life histories. SSS models with sex-specific life history parameters and growth variability are also presented as examples of how the inherent flexibility of SS can be used to account for more uncertainty in derived quantities. SSS-MCMC, while exhibiting statistically undesirable traits due to the inclusion of the artificial survey, readily includes data-informed abundance surveys into an assessment framework consistent with more complex, data-informed assessments. Establishment of viable data-limited approaches in SS is a convenient first steps in ""building-up"" stock assessments towards fuller implementation in SS when additional data become available, while also providing a way to inform management in data-limited situations."

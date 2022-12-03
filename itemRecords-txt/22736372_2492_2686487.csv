@@ -1,0 +1,24 @@
+,MetadataField,Metadata
+0,NSGL Document #:,SCU-R-20-006
+1,Sea Grant Program/Affiliate:,Southern California Sea Grant
+2,Title:,"The Importance of Environmental Exposure History in Forecasting Dungeness Crab Megalopae Occurrence Using J-SCOPE, a High-Resolution Model for the US Pacific Northwest"
+3,Author:,"Norton, Emily L."
+4,,"Siedlecki, Samantha"
+5,,"Kaplan, Issac C."
+6,,"Hermann, Albert J."
+7,,"Fisher, Jennifer L."
+8,,"Morgan, Cheryl A."
+9,,"Officer, Suzanna"
+10,,"Saenger, Casey"
+11,,"Alin, Simone R."
+12,,"Newton, Jan"
+13,,"Bednarsek, Nina"
+14,,"Feely, Richard, A."
+15,Publication Year :,2020
+16,Source Citation:,"Frontiers in Marine Science, 7: Article 102, February 25, 2020"
+17,DOI #:,10.3389/fmars.2​020.00102
+18,Publisher:,Frontiers
+19,# Pages / Video Length:,18
+20,Publication Type:,reprints (peer-reviewed)
+21,Notes:,Open access
+22,Abstract:,"The Dungeness crab (Metacarcinus magister) fishery is one of the highest value fisheries in the US Pacific Northwest, but its catch size fluctuates widely across years. Although the underlying causes of this wide variability are not well understood, the abundance of M. magister megalopae has been linked to recruitment into the adult fishery 4 years later. These pelagic megalopae are exposed to a range of ocean conditions during their dispersal period, which may drive their occurrence patterns. Environmental exposure history has been found to be important for some pelagic organisms, so we hypothesized that inclusion of recent environmental exposure history would improve our ability to predict inter-annual variability in M. magister megalopae occurrence patterns compared to using “in situ” conditions alone. We combined 8 years of local observations of M. magister megalopae and regional simulations of ocean conditions to model megalopae occurrence using a generalized linear model (GLM) framework. The modeled ocean conditions were extracted from JISAO’s Seasonal Coastal Ocean Prediction of the Ecosystem (J-SCOPE), a high-resolution coupled physical-​biogeochemical model. The analysis included variables from J-SCOPE identified in the literature as important for larval crab occurrence: temperature, salinity, dissolved oxygen concentration, nitrate concentration, phytoplankton concentration, pH, aragonite, and calcite saturation state. GLMs were developed with either in situ ocean conditions or environmental exposure histories generated using particle tracking experiments. We found that inclusion of exposure history improved the ability of the GLMs to predict megalopae occurrence 98% of the time. Of the six swimming behaviors used to simulate megalopae dispersal, five behaviors generated GLMs with superior fits to the observations, so a biological ensemble of these models was constructed. When the biological ensemble was used for forecasting​, the model showed skill in predicting megalopae occurrence (AUC = 0.94). Our results highlight the importance of including exposure history in larval occurrence modeling and help provide a method for predicting pelagic megalopae occurrence. This work is a step toward developing a forecast product to support management of the fishery."

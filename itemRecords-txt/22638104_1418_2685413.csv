@@ -1,0 +1,26 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-20-026
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,Performance evaluation of cetacean species distribution models developed using generalized additive models and boosted regression trees
+3,Author:,"Becker, Elizabeth A."
+4,,"Carretta, James V."
+5,,"Forney, Karin A."
+6,,"Barlow, Jay"
+7,,"Brodie, Stephanie"
+8,,"Hoopes, Ryan"
+9,,"Jacox, Michael G."
+10,,"Maxwell, Sara M."
+11,,"Redfern, Jessica V."
+12,,"Sisson, Nicholas B."
+13,,"Welch, Heather"
+14,,"Hazen, Elliot L."
+15,Publication Year :,2020
+16,Source Citation:,"Ecology and Evolution, 10(12): 5759-5784, June 2020"
+17,DOI #:,10.1002/ece3.63​16
+18,Publisher:,John Wiley & Sons Ltd.
+19,# Pages / Video Length:,26
+20,Publication Type:,reprints (peer-reviewed)
+21,Grant/Contract #:,NA14OAR4170075
+22,Project #:,R/SSFS-04
+23,Notes:,Open access article
+24,Abstract:,"Species distribution models (SDMs) are important management tools for highly mobile marine species because they provide spatially and temporally explicit information on animal distribution. Two prevalent modeling frameworks used to develop SDMs for marine species are generalized additive models (GAMs) and boosted regression trees (BRTs), but comparative studies have rarely been conducted; most rely on presence‐only data; and few have explored how features such as species distribution characteristics affect model performance. Since the majority of marine species BRTs have been used to predict habitat suitability, we first compared BRTs to GAMs that used presence/absenc​e as the response variable. We then compared results from these habitat suitability models to GAMs that predict species density (animals per km2) because density models built with a subset of the data used here have previously received extensive validation. We compared both the explanatory power (i.e., model goodness of fit) and predictive power (i.e., performance on a novel dataset) of the GAMs and BRTs for a taxonomically diverse suite of cetacean species using a robust set of systematic survey data (1991–2014) within the California Current Ecosystem. Both BRTs and GAMs were successful at describing overall distribution patterns throughout the study area for the majority of species considered, but when predicting on novel data, the density GAMs exhibited substantially greater predictive power than both the presence/absenc​e GAMs and BRTs, likely due to both the different response variables and fitting algorithms. Our results provide an improved understanding of some of the strengths and limitations of models developed using these two methods. These results can be used by modelers developing SDMs and resource managers tasked with the spatial management of marine species to determine the best modeling technique for their question of interest."

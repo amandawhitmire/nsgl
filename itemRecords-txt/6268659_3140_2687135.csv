@@ -1,0 +1,14 @@
+,MetadataField,Metadata
+0,NSGL Document #:,MIT-R-08-023
+1,Sea Grant Program/Affiliate:,MIT Sea Grant
+2,Title:,SLAM for ship hull inspection using exactly sparse extended information filters
+3,Author:,"Walter, Matthew"
+4,,"Hover, Franz"
+5,,"Leonard, John"
+6,Publication Year :,2008
+7,Source Citation:,"""IEEE International Conference on Robotics and Automation (ICRA),"" pp. 1463-1470, Pasadena, California, May, 2008."
+8,# Pages / Video Length:,8
+9,Publication Type:,reprints (peer-reviewed)
+10,Program Report #:,MITSG 08-50
+11,Project #:,2007-R/RCM-20
+12,Abstract:,"Many important missions for autonomous underwater vehicles (AUVs), such as undersea inspection of ship hulls, require integrated navigation, control, and motion planning in complex, 3D environments. This paper describes a SLAM implementation using forward-looking sonar (FLS) data from a highly maneuverable, hovering AUV performing a ship hull inspection mission. The Exactly Sparse Extended Information Filter (ESEIF) algorithm is applied to perform SLAM based upon features manually selected within FLS images. The results demonstrate the ability to effectively map a ship hull in a challenging marine environment. This provides a foundation for future work in which real-time SLAM will be integrated with motion planning and control to achieve autonomous coverage of a complete ship hull."

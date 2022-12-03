@@ -1,0 +1,71 @@
+---
+title: "merge-nsgl-records"
+author: "Amanda Whitmire"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library("tidyverse")
+library("purrr")
+```
+
+## Explore the data so we know what to expect with the final data table
+
+Start by creating a list of the file names (it's length will tell us how many rows we should have in our final spreadsheet. 
+
+Then look at the first 200 csv files to determine how many possible metadata fields are. This will tell us how mnay columns we should expect.
+
+```{r message=FALSE, warning=FALSE, paged.print=TRUE, eval=FALSE}
+# look at the first 200 csv files to determine what the possible metadata fields are. 
+
+fnames <-list.files(path = "~/github/nsgl/itemRecords-csv/",    # get list of files
+                       pattern = "*.csv", full.names = TRUE)
+
+dat <- as.tibble(read_csv(fnames[1],col_select = c(MetadataField,Metadata), show_col_types = FALSE))  # read in CSV data, but only 2 columns of it
+dat <- fill(dat, MetadataField)  # fill in blanks in the metadata field column
+
+for (i in 2:200){    # loop through 200 files to get a bunch of metadata field samples
+  data <-  as.tibble(read_csv(fnames[i],col_select = c(MetadataField,Metadata), show_col_types = FALSE))
+  data <- fill(data, MetadataField)
+  dat <- bind_rows(dat, data)
+}
+
+# find out how mnay unique headers there will be
+headers <- unique(dat[[1]])  # There are 17 unique metadata fields in this dataset
+
+rm(dat, data) # clean up after yourself
+```
+
+Now we will load in the csv files, grouping them by their file name (a unique identifier), and then pivoting out to a data table
+
+```{r message=FALSE, warning=FALSE}
+fnames <-list.files(path = "~/github/nsgl/itemRecords-csv",    # get list of files
+                       pattern = "*.csv", full.names = TRUE)
+
+records <- fnames %>%            # using this list of file names
+  map_dfr(~read_csv(.x) %>%      # read in the files using the map function in purrr "_df" returns a data frame.
+           mutate(id = .x)) %>%  # here we add a column called "id" using "fnames" as the text to add in each row
+  fill(MetadataField) %>%        # fill blanks in the MetadataField column
+  group_by(id,MetadataField) %>% # group the records using the id (file name)
+  summarise(records = str_c(Metadata, collapse = ";")) %>%  # this collapses duplicate metadata entries, e.g. when there are multiple authors
+  pivot_wider(names_from = "MetadataField", values_from = "records") # this converts our long column arrays into a proper data table, using MetadataField as column headers
+
+# save the data to a CSV file. You can now move to OpenRefine
+write_csv(records,"nsgl-ca-records.csv")
+
+```
+
+I wasn't convinced that all of the item ids made it into my first round of processing, so I added this and re-did the catalog web scraping. Added ~600 records. 
+
+```{r}
+fnams <-list.files(path = "~/github/nsgl/item-ids",    # get list of files
+                       pattern = "*.txt", full.names = TRUE)
+itemids <- fnams %>%            # using this list of file names
+  map_dfr(~read_csv(.x, col_names = FALSE))
+
+write_csv(itemids, "seagrant-ids.txt",col_names = FALSE)
+```
+

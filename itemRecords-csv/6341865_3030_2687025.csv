@@ -1,0 +1,15 @@
+,MetadataField,Metadata
+0,NSGL Document #:,MIT-R-06-012
+1,Sea Grant Program/Affiliate:,MIT Sea Grant
+2,Title:,When underwater acoustic nodes should sleep with one eye open: idle-time power management in underwater sensor networks
+3,Author:,"Harris, Albert F. III"
+4,,"Stojanovic, Milica"
+5,,"Zorzi, Michele"
+6,Publication Year :,2006
+7,Source Citation:,"""WUWet'06 Proceedings of the 1st ACM International Workshop on Underwater Networks,"" pp. 105-108, Los Angeles, California, September 25, 2006."
+8,DOI #:,10.1145/1161039​.1161061
+9,# Pages / Video Length:,4
+10,Publication Type:,reprints (peer-reviewed)
+11,Program Report #:,MITSG 06-14
+12,Project #:,2006-R/RCM-18
+13,Abstract:,"This paper is a preliminary evaluation of idle-time power management techniques for underwater sensor networks. Through an analysis of the energy consumption of various modes for acoustic modems, we show that for sensors that transmit data with a period on the order of minutes to a few hours, idle-time power management techniques that increase the needed transmission time may perform poorly. As an alternative, we investigate the use of a wakeup mode. Wakeup modes for radios are not a new idea, but they have not yet been widely adopted due to the fact that their implementation requires new hardware and this technology may not be mature enough. However, in this paper we argue for the use of wakeup modes in acoustic modems. To this end, we present an evaluation of four protocols via simulation, demonstrating that the use of an ultra-low power wakeup mode consistently results in the greatest energy savings."

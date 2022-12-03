@@ -1,0 +1,14 @@
+,MetadataField,Metadata
+0,NSGL Document #:,MIT-R-06-014
+1,Sea Grant Program/Affiliate:,MIT Sea Grant
+2,Title:,A MAC protocol for ad-hoc underwater acoustic sensor networks
+3,Author:,"Peleato, Borja"
+4,,"Stojanovic, Milica"
+5,Publication Year :,2006
+6,Source Citation:,"""WUWNet'06 Proceedings of the 1st ACM International Workshop on Underwater Networks,"" pp. 113-115, Los Angeles, California, September 25, 2006."
+7,DOI #:,10.1145/1161039​.1161063
+8,# Pages / Video Length:,3
+9,Publication Type:,reprints (peer-reviewed)
+10,Program Report #:,MITSG 06-20
+11,Project #:,2006-R/RCM-18
+12,Abstract:,"A medium access control (MAC) protocol is proposed that is suitable for non-​synchronized ad-hoc networks, and in particular for the energy-​constrained underwater acoustic networks which are characterized by long propagation delays. The protocol exploits the difference in the link lengths between the nodes instead of using waiting times proportional to the maximal link length. To do so, it relies on a receiver's ability to tolerate a certain level of interference. By minimizing the length of the hand-shake procedure preceding the data transmission, the throughput efficiency is increased as compared to the previously proposed protocols, while collision avoidance minimizes the energy consumption."

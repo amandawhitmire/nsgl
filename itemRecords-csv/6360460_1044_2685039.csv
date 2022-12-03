@@ -1,0 +1,16 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-10-046
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,The utility of daily large-scale climate data in the assessment of climate change impacts on daily streamflow in California
+3,Author:,"Maurer, E. P."
+4,,"Hidalgo, H. G."
+5,,"Das, T."
+6,,"Dettinger, M. D."
+7,,"Cayan, D. R."
+8,Publication Year :,2010
+9,Source Citation:,"""Hydrology and Earth System Sciences,"" 14:1125-1138, 2010."
+10,DOI #:,10.5194/hess-​14-​1125-​2010
+11,# Pages / Video Length:,14
+12,Publication Type:,reprints (peer-reviewed)
+13,Project #:,R/SF-34
+14,Abstract:,"Three statistical downscaling methods were applied to NCEP/NCAR reanalysis (used as a surrogate for the best possible general circulation model), and the downscaled meteorology was used to drive a hydrologic model over California. The historic record was divided into an ""observed"" period of 1950?1976 to provide the basis for downscaling, and a ""projected"" period of 1977?1999 for assessing skill. The downscaling methods included a bias-​correction/spat​ial downscaling method (BCSD), which relies solely on monthly large scale meteorology and resamples the historical record to obtain daily sequences, a constructed analogues approach (CA), which uses daily large-scale anomalies, and a hybrid method (BCCA) using a quantile-​mapping bias correction on the large-scale data prior to the CA approach. At 11 sites we compared three simulated daily flow statistics: streamflow timing, 3-day peak flow, and 7-day low flow. While all downscaling methods produced reasonable streamflow statistics at most locations, the BCCA method consistently outperformed the other methods, capturing the daily large-scale skill and translating it to simulated streamflows that more skillfully reproduced observationally-​driven streamflows."

@@ -1,0 +1,18 @@
+,MetadataField,Metadata
+0,NSGL Document #:,MIT-WR-12-007
+1,Sea Grant Program/Affiliate:,MIT Sea Grant
+2,Title:,Multiscale response of the shelf-​estuarine-​wetland to severe weather: A fully wave-current coupled FVCOM system
+3,Author:,"Chen, Changsheng"
+4,,"Beardsley, Robert C."
+5,,"Qi, Jianhua"
+6,,"Lai, Zhiqang"
+7,,"Xu, Qichun"
+8,,"Lin, Huichan"
+9,,"Xu, Yang"
+10,Publication Year :,2012
+11,Source Citation:,"""American Geophysical Union (AGU) 2012 Fall Meeting,"" poster presentation OS11D-1683, San Francisco, California, December 3-7, 2012."
+12,# Pages / Video Length:,1
+13,Publication Type:,reprints (not peer-reviewed)
+14,Program Report #:,MITSG 12-24
+15,Project #:,2012-R/RC-127
+16,Abstract:,"The response of the coastal ocean and estuaries to severe weather forcing (e.g. tropical and extra-tropical storms) and strong tsunamis vary significantly in space and time. Simulating and predicting this response require a) a fully coupled atmospheric-​ocean model system that can resolve the multiscale current-wave interaction processes; b) grid flexibility to accurately represent irregular geometric shelf-​estuarine-​wetland regions; c) computational efficiency that allows an adjustable time step with changes in the model spatial resolution; and d) a Web Map Service (WMS) display system. The UMASSD-WHOI research team has upgraded FVCOM using the Earth System Modeling Framework (ESMF). The new FVCOM has a mass-​conservative two-way nesting feature that allows varying time steps for the time integration of different multiscale global, basin, shelf, and estuarine/wetla​nd processes. A parallelized version of WMS was also built into FVCOM, through which the model forecast fields can be viewed and analyzed directly using Google maps on the website. These new features have been implemented into the Northeast Coastal Ocean Forecast System (NECOFS) for the purpose of predicting coastal inundation caused by severe weather systems as they pass through the Northeast. The multi-domain nesting FVCOM system was also successfully used to simulate the Japan March 11 earthquake-​induced tsunami waves, coastal inundation, and subsequent spread of Cs-137 into the Japan coastal ocean."

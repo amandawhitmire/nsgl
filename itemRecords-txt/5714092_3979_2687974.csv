@@ -1,0 +1,13 @@
+,MetadataField,Metadata
+0,NSGL Document #:,MIT-R-94-009
+1,Sea Grant Program/Affiliate:,MIT Sea Grant
+2,Title:,Task configuration with layered control
+3,Author:,"Bellingham, James G."
+4,,"Leonard, John J."
+5,Publication Year :,1994
+6,Source Citation:,"""IARP Mobile Robots for Subsea Environments,"" Conference proceedings, Monterey, California, May 3-6, 1994."
+7,# Pages / Video Length:,10
+8,Publication Type:,reprints (not peer-reviewed)
+9,Program Report #:,MITSG 94-24J
+10,Project #:,90-RU-20
+11,Abstract:,"A variant of layered control designed for ease of task configuration has been developed. Intended to be used as the middle level of a three-level architecture such as state- configured layered control, the approach embodies a number of features designed to facilitate configuration of the vehicle software to achieve specific tasks. Examples include moving the vehicle to a defined location or executing a survey grid. While not intended to provide the entire mission planning level for a vehicle, it can provide that function. Implemented on the ""Odyssey II"" autonomous underwater vehicle, it has been used as the mission planner for under-ice vehicle operations in Lake Winnipesaukee and in the Arctic."

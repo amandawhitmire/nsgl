@@ -1,0 +1,26 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-R-18-019
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,Integrating Dynamic Subsurface Habitat Metrics Into Species Distribution Models
+3,Author:,"Brodie, Stephanie"
+4,,"Jacox, Michael G."
+5,,"Bograd, Steven J."
+6,,"Welch, Heather"
+7,,"Dewar, Heidi"
+8,,"Scales, Kylie L."
+9,,"Maxwell, Sara M."
+10,,"Briscoe, Dana M."
+11,,"Edwards, Christopher A."
+12,,"Crowder, Larry B."
+13,,"Lewison, Rebecca L."
+14,,"Hazen, Elliot L."
+15,Publication Year :,2018
+16,Source Citation:,"Frontiers in Marine Science, 5(Article 219); doi: 10.3389/fmars.2​018.00219, June 2018"
+17,DOI #:,10.3389/fmars.2​018.00219
+18,# Pages / Video Length:,13
+19,Publication Type:,reprints (peer-reviewed)
+20,Grant/Contract #:,NA14OAR4170075
+21,,NA17OAR4310268
+22,Project #:,R/SSFS-04
+23,Notes:,OPEN ACCESS
+24,Abstract:,"Species distribution models (SDMs) have become key tools for describing and predictingspeci​es habitats. In the marine domain, environmental data used in modeling speciesdistribu​tions are often remotely sensed, and as such have limited capacity for interpretingthe vertical structure of the water column, or are sampled in situ, offering minimal spatialand temporal coverage. Advances in ocean models have improved our capacity toexplore subsurface ocean features, yet there has been limited integration of such featuresin SDMs. Using output from a data-​assimilative configuration of the Regional OceanModeling System, we examine the effect of including dynamic subsurface variablesin SDMs to describe the habitats of four pelagic predators in the California CurrentSystem (swordfish Xiphias gladius, blue sharks Prionace glauca, common threshersharks Alopias vulpinus, and shortfin mako sharks Isurus oxyrinchus). Species datawere obtained from the California Drift Gillnet observer program (1997–2017). We usedboosted regression trees to explore the incremental improvement enabled by dynamicsubsurfa​ce variables that quantify the structure and stability of the water column:isotherm​al layer depth and bulk buoyancy frequency. The inclusion of these dynamicsubsurfa​ce variables significantly improved model explanatory power for most species.Model predictive performance also significantly improved, but only for species that hadstrong affiliations with dynamic variables (swordfish and shortfin mako sharks) rather thanstatic variables (blue sharks and common thresher sharks). Geospatial predictions for allspecies showed the integration of isothermal layer depth and bulk buoyancy frequencycontri​buted value at the mesoscale level (<100 km) and varied spatially throughout thestudy domain. These results highlight the utility of including dynamic subsurface variablesin SDM development and support the continuing ecological use of biophysical outputfrom ocean circulation models."

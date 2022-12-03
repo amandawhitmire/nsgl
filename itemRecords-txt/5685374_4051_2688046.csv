@@ -1,0 +1,12 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CUIMR-R-95-007
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,Improved cloud detection in GOES scenes over land
+3,Author:,"Simpson, James J."
+4,,"Gobat, Jason I."
+5,Publication Year :,1995
+6,Source Citation:,"""Remote Sensing of Environment,"" 52:36-54, 1995."
+7,# Pages / Video Length:,19
+8,Publication Type:,reprints (peer-reviewed)
+9,Project #:,R/OE-27
+10,Abstract:,"GOES data in the visible range have been used for quantitative environmental applications such as radiation studies, surface albedo mapping, cloud variability studies, studies of photosynthetica​lly available radiation, and rainfall studies. But accurate cloud detection in satellite data over land is a difficult task complicated by spatially and temporally varying land surface reflectivities and emissivities. As reported here, the GOES split-and-merge clustering (GSMC) algorithm for cloud detection in GOES scenes over land provides a computationally efficient, scene specific way to circumvent these difficulties"
