@@ -10,3 +10,11 @@ There are 2 copies of each print title. As of now, Internet Archive will be taki
 
 The Harold A. Miller Library will take the entire California Sea Grant Collection. According to the [National Sea Grant Catalog](https://eos.ucs.uri.edu/EOSWebOPAC/OPAC/Index.aspx), there are 6,109 CA items, or about 40 shelf feet according to the retiring NSGL Librarian. The librarian was unable to retrieve catalog records from the Very Old online catalog, so this GH Repo is for code related to scraping the NSGL online catalog and processing the records.
 
+## Outputs
+
+De-duplicated catalog records for all three states can be found in one main file: 'nsgl-all-records.csv'.
+
+Files for individual states can be found in ~/catalogRecords-raw as:
+* 'nsgl-ca-records.csv' for California
+* 'nsgl-or-records.csv' for Oregon
+* 'nsgl-wa-records.csv' for Washington
