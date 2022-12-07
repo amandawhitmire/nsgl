@@ -1,0 +1,13 @@
+,MetadataField,Metadata
+0,NSGL Document #:,HAWAU-R-90-026
+1,Sea Grant Program/Affiliate:,Hawaii Sea Grant
+2,Title:,Passive optical sensing for near-bottom stationkeeping
+3,Author:,"Negahdaripour, S."
+4,,"Yu, C. H."
+5,Publication Year :,1990
+6,Source Citation:,"""Conference Proceedings Oceans '90: Engineering in the Ocean Environment,"" Oceanic Engineering Society of IEEE (ed.), pp. 82-87, Washington, D.C., September 24-26, 1990."
+7,# Pages / Video Length:,5
+8,Publication Type:,reprints (peer-reviewed)
+9,Program Report #:,UNIHI-​SEAGRANT-​CP-​90-​06
+10,Project #:,R/OE-11
+11,Abstract:,"Stationkeeping near ocean bottom requires the capability to accurately sense a vehicle's position and movements relative to ocean floor, nearby objects, or a fixed coordinate system. Some of this information can be obtained using inertia navigation systems, pressure sensors, and various ranging devices based on sonar and acoustic techniques. Reliable horizontal positioning, however, is rather difficult to achieve. For example, Doppler acoustic methods for position sensing by dead reckoning are sensitive to drift. Other active methods require beacons to be positioned accurately at the work site, and recovered upon completion of the task. This is costly, tedious, and impractical where active sensing is to be avoided. Optical sensing techniques can overcome some of the shortcomings of the existing techniques in order to allow accurate short-range positioning in uncontrolled ocean environments (no beacons). We describe methods for depth, orientation, and motion sensing, and give examples of experiments with real images."

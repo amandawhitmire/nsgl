@@ -1,0 +1,15 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-R-11-007
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,Estimating 3D movements from 2D observations using a continuous model of helical swimming
+3,Author:,"Gurarie, Eliezer"
+4,,"Grunbaum, Daniel"
+5,,"Nishizaki, Michael T."
+6,Publication Year :,2011
+7,Source Citation:,"""Bulletin of Mathematical Biology,"" 73:1358-1377, June 2011."
+8,DOI #:,10.1007/s11538-​010-​9575-​7
+9,# Pages / Video Length:,20
+10,Publication Type:,reprints (peer-reviewed)
+11,Program Report #:,WSG-TA 11-07
+12,Project #:,R/B-52
+13,Abstract:,"Helical swimming is among the most common movement behaviors in a wide range of microorganisms, and these movements have direct impacts on distributions, aggregations, encounter rates with prey, and many other fundamental ecological processes. Microscopy and video technology enable the automated acquisition of large amounts of tracking data; however, these data are typically two-​dimensional. The difficulty of quantifying the third movement component complicates understanding of the biomechanical causes and ecological consequences of helical swimming. We present a versatile continuous stochastic model?the correlated velocity helical movement (CVHM) model?that characterizes helical swimming with intrinsic randomness and autocorrelation​. The model separates an organism's instantaneous velocity into a slowly varying advective component and a perpendicularly oriented rotation, with velocities, magnitude of stochasticity, and autocorrelation scales defined for both components. All but one of the parameters of the 3D model can be estimated directly from a two-dimensional projection of helical movement with no numerical fitting, making it computationally very efficient. As a case study, we estimate swimming parameters from videotaped trajectories of a toxic unicellular alga, Heterosigma akashiwo (Raphidophyceae​). The algae were reared from five strains originally collected from locations in the Atlantic and Pacific Oceans, where they have caused Harmful Algal Blooms (HABs). We use the CVHM model to quantify cell-level and strain-level differences in all movement parameters, demonstrating the utility of the model for identifying strains that are difficult to distinguish by other means."

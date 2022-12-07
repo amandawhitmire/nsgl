@@ -1,0 +1,15 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-R-17-001
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,Faster estimation of Bayesian models in ecology using Hamiltonian Monte Carlo
+3,Author:,"Monnahan, Cole C."
+4,,"Thorson, James T."
+5,,"Branch, Trevor A."
+6,Publication Year :,2017
+7,Source Citation:,"Methods in Ecology and Evolution, 8:339-348, 2017"
+8,DOI #:,10.1111/2041-​210X.12681
+9,# Pages / Video Length:,10
+10,Publication Type:,reprints (peer-reviewed)
+11,Program Report #:,WSG-TA 16-29
+12,Project #:,E/I-21
+13,Abstract:,"1. Bayesian inference is a powerful tool to better understand ecological processes across varied subfields in ecology, and is often implemented in generic and flexible software packages such as the widely used BUGS family (BUGS, WinBUGS, OpenBUGS and JAGS). However, some models have prohibitively long run times when implemented in BUGS. A relatively new software platform called Stan uses HamiltonianMont​e Carlo (HMC), a family of Markov chainMonte Carlo (MCMC) algorithms which promise improved efficiency and faster inference relative to those used by BUGS. Stan is gaining traction in many fields as an alternative to BUGS, but adoption has been slow in ecology, likely due in part to the complex nature ofHMC. 2. Here, we provide an intuitive illustration of the principles of HMC on a set of simple models.We then compared the relative efficiency ofBUGS and Stan using population ecology models that vary in size and complexity. For hierarchical models, we also investigated the effect of an alternative parameterizatio​n of random effects, known as non-​centering. 3.. For small, simple models there is little practical difference between the two platforms, but Stan outperforms BUGS as model size and complexity grows. Stan also performs well for hierarchical models, but is more sensitive to model parameterizatio​n than BUGS. Stan may also bemore robust to biased inference caused by pathologies, because it produces diagnostic warnings where BUGS provides none.Disadvanta​ges of Stan include an inability to use discrete parameters, more complex diagnostics and a greater requirement for hands-on tuning. 4. Given these results, Stan is a valuable tool for many ecologists utilizing Bayesian inference, particularly for problems where BUGS is prohibitively slow. As such, Stan can extend the boundaries of feasible models for applied problems, leading to better understanding of ecological processes. Fields that would likely benefit include estimation of individual"

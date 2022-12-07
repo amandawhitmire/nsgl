@@ -1,0 +1,12 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-H-78-001
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,PROGRAM CLUSTER: AN AID TO NUMERICAL CLASSIFICATION USING THE CDC CYBER COMPUTER
+3,Author:,"Keniston, James A."
+4,Publication Year :,1978
+5,Publisher:,Oregon State University (OSU) Sea Grant College Program
+6,# Pages / Video Length:,32
+7,Publication Type:,"handbooks, manuals, guides"
+8,Program Report #:,ORESU-​H-​78-​001; Pleuronectid Project Technical Report No. 2
+9,Grant/Contract #:,NOAA Sea Grant
+10,Abstract:,Program CLUSTER uses agglomerative clustering to classify a set of entities based on comparison of their attributes. Each clustering operation may be summarized as a dendrogram. CLUSTER can be of use in any field to which numerical classification is applicable; this manual will describe its use in an ecological context.

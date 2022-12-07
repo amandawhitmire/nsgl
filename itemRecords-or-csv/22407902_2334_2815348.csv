@@ -1,0 +1,19 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-R-19-001
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,Estimating morphometric attributes of baleen whales with photogrammetry from small UASs: A case study with blue and gray whales
+3,Author:,"Burnett, Jonathan D."
+4,,"Lemos, Leila"
+5,,"Barlow, Dawn"
+6,,"Wing, Michael G."
+7,,"Chandler, Todd"
+8,,"Torres, Leigh G."
+9,Publication Year :,2019
+10,Source Citation:,"Marine Mammal Science, 35(1):108-139, January 2019"
+11,DOI #:,10.1111/mms.125​27
+12,# Pages / Video Length:,32
+13,Publication Type:,reprints (peer-reviewed)
+14,Program Report #:,ORESU-R-19-001
+15,Project #:,A/EC OED 2018-21
+16,URL:,https://onlinel​ibrary.wiley.co​m/doi/full/10.1​111/mms.12527#s​upport-​information-​section
+17,Abstract:,"Small, unmanned aircraft systems (sUASs) are fostering novel approaches to marine mammal research, including baleen whale photogrammetry, by providing new observational perspectives. Researchers collected vertical images of 89 gray and 6 blue whales using low cost sUASs to examine the accuracy of image based morphometry. Moreover, measurements from 192 images of a 1 m calibration object were used to examine four different scaling correction models. Results indicate that a linear mixed model including an error term for flight and date contained 0.17 m less error and 0.25 m less bias than no correction. Researchers used the propagation uncertainty law to examine error contributions from scaling and image measurement (digitization) to determine that digitization accounted for 97% of total variance. Additionally, they presented a new whale, body-size metric termed Body Area Index (BAI). BAI is scale invariant and is independent of body length (R2 = 0.11), enabling comparisons of body size within and among populations, and over time. With this study researchers present a three program analysis suite that measures baleen whales and compensates for lens distortion and corrects scaling error to produce 11 morphometric attributes from sUAS imagery. The program is freely available and is expected to improve processing efficiency and analytical continuity."

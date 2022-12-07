@@ -1,0 +1,15 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-R-00-018
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,Application of statistical model selection criteria to the stock synthesis assessment program
+3,Author:,"Helu, S. Langitoto"
+4,,"Sampson, David B."
+5,,"Yin, Yanshui"
+6,Publication Year :,2000
+7,Source Citation:,"""Canadian Journal of Fisheries and Aquatic Science,"" 57:1784-1793, 2000."
+8,# Pages / Video Length:,10
+9,Publication Type:,reprints (peer-reviewed)
+10,Program Report #:,ORESU-R-00-018
+11,Grant/Contract #:,NOAA Sea Grant
+12,Project #:,R/OPF-50
+13,Abstract:,"A stock assessment program known as Stock Synthesis is structured to simultaneously analyze time series data on catch biomass, age (or size) composition, effort from multiple fisheries, and abundance and age composition data from multiple surveys. However, the model selection process, in the way the program is usually applied, overlooks two fundamental concerns in statistical modeling: the process is overly subjective and it does not account for model complexity. The authors of this paper evaluate whether applications of the Stock Synthesis program can be improved by incorporating statistical model selection criteria that are objective and that account for model complexity. The Akaike information criterion (AIC) and Schwarz's Bayesian information criterion (BIC) are two model selection criteria that measure goodness-of-fit but penalize model complexity, and both are fully objective. The authors used Monte Carlo simulation experiments to generate random data sets with known characteristics​, and then applied AIC and BIC to the process of building a stock assessment model with the Stock Synthesis program."

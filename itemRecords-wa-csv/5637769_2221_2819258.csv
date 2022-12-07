@@ -1,0 +1,13 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-R-93-009
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,Nonparametric maximum likelihood estimation of mesh size selectivity
+3,Author:,"Skalski, John R."
+4,,"Perez-Comas, Jose Antonio"
+5,Publication Year :,1993
+6,Source Citation:,"""Fisheries Research,"" 18:321-334, 1993."
+7,# Pages / Video Length:,14
+8,Publication Type:,reprints (peer-reviewed)
+9,Program Report #:,WSG-TA 94-03
+10,Project #:,R/F-91
+11,Abstract:,"Size selectivity of trawl codends has tremendous economic consequences for a fishery and the viability of a fish stock. The short-term effects of mesh size regulations are felt in the immediate catch and revenues of the fishery. However, the long- term effects ultimately determine the population dynamics of the stock and economic future of the fishery. The driving force behind mesh size regulations is the size selectivity exerted by the gear and the net productivity of the fish stock escaping harvest. Hence, determination of the relative selectivity of one mesh type to that of another is important in predicting the consequence of changes in mesh regulations. The purpose of this paper is to present a nonparametric maximum likelihood (NMLE) method of estimating mesh selectivity coefficients. Using multinomial likelihood models, selectivity can be estimated for discrete size classes making minimal assumptions about the selectivity process and underlying model for the selectivity curve. General curve fitting routines can subsequently be used to investigate the functional relationship between fish size and selectivity."

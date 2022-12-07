@@ -1,0 +1,13 @@
+,MetadataField,Metadata
+0,NSGL Document #:,MIT-WR-10-005
+1,Sea Grant Program/Affiliate:,MIT Sea Grant
+2,Title:,Northeast Coastal Ocean Forecast System (NECOFS) (poster)
+3,Author:,"Beardsley, Robert C."
+4,,"Chen, Changsheng"
+5,Publication Year :,2010
+6,Source Citation:,"2010 Ocean Sciences Meeting (Session IT52), poster presentation, Portland, Oregon, February 22-26, 2010."
+7,# Pages / Video Length:,1
+8,Publication Type:,reprints (not peer-reviewed)
+9,Program Report #:,MITSG 10-23
+10,Project #:,2006-R/RC-103
+11,Abstract:,"The Northeast Coastal Ocean Forecast System (NECOFS) is an integrated atmosphere-​ocean model system in which the ocean model domain covers the northeast US coastal region (New England Shelf, Georges Bank, Gulf of Maine, and Scotian Shelf) with a horizontal resolution of 10-15 km in the open ocean, 1-5 km on the shelf, and down to 20 m in estuaries, inner bays, inlets and harbors. The core system presently includes: 1) the Weather Research and Forecasting (WRF) model modified to incorporate the COARE 2.6 air-sea flux algorithm; 2) the unstructured-​grid Finite-Volume Coastal Ocean Model (FVCOM) configured for this region (FVCOM-GOM3) with a nested higher resolution FVCOM grid configured for Massachusetts coastal waters (FVCOM-MASS); and 3) an unstructured-​grid surface wave model (FVCOM-SWAVE). NECOFS produces 3-day forecast fields of surface weather, wind stress, heat flux, surface waves, 3-D ocean velocity, temperature, and salinity; with daily updating using hindcast data assimilated fields whenever field data are available. The hourly forecast fields are made available via a THREDDS Data Server, which provides an OPeNDAP service for efficient data extraction by scientists, state and federal agencies, and application developers. The server also has a service for simple downloading of the original NetCDF output files. The unstructured-​grid FVCOM-GOM3 and FVCOM-SWAVE forecast fields are also converted into uniform structured-grid NetCDF files to facilitate use by the NWS, USCG, and other users with software designed to handle regularly gridded data solely. The NECOFS forecast cycle, role of data assimilation, and software tools used to serve the forecast fields efficiently will be described in detail. NECOFS has been developed as part of the IOOS-funded Northeast Regional Association of Coastal Ocean Observing Systems (NERACOOS)."

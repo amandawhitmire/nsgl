@@ -1,0 +1,13 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-R-94-002
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,Analysis of food block freezing using a PC-based finite element package
+3,Author:,"Wang, DeQian"
+4,,"Kolbe, Edward"
+5,Publication Year :,1994
+6,Source Citation:,"""Journal of Food Engineering,"" 21:521-530, 1994."
+7,# Pages / Video Length:,10
+8,Publication Type:,reprints (peer-reviewed)
+9,Program Report #:,ORESU-R-94-002
+10,Project #:,R/PD-50
+11,Abstract:,"Variable boundary condition problems characteristic of food block freezing in plate freezers present complications in computer simulations. This paper explores the application of a commerical PC-based finite element package as an alternative to programming complete heat-transfer models. Results of the package gave reasonable agreement with measured data. The sensitivity of freezing-time calculation to important model parameters was also investigated. The parameters in decreasing order of influence were apparent specific heat, geometric dimension, overall heat transfer coefficient, ambient temperature, thermal conductivity, and density."

@@ -1,0 +1,13 @@
+,MetadataField,Metadata
+0,NSGL Document #:,NHU-G-19-001
+1,Sea Grant Program/Affiliate:,New Hampshire Sea Grant
+2,Title:,Autonomous Surface Vehicle (ASV) poster
+3,Author:,"Balaska, Audrey"
+4,,"Bailey, Ryan"
+5,,"Steinhauser, Joseph"
+6,Publication Year :,2019
+7,# Pages / Video Length:,1
+8,Publication Type:,"advisory/extens​ion reports; fact sheets, posters"
+9,Program Report #:,UNHMP-​OP-​SG-​19-​02
+10,Project #:,E/WFD-1
+11,Abstract:,"The Autonomous Surface Vehicle (ASV) team is completing the second year of a three-year project in partnership with a Naval base in Keyport, Washington. The ultimate goal of the project is autonomous ocean floor mapping, using ASV-UUV (Unmanned Underwater Vehicle) pairs. The team this year had the goals of improving ASV autonomy, improving the smaller platform for testing ASV autonomy, and deploying sensors for the UUV’s autonomy. The team designed and is assembling a motorized system for deploying acoustic sensors off of the ASV. The team has finalized the design and finished assembling the second iteration of the Testing Unmanned Performance Platform (TUPPS), the smaller ASV platform used in indoor testing. The team has investigated the buoyancy and stability of the ASV and has a method of analytically quantifying some of these properties of the ASV once the locations of all components have been finalized. Additionally, this buoyancy and stability analysis has been used to find better locations for components of the ASV, to avoid the ASV tipping over or sinking. A mathematical model of the system has been developed and is modifiable so as to suit the next team’s needs. PID controls for speed and heading are currently being implemented into the model. The team, in collaboration with Electrical and Computer Engineering and Computer Science students have worked on switching the TUPPS platform from using MOOS-IvP to implement autonomy to using ROS (Robot Operating System). This was after realizing that MOOS-IvP is more difficult to transition between each year’s teams. After careful consideration, a LIDAR has been purchased to be used in obstacle avoidance algorithms for the ASV, and some of the electronics necessary for autonomous ROV deployment are controlled through an Arduino. The team is partnered with the Remotely Operated Vehicle (ROV) team, whose ROV is being changed to a UUV."

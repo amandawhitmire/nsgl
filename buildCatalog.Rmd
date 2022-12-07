@@ -12,16 +12,23 @@ library("tidyverse")
 library("purrr")
 ```
 
+# Goal: merge CSV catalog records into one data table
+
+When the National Sea Grant Library in Rhode Island was set to close, the librarian tried to find a home for collection materials that otherwise would have been sent to the trash. The Harold A. Miller Library, a branch of the Stanford Libraries, volunteered to take the full collection of materials for California (composed of the California Sea grant and Southern California Sea Grant Programs). For various reasons, the National Sea Grant librarian was not able to send us catalog records for these materials. To solve the problem, we scraped catalog records from the online National Sea Grant Library Catalog using Python, which resulted in a CSV file being created for each record we scraped. The purpose of the code in this Rmd file is to concatenate the information in each text file into one spreadsheet. 
+
+Post-script: after completing the process for CA, we decided to download records for OR and WA, too.
+
 ## Explore the data so we know what to expect with the final data table
 
 Start by creating a list of the file names (it's length will tell us how many rows we should have in our final spreadsheet. 
 
-Then look at the first 200 csv files to determine how many possible metadata fields are. This will tell us how mnay columns we should expect.
+Then look at the first 200 csv files to determine how many possible metadata fields are. This will tell us how many columns we should expect.
 
 ```{r message=FALSE, warning=FALSE, paged.print=TRUE, eval=FALSE}
 # look at the first 200 csv files to determine what the possible metadata fields are. 
+# change file path for each state.
 
-fnames <-list.files(path = "~/github/nsgl/itemRecords-csv/",    # get list of files
+fnames <-list.files(path = "~/github/nsgl/itemRecords-or-csv/",    # get list of files
                        pattern = "*.csv", full.names = TRUE)
 
 dat <- as.tibble(read_csv(fnames[1],col_select = c(MetadataField,Metadata), show_col_types = FALSE))  # read in CSV data, but only 2 columns of it
@@ -42,7 +49,7 @@ rm(dat, data) # clean up after yourself
 Now we will load in the csv files, grouping them by their file name (a unique identifier), and then pivoting out to a data table
 
 ```{r message=FALSE, warning=FALSE}
-fnames <-list.files(path = "~/github/nsgl/itemRecords-csv",    # get list of files
+fnames <-list.files(path = "~/github/nsgl/itemRecords-wa-csv",    # get list of files
                        pattern = "*.csv", full.names = TRUE)
 
 records <- fnames %>%            # using this list of file names
@@ -54,11 +61,29 @@ records <- fnames %>%            # using this list of file names
   pivot_wider(names_from = "MetadataField", values_from = "records") # this converts our long column arrays into a proper data table, using MetadataField as column headers
 
 # save the data to a CSV file. You can now move to OpenRefine
-write_csv(records,"nsgl-ca-records.csv")
+write_csv(records,"nsgl-wa-records.csv")
 
 ```
 
-I wasn't convinced that all of the item ids made it into my first round of processing, so I added this and re-did the catalog web scraping. Added ~600 records. 
+Now that the scraping and concatenating of data from 3 states is done, now it's time to merge all three CSV files into to giant spreadsheet.
+
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+data_all <- list.files(path = "~/github/nsgl/catalogRecords-raw",  # Identify all CSV files
+                       pattern = "*.csv", full.names = TRUE) %>% 
+  lapply(read_csv) %>%                              # Store all files in list
+  bind_rows                                         # Combine data sets into one data set 
+data_all
+
+str_replace(data_all[[1]], "/Users/thalassa/github/nsgl/itemRecords-csv","")
+str_replace(data_all[[1]], "/Users/thalassa/github/nsgl/itemRecords-wa-csv","")
+str_replace(data_all[[1]], "/Users/thalassa/github/nsgl/itemRecords-or-csv","")
+
+records <- data_all %>% distinct()
+```
+
+
+
+I wasn't convinced that all of the CA item ids made it into my first round of processing, so I added this and re-did the catalog web scraping. Added ~600 records. 
 
 ```{r}
 fnams <-list.files(path = "~/github/nsgl/item-ids",    # get list of files

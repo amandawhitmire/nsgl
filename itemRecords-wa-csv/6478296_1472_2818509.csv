@@ -1,0 +1,13 @@
+,MetadataField,Metadata
+0,NSGL Document #:,HAWAU-WR-89-001
+1,Sea Grant Program/Affiliate:,Hawaii Sea Grant
+2,Title:,Stationkeeping using optical ranging of natural features
+3,Author:,"Fox, Joel S."
+4,Publication Year :,1989
+5,Source Citation:,"""Oceans '89 Proceedings (Volume 4),"" Stephanie L. Merry (ed.), pp. 1027-1031, Seattle, Washington, September 18-21, 1989."
+6,DOI #:,10.1109/OCEANS.​1989.587473
+7,# Pages / Video Length:,5
+8,Publication Type:,reprints (not peer-reviewed)
+9,Program Report #:,UNIHI-​SEAGRANT-​CP-​90-​01
+10,Project #:,R/OE-11
+11,Abstract:,"A special challenge in near bottom operation of an undersea mobile robot is obtaining accurate information concerning deviations from a defined position despite the lack of a structured environment. The availability of gyro-compasses and slaved vertical gyros make the sensing of rotational motions relatively straightforward​. Accuracies of �0.5 degree are not difficult to achieve in roll, pitch and yaw. However, since even top quality linear accelerometers are insensitive to position drifts of the order of 3 meters/min, inertial reference will not serve this function. It is proposed that optical measurement of range and tilt of natural features located at various places around a submersible can be used to determine position deviations. A relationship is derived between range, tilt, sensor position and motion of the unmanned vehicle. The sensitivity of the result to errors in tilt measurement and the assumption that the vehicle does not rotate is examined."

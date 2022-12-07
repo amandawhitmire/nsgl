@@ -1,0 +1,13 @@
+,MetadataField,Metadata
+0,NSGL Document #:,FLSGP-R-91-007
+1,Sea Grant Program/Affiliate:,Florida Sea Grant
+2,Title:,Computer simulation modeling of ebb-tidal deltas
+3,Author:,"Gibeaut, James C."
+4,,"Davis, Richard A., Jr."
+5,Publication Year :,1991
+6,Source Citation:,"Coastal Sediments '91: Proceedings of a Specialty Conference on Quantitative Approaches to Coastal Sediment Processes, Nicholas C. Kraus, Kathryn J. Gingerich, and David L. Kriebel (eds.), pp. 1389-1403, Seattle, Washington, June 25-27, 1991"
+7,Publisher:,American Society of Civil Engineering
+8,# Pages / Video Length:,15
+9,Publication Type:,reprints (peer-reviewed)
+10,Project #:,R/C-S-23
+11,Abstract:,"An ebb-tidal delta simulation model has been developed incorporating gross features of delta and channel morphologies which can be measured from vertical aerial photographs. Delta and channel measurements are standardized by the length of the delta along the shore. Thus, the total length between the two points where the delta sttaches to the shore is 1. The seaward edge of ebb deltas are modeled with a modified beta probability function: F(x)=(x alpha)(1-x) beta. The beta function is adjusted so that the area under the computed curve is the same as the area described by the data. Values of alpha and beta are sensitive to the amound of protuberance and the symmetry or asymmetry of the deltas. The remaining parameters include the following: left and right shoreline offsets; mid-channel position and width at the shoreline; and main ebb channel length and orientation. Parameters of the simulation model may be used for rigorous morphological classifications of ebb-tidal deltas and as morphological input to process-​response models."

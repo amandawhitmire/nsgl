@@ -1,0 +1,15 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-R-11-016
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,Accounting for fish shoals in single- and multispecies survey data using mixture distribution models
+3,Author:,"Thorson, James T."
+4,,"Stewart, Ian J."
+5,,"Punt, Andre E."
+6,Publication Year :,2011
+7,Source Citation:,"""Canadian Journal of Fisheries and Aquatic Sciences"" 68:1681-1693, 2011."
+8,DOI #:,10.1139/F2011-​086
+9,# Pages / Video Length:,13
+10,Publication Type:,reprints (peer-reviewed)
+11,Program Report #:,WSG-TA 11-16
+12,Project #:,E/I-17
+13,Abstract:,"A scientific bottom trawl survey targeting Pacific rockfishes (Sebastes spp.) occasionally yields extraordinary catch events (ECEs) in which catch-​per-​unit-​area is much greater than usual. We hypothesize that ECEs result from trawl catches of fish shoals. We developed mixture distribution models for positive catch rates to identify spatial covariates associated with ECEs or normal trawl catches and used simulation modeling to contrast the performance of mixture distribution and conventional log-linear models for estimating an annual index of positive catch rates. Finally, mixed-effects modeling was applied to multispecies data to evaluate the hypothesis that ECEs are related to shoaling behaviors. Results show that mixture distribution models are often selected over conventional models for shoaling species and that untrawlable habitat has a positive effect on rockfish densities. Simulation shows that mixture distribution models can perform as well as or better than conventional models at predicting positive catch rates. Finally, model selection supports the hypothesis that shoaling behaviors contribute to the occurrence of ECEs. We propose that greater understanding of ECEs and shoaling habitat selection could be useful in future spatial management and survey design and that mixture distribution models could improve methods for estimating annual indices of abundance."

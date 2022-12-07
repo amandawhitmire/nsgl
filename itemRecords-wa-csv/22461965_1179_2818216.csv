@@ -1,0 +1,17 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-R-19-007
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,Emulation as an approach for rapid estuarine modeling
+3,Author:,"Parker, Kai"
+4,,"Ruggiero, Peter"
+5,,"Serafin, Katherine A."
+6,,"Hill, David F."
+7,Publication Year :,2019
+8,Source Citation:,"Coastal Engineering, 150:79-93, August 2019"
+9,DOI #:,10.1016/j.coast​aleng.2019.03.0​04
+10,Publisher:,Elsevier
+11,# Pages / Video Length:,15
+12,Publication Type:,reprints (peer-reviewed)
+13,Program Report #:,ORESU-R-19-007
+14,Project #:,E/INT-143 E/A-16
+15,Abstract:,"Probabilistic flood hazard assessment is a promising methodology for estuarine risk assessment but currently remains limited by prohibitively long simulation times. This study addresses this problem through the development of an emulator, or surrogate model, which replaces the simulator (in this case the coupled ADCIRC+SWAN model) with a statistical representation ​ that is able to rapidly predict estuarine variables relevant to flooding. Emulation of water levels (WLs), non-tidal residual, and significant wave height, is explored at Grays Harbor, Washington (WA) USA using Gaussian process regression. The effectiveness of the methodology is validated at various model simplification levels to determine where error is being sourced. Emulated WLs are found to be skillful when compared to over a decade of tide gauge observations (root mean square error, RMSE,<15 cm). The largest loss of skill in the method originates with ADCIRC+SWAN attempting to reproduce observations, even when the majority of relevant physics are included. Subsequent simplifications​ to the simulator (input reduction techniques) and the emulator itself are found to introduce a trivial amount of error (average increase in RMSE of 1 cm). Emulated WLs are also compared to spatially varying observations and found to be equally skillful throughout the estuary. An example emulation application is explored by decomposing the relative forcing contributions to extreme WLs across the study site. Results show a compound nature of extreme estuarine WLs in that all forcing dimensions contribute to extremes, with streamflow having the least influence and tides the largest. Overall the approach is shown to be both skillful and efficient at reproducing critical hydrodynamic variables, suggesting that emulation may play a key role in improving our ability to probabilistical​ly assess flood risk in complex environments as well as being promising in a range of other applications."

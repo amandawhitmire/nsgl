@@ -1,0 +1,15 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-T-89-002
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,Retort processing operations: conduction-​heated foods in oval-shaped containers
+3,Author:,"Simpson, Ricardo"
+4,,"Aris, Ivan"
+5,,"Torres, J. Antonio"
+6,Publication Year :,1989
+7,Publisher:,Oregon State University (OSU) Sea Grant
+8,# Pages / Video Length:,20
+9,Publication Type:,technical reports/surveys​/patents
+10,Program Report #:,ORESU-T-89-002
+11,Grant/Contract #:,NOAA Sea Grant No. NA85AA-D-SG95
+12,Project #:,E/ISG-6
+13,Abstract:,"Sterilization, one of the most important unit operations used in the seafood industry, provides a good example of the benefits that can be gained from mathematical modelling. The model discussed in this publication can be used to evaluate retort operations for the processing of seafood in cylindrical or oval-shaped cans. The mathematical model used by the computer program was based on a finite difference approximation of the differential equation for transient heat conduction in three dimensions. A large number of container locations were considered for average bacterial lethality and quality retention calculations. Reliability of the numerical method was evaluated by comparing computer predictions with published experimental data."

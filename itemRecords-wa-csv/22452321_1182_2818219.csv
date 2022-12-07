@@ -1,0 +1,18 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-R-18-015
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,A practical introduction to Random Forest for genetic association studies in ecology and evolution
+3,Author:,"Brieuc, Marine S."
+4,,"Waters, Charles D."
+5,,"Drinan, Daniel P."
+6,,"Naish, Kerry A."
+7,Publication Year :,2018
+8,Source Citation:,"Molecular Ecology Resources, 18(4):755-766, February 2018"
+9,DOI #:,10.1111/1755-​0998.12773
+10,Publisher:,John Wiley & Sons Ltd.
+11,# Pages / Video Length:,12
+12,Publication Type:,reprints (peer-reviewed)
+13,Program Report #:,WSG-TA 18-13
+14,Project #:,R/E/I-26
+15,,R/HCE-4
+16,Abstract:,"Large genomic studies are becoming increasingly common with advances insequencing technology, and our ability to understand how genomic variation influencespheno​typic variation between individuals has never been greater. The explorationof such relationships first requires the identification of associations betweenmolecula​r markers and phenotypes. Here, we explore the use of Random Forest(RF), a powerful machine-​learning algorithm, in genomic studies to discern lociunderlying both discrete and quantitative traits, particularly when studying wild ornonmodel organisms. RF is becoming increasingly used in ecological and populationgenet​ics because, unlike traditional methods, it can efficiently analyse thousands ofloci simultaneously and account for nonadditive interactions. However, understandingbo​th the power and limitations of Random Forest is important for its properimplement​ation and the interpretation of results. We therefore provide a practicalintrod​uction to the algorithm and its use for identifying associations betweenmolecula​r markers and phenotypes, discussing such topics as data limitations, algorithminitia​tion and optimization, as well as interpretation. We also provide short Rtutorials as examples, with the aim of providing a guide to the implementation ofthe algorithm. Topics discussed here are intended to serve as an entry point formolecular ecologists interested in employing Random Forest to identify trait associationsin genomic data sets."

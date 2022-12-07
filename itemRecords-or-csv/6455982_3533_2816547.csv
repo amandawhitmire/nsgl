@@ -1,0 +1,15 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-R-08-018
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,Wave reflection from nearshore depressions
+3,Author:,"Michalsen, David R."
+4,,"Haller, Merrick C."
+5,,"Suh, Kyung Duck"
+6,Publication Year :,2008
+7,Source Citation:,"""Journal of Waterway, Port, Coastal, and Ocean Engineering,"" 134(1), January 1, 2008."
+8,DOI #:,10.1061/(ASCE)0​733-​950X(2008)134:1​(1)
+9,# Pages / Video Length:,11
+10,Publication Type:,reprints (peer-reviewed)
+11,Program Report #:,ORESU-R-08-018
+12,Project #:,R/CNH-07-PD
+13,Abstract:,"This study employs an existing finite-​difference model based on the hyperbolic form of the modified mild slope equation (MMSE) to investigate wave reflection near bathymetric depressions such as dredged borrow pits and nearshore canyons. First, the model is tested for numerical limitations on the higher order bottom slope and curvature terms using idealized cases of a simple depth transition and a symmetric trapezoidal trench, with comparisons of the MMSE to both the traditional mild slope equation (MSE) solution and a shallow water analytic solution. It is demonstrated that the model gives accurate solutions on slopes as steep as 1:1, and that the solutions from all three models agree in the shallow water region. However, for waves in intermediate depths, predicted wave reflection from nearshore depressions is shown to differ significantly between the MMSE and MSE models. Next, geometrical data from a wide range of existing and proposed borrow pits and a submarine canyon are gathered and analyzed for whether wave reflection is an important process near realistic nearshore depressions. The geometric data show that realistic nearshore depressions lie within the tested range of the MMSE model and that borrow pits are generally not in shallow water, which means it is important to use a MMSE-type model to calculate reflection from these features. In addition, storm conditions on average lead to a 50% increase in reflection coefficient in comparison to the mean wave conditions, due to the increase in wave period. Finally, the results also indicate borrow pit design criteria that can be used to ensure minimal reflection."

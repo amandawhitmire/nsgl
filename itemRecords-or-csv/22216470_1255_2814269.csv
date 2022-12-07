@@ -1,0 +1,17 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-H-17-005
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,CTDizzle User Manual
+3,Author:,"Black, Ian"
+4,,"Thaler, Andrew"
+5,,"Strub, Ted"
+6,,"Sturdivant, Kersey"
+7,,"Neches, Russell"
+8,Publication Year :,2017
+9,Publisher:,"Oregon State University, Oregon Sea Grant; GitHub, Inc."
+10,# Pages / Video Length:,35
+11,Publication Type:,"handbooks, manuals, guides"
+12,Program Report #:,ORESU-H-17-005
+13,Grant/Contract #:,NOAA Sea Grant
+14,Project #:,R-PSS-02-Strub
+15,Abstract:,"Oceanographic equipment is often expensive and inaccessible for students and citizen scientist. This online manual explains how to build an Open CTDizzle - a relatively cheap, buildable device that allows individuals to easily collect conductivity, temperature, and press data. This guide only covers the parts outlined in the parts list. If you decide to use different sensors or parts, it is your responsibility to ensure that all parts are compatible with your setup. It should be noted that this guide assumes that you are running everything through Windows. As such, there is no Linux or macOS support for the MATLAB and R processing scripts at this time. Please make sure that you are able to find an equivalent program or script modification for the steps that use third-party programs."

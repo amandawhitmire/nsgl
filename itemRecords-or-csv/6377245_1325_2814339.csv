@@ -1,0 +1,15 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-WR-11-030
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,Nearshore wave predictions along the Oregon and southwest Washington coast
+3,Author:,"Garcia, Gabriel"
+4,,"Ozkan-Haller, H. Tuba"
+5,,"Ruggiero, Peter"
+6,Publication Year :,2011
+7,Source Citation:,"""7th Annual Heceta Head Coastal Conference,"" Florence, Oregon, October 28-29, 2011."
+8,# Pages / Video Length:,1
+9,Publication Type:,reprints (not peer-reviewed)
+10,Program Report #:,ORESU-WR-11-030
+11,Project #:,R/CNH-19
+12,Notes:,abstract only
+13,Abstract:,"An increasing interest in understanding the surface water waves along the Pacific Northwest region of the United States of America has been fueled by a multi-decadal increase in wave heights, the potential for harvesting wave energy in the region, and the need to make informed management decisions in an evolving climate. To satisfy these needs, an operational nearshore, high-resolution wave forecasting system was recently implemented for the Oregon and Southwestern Washington coast. This model covers the entire Oregon coast and roughly half of Washington's at a 30 arc-second resolution. The wave model is executed on 4 levels of nested grids with increasing resolution shoreward. At the nearshore level, this implementation is 900 times more resolved than the current operational models. This model has the ability to quantify the alongshore variations of the wave conditions due to multiple complex bathymetric features such as the Astoria Canyon, Stonewall and Haceta Banks, and multiple capes and headlands. An autumn 2009 hindcast, used for model validation, shows that the root mean squared error (RMSE) in significant wave height is around 0.50 meters. During the month of June 2011 the forecasts reported RMSE in the vicinity of 0.30 meters. Quantification of forecast accuracy is being pursued actively. Wave forecasts are produced daily at 1200 UTC for an 84 hour window. The results are disseminated via the Northwest Association of Networked Ocean Observing System (NANOOS) webpage (http://www.nan​oos.org); this system integrates a wide variety of coastal information products on one interface including our wave forecasting model."

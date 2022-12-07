@@ -1,0 +1,15 @@
+,MetadataField,Metadata
+0,NSGL Document #:,MIT-R-92-015
+1,Sea Grant Program/Affiliate:,MIT Sea Grant
+2,Title:,Hyperbolic acoustic navigation for underwater vehicles: implementation and demonstration
+3,Author:,"Bellingham, James C."
+4,,"Consi, Thomas R."
+5,,"Tedrow, Usha"
+6,,"Di, Massa Diane"
+7,Publication Year :,1992
+8,Source Citation:,"""IEEE Symposium on Autonomous Underwater Vehicle Technology,"" Washington, DC, June 2-3, 1992."
+9,# Pages / Video Length:,6
+10,Publication Type:,reprints (peer-reviewed)
+11,Program Report #:,MITSG 93-16J
+12,Project #:,RU-20
+13,Abstract:,"A hyperbolic long-baseline acoustic navigation system is presented in which a vehicle determines its position by listening passively to an array of acoustic beacons. The beacons' emissions are synchronized and locations are known. Advantages of the overall navigation scheme include the capability for multiple vehicle operation, minimal hardware complexity, minimal use of vehicle power, and small size. The system has been constructed and installed on the AUV ""Sea Squirt."" System performance tests and autonomous vehicle operational data are presented."

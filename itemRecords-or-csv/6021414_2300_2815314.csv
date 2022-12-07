@@ -1,0 +1,11 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-X-01-011
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,Predictive locational modeling of late Pleistocene archaeological sites on the southern Oregon coast using a Geographic Information System (GIS) (thesis abstract)
+3,Author:,"Punke, Michele Leigh"
+4,Publication Year :,2001
+5,# Pages / Video Length:,1
+6,Publication Type:,theses/disserta​tions
+7,Program Report #:,ORESU-X-01-011
+8,Project #:,R/CC-04
+9,Abstract:,"The search for archaeological materials dating to 15,000 years BP along the southern Oregon coast is a formidable task. Using ethnographic, theoretical, and archaeological data, landscape resources which would have influenced land-use and occupation location decisions in the past are highlighted. Additionally, environmental data pertaining to the late Pleistocene are examined to determine what landscape features may have been used by human groups 15,000 years ago and to determine how these landscape features may have changed since that time. These landscape resource features are included in the modeling project as independent variables. The dependant variable in this modeling project is relative probability that an area will contain archaeological materials dating to the time period of interest. Two predictive locational models are created to facilitate the search process. These models mathematically combine the independent variables using two separate approaches. The hierarchical decision rule model approach assumes that decision makers in the past would have viewed landscape features sequentially rather than simultaneously. The additive, or weighted value, approach assumes that a number of conditional preference aspects were evaluated simultaneously and that different environmental variables had varying amounts of influence on the locational choices of prehistoric peoples. Integration of the data and mathematical model structures into a Geographic Information System (GIS) allows for spatial analysis of the landscape and the prediction of locations most likely to contain evidence of human activity dating to 15,000 years ago. The process involved with variable integration into the GIS is delineated and results of the modeling procedures are presented in spatial, map-based formats."

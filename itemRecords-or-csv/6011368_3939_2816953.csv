@@ -1,0 +1,13 @@
+,MetadataField,Metadata
+0,NSGL Document #:,OHSU-R-99-010
+1,Sea Grant Program/Affiliate:,Ohio Sea Grant
+2,Title:,Experimental study on ground point determination from high resolution airborne and satellite imagery
+3,Author:,"Li, Ron"
+4,,"Zhou, Guoqing"
+5,Publication Year :,1999
+6,Source Citation:,"""ASPRS Annual Conference,"" Portland, Oregon, May 17- 21, 1999."
+7,# Pages / Video Length:,10
+8,Publication Type:,reprints (not peer-reviewed)
+9,Program Report #:,OHSU-RS-298
+10,Project #:,R/NP-01
+11,Abstract:,"In this paper the authors introduced the principle of stereo imaging using linear arrays and its implementation in several imaging systems. A simulation study was conducted in which simulated IKONOS-I fore-, nadir- and aft-looking images were produced using airborne AIMS images, IKONOS-I technical data, and a DEM. The attainable accuracy of ground points determined by the imagery is reported, considering various conditions such as number of GCPs, distribution of GCPs, errors in image and ground coordinates and others. It is concluded that the accuracy of ground points can reach about 2-3m with GCPs and 12m without GCPs. The experimental results of HRSC and MOMS-02P data validated the bundle adjustment software system designed and implemented for processing high-resolution satellite imagery."

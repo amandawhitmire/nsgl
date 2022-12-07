@@ -1,0 +1,16 @@
+,MetadataField,Metadata
+0,NSGL Document #:,MIT-R-90-009
+1,Sea Grant Program/Affiliate:,MIT Sea Grant
+2,Title:,Keeping layered control simple
+3,Author:,"Bellingham, James G."
+4,,"Consi, Thomas R."
+5,,"Beaton, Robert M."
+6,,"Hall, William"
+7,Publication Year :,1991
+8,Source Citation:,"""Proceedings of the Symposium on Autonomous Underwater Vehicle Technology,"" pp. 3-8, Washington, D.C., June 5-6, 1990."
+9,# Pages / Video Length:,6
+10,Publication Type:,reprints (not peer-reviewed)
+11,Program Report #:,MITSG 91-10J
+12,Project #:,RU-19
+13,,RU-20
+14,Abstract:,"Practical experience gained in applying layered control to an autonomous underwater vehicle, the ""Sea Squirt,"" is presented. Also known as subsumption architecture, layered control is an architecture designed for fully autonomous robots. This paper focuses on handling vehicle dynamics, communication between layers, sensor processing, mission configuration, resolving conflict between layers, and avoiding states in which the vehicle becomes trapped. Requirements inherent in AUV applications have led the laboratory to modify the traditional layered control approach."

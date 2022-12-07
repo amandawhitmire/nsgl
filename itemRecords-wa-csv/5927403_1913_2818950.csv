@@ -1,0 +1,13 @@
+,MetadataField,Metadata
+0,NSGL Document #:,MIT-R-02-007
+1,Sea Grant Program/Affiliate:,MIT Sea Grant
+2,Title:,Stochastic mapping frameworks
+3,Author:,"Rikoski, Richard J."
+4,,"Leonard, John J."
+5,,"Newman, Paul M."
+6,Publication Year :,2002
+7,Source Citation:,"""Proceedings of the 2002 IEEE International Conference on Robotics & Automation,"" pp. 426-433, Washington D.C., May 2002."
+8,# Pages / Video Length:,8
+9,Publication Type:,reprints (peer-reviewed)
+10,Program Report #:,MITSG 03-18J
+11,Abstract:,"Stochastic mapping is a powerful approach to concurrent mapping and localization because feature and robot states are explicitly correlated. Improving the estimate of any state automatically improves the estimates of correlated states. This paper describes a number of extensions to the stochastic mapping framework, which are made possible by the incorporation of past vehicle states into the state vector to explicitly represent the robot's trajectory."

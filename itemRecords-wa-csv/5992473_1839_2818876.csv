@@ -1,0 +1,15 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-R-04-017
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,Adaptive path planning for autonomous UAV oceanic search missions (abstract only)
+3,Author:,"Rubio, Juan Carlos"
+4,,"Vagners, Juris"
+5,,"Rysdyk, Rolf"
+6,Publication Year :,2004
+7,Source Citation:,"""IAA 3rd Unmanned Unlimited Technical Conference,"" proceedings, Chicago, Illinois, September 20-22, 2004."
+8,Publisher:,American Institute of Aeronautics & Astronautics
+9,# Pages / Video Length:,2
+10,Publication Type:,reprints (not peer-reviewed)
+11,Program Report #:,WSG-WO 05-02
+12,Project #:,R/OT-22
+13,Abstract:,"This paper presents an autonomous mission architecture for locating and tracking of harmful ocean debris with unmanned aerial vehicles (UAVs). Mission simulations are presented that are based on actual weather data, predicted icing conditions, and estimate UAV performance degradation due to ice accumulation. Sun position is estimated to orient search and observation maneuvers to avoid sun glare. The planning algorithms are based on evolutionary computation techniques combined with market-based cooperation strategies for multiple UAVs. Both single vehicle and multiple autonomously cooperating UAVs cases are demonstrated."

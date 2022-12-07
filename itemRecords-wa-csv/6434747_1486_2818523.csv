@@ -1,0 +1,15 @@
+,MetadataField,Metadata
+0,NSGL Document #:,MIT-WR-11-011
+1,Sea Grant Program/Affiliate:,MIT Sea Grant
+2,Title:,Video transmission over an in-air acoustic link
+3,Author:,"Ahmed, Rameez"
+4,,"Vall, Laura Dubreuil"
+5,,"Narayanaswami, Ranga"
+6,,"Stojanovic, Milica"
+7,Publication Year :,2011
+8,Source Citation:,"""Sixth ACM International Workshop on Underwater Networks (WUWNET),"" Seattle, Washington, USA, December 1-2, 2011."
+9,# Pages / Video Length:,3
+10,Publication Type:,reprints (not peer-reviewed)
+11,Program Report #:,MITSG-11-22
+12,Project #:,2009-R/RCM-26
+13,Abstract:,"In this paper, we present the development of an in-air acoustic test-bed for rapid proof-​of-​concept testing of (underwater) communication technologies. In addition to more accurately representing the actual channel when compared to simulation, the test-bed also provides an easy method to introduce channel impairments, such as Doppler distortion, a controlled manner. This can be advantageous when the experiments need to be reproduced at a later time. We present the testing of video transmission over an acoustic channel using this test-bed. We utilize MPEG-4 video compression as it has efficient low bit rate compression capabilities. OFDM is chosen as the modulation technique as it provides robust high speed acoustic communication over underwater channels which are characterized by frequency selectivity and Doppler distortion."

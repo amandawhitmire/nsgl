@@ -1,0 +1,13 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-T-79-001
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,FAR-FIELD MATCHING FOR TIDAL CALCULATIONS IN NEARSHORE REGIONS
+3,Author:,"Pearson, Carl"
+4,Publication Year :,1979
+5,Publisher:,University of Washington Sea Grant Program
+6,# Pages / Video Length:,34
+7,Publication Type:,technical reports/surveys​/patents
+8,Program Report #:,WSG 79-1
+9,Grant/Contract #:,NOAA Sea Grant No. 04-7-158-44021
+10,,Natl. Science Foundation OCE76-00406
+11,Abstract:,"Previous work dealing with tidal current calculations in bays and estuaries has shown that the solution is sensitive to the tidal boundary condition on imposed at the mouth of the bay. This sensitivity arises from the fact that the instantaneous tidal height is affected by tidal wave reflection from the local shoreline configuration, so that from the mathematical point of view the boundary condition includes part of the problem solution. In principle, the difficulty can be resolved by replacing the boundary condition at the mouth of the bay by a matching requirement between far-field and nearshore solutions; for tidal problems, such a procedure is complicated by the importance of the Coriolis term as well as by bathymetric and topographic complexities. In this report, we describe a number of matching methods which can be used. These methods are based on integral equations, finite elements, variational methods, transform methods, series solutions, or on a combination of such methods."

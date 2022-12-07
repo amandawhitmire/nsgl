@@ -1,0 +1,13 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-R-90-025
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,Computer control of batch retort process operations
+3,Author:,"Simpson, Ricardo"
+4,,"Almonacid, Sergio"
+5,,"Torres, J. Antonio"
+6,Publication Year :,1990
+7,# Pages / Video Length:,10
+8,Publication Type:,reprints (peer-reviewed)
+9,Program Report #:,ORESU-R-90-025
+10,Project #:,E/ISG-6
+11,Abstract:,"Simulation results of a computer program for the on-line control of thermal processing of canned foods in cylindrical containers are presented. These calculations were executed while arbitrary deviations in retort temperature were occurring. The program is capable of automatically adjusting process time to compensate for any unexpected variation in retort temperature, and it takes into account the cumulative lethality of the heating and subsequent cooling period. The program was validated using several processes reported in the literature."

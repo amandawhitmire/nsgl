@@ -1,0 +1,17 @@
+,MetadataField,Metadata
+0,NSGL Document #:,MDU-R-16-031
+1,Sea Grant Program/Affiliate:,Maryland Sea Grant
+2,Title:,"Characterizing the magnitude, timing and duration of urban growth from time series of Landsat-based estimates of impervious cover"
+3,Author:,"Song, Xiao-Peng"
+4,,"Sexton, Joseph O."
+5,,"Huang, Chengquan"
+6,,"Channan, Saurabh"
+7,,"Townshend, John R."
+8,Publication Year :,2016
+9,Source Citation:,"Remote Sensing of Environment, 175:1-13, 2016"
+10,DOI #:,10.1016/j.rse.2​015.12.027
+11,# Pages / Video Length:,13
+12,Publication Type:,reprints (peer-reviewed)
+13,Program Report #:,UM-​SG-​RS-​2016-​31
+14,Project #:,R/UC-1
+15,Abstract:,"Understanding the dynamics of land-change processes in urban areas requires long-term land cover and land use data at high spatial and temporal resolution. Extending an established procedure for deriving annual, fractional estimates of impervious surface cover (ISC) from per-pixel Landsat composites, here we propose a new post classification methodology that characterizes ISC change as a continuous field in space and time. The method statistically derives the magnitude, timing and duration of ISC change at a per-pixel basis. We applied the method to a series of ISC maps of the Washington DC-Baltimore metropolitan region at an annual resolution from 1984 to 2010 to analyze the spatial, temporal and thematic patterns of urban/suburban land development. Our method was highly reliable for detecting and characterizing change, with producer's accuracy of the change-year classes (timing layer) varying between 59.4% and 97.4% and user's accuracy varying between 54.7% and 91.7%, based on a sample of independent validation points. Most misclassificati​ons were found between neighboring years; relaxing the estimated change-year to +/- 1 year increased both producer's and user's accuracy to >80%. The derived change products showed that newly developed pixels on average had a 46% increase in ISC, with the majority (80%) reaching their ISC saturation level in <= 3 years. Across the study region, annual growth in impervious surface area accelerated from similar to 6 km(2)/year (0.7% of urban area in 1984) in the mid-1980s to similar to 12 km(2)/year in the late-2010s, with a large inter-annual variability among municipalities and over successive years. Of these emerged urban pixels, 89% were converted from non-urban to low- and medium-density urban features, mostly suburban residential land use. However, the relative proportions of low-, medium- and high density urban development changed dramatically over the study period, indicating that urban sprawl of the metropolis experienced major transitions in terms of land use intensity in the past three decades. Although primarily designed for change detection, our method can also be used as a temporal smoothing technique to remove noise in time-series of land cover datasets. Our results highlight the value of mapping and monitoring urban land expansion as continuous fields along the spatial-​temporal-​thematic dimensions for understanding the dynamics of urban land-change."

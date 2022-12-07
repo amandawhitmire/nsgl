@@ -1,0 +1,15 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-R-12-004
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,"Using model-based inference to evaluate global fisheries status from landings, location, and life history data"
+3,Author:,"Thorson, James T."
+4,,"Branch, Trevor"
+5,,"Jensen, Olaf"
+6,Publication Year :,2012
+7,Source Citation:,"""Canadian Journal of Fisheries and Aquatic Sciences,"" 69(4):645-655, April 2012."
+8,DOI #:,10.1139/F2012-​016
+9,# Pages / Video Length:,11
+10,Publication Type:,reprints (peer-reviewed)
+11,Program Report #:,WSG-TA 12-06
+12,Project #:,E/I-17
+13,Abstract:,"Assessing fishery collapses worldwide is hindered by the lack of biomass data for most stocks, leading to the use of landings-based proxies or the assumption that existing stock assessments are globally representative. We argue that the use of sparse assessments to evaluate fishery status requires model-based inference because assessment availability varies spatially and temporally, and we derive a model that extrapolates from assessment results to available landings, life history, and location data. This model uses logistic regression to classify stocks into different prediction bins and estimates the probability of collapse in each using cross-​validation. Results show that landings, life history, and location are informative to discriminate among different probabilities of collapse. We find little evidence that regions with fewer assessments have a greater proportion of collapsed stocks, while acknowledging weak inferential support regarding regions with one or fewer assessments. Our extrapolation suggests that 4.5%-6.5% of stocks defined by landings data are collapsed, but that this proportion is increasing. Finally, we propose a research agenda that combines stock assessment and landings databases while overcoming limitations in each."

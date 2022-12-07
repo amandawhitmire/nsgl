@@ -1,0 +1,12 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-R-11-023
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,Auxiliary and focal assessment models: a proof-​of-​concept involving time-varying catchability and fishery stock-status evaluation
+3,Author:,"Thorson, James T."
+4,Publication Year :,2011
+5,Source Citation:,"""ICES Journal of Marine Science,"" 68(10):2264-​2276, 2011."
+6,DOI #:,10.1093/icesjms​/fsr160
+7,# Pages / Video Length:,13
+8,Publication Type:,reprints (peer-reviewed)
+9,Program Report #:,WSG-TA 11-23
+10,Abstract:,"Many assessment models evaluate stock status, and biases can arise when time-varying processes are modelled as being time-invariant. An ""auxiliary/foca​l"" assessment process is presented, where an ""auxiliary"" assessment model estimates functional parameters that are used in a ""focal"" assessment of stock status. This process is evaluated in two steps. First, estimates of density-​dependent catchability from single- or multispecies auxiliary models are compared, confirming that multispecies auxiliary models are more accurate when catch-at-age data are abundant. Possible output from the multispecies auxiliary assessment is then used in a focal model, and the results are compared with four other methods: (i) assuming that catchability is constant, (ii) ignoring fishery-​dependent indices, (iii) a random-walk catchability model, and (iv) estimating density-​dependent catchability without prior information. Results show that the constant catchability model leads to non-​conservative biases in stock-status estimates, and a random-walk model decreases bias and has high precision when age data are available. The auxiliary/focal procedure performs best when fishery indices are used without age data, and the density-​dependent model without prior information performs well with fishery and survey indices, but without age data. Different methods are optimal, therefore, depending on data availability, and the auxiliary/focal assessment process performs best of the available methods when using just fishery-​dependent indices."

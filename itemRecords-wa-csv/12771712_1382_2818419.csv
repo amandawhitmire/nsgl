@@ -1,0 +1,15 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-H-14-001
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,A guide for Bayesian analysis in AD model builder
+3,Author:,"Monnahan, Cole C."
+4,,"Muradian, Melissa L."
+5,,"Kuriyama, Peter T."
+6,Publication Year :,2014
+7,Publisher:,AD Model Builder
+8,# Pages / Video Length:,22
+9,Publication Type:,"handbooks, manuals, guides"
+10,Program Report #:,WSG-MR 15-17
+11,Notes:,"Available both as hard copy and on web. To keep up with updates to the manual, link to website."
+12,URL:,http://www.admb-project.org/developers/mcmc/mcmc-guide-for-admb/view
+13,Abstract:,"The goal of this guide is to outline and describe the steps needed to conduct a Bayesian analysis in AD Model Builder. Included are general descriptions of Bayesian inference, priors, work how and two built-in MCMC algorithms. We hope that the guide will enable users to take full advantage of the features of ADMB that are built-in, but not well-​documented."

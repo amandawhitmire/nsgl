@@ -1,0 +1,14 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-H-83-001
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,SIMCON CDC VERSION 2 IMPLEMENTOR'S GUIDE AND REFERENCE MANUAL
+3,Author:,"Beals, Eric L."
+4,,"Rexstad, Eric A."
+5,Publication Year :,1983
+6,Publisher:,Oregon State University Sea Grant College Program
+7,# Pages / Video Length:,90
+8,Publication Type:,"handbooks, manuals, guides"
+9,Program Report #:,ORESU-H-83-001
+10,Grant/Contract #:,NOAA Sea Grant No. NA79AA-D-00106
+11,Project #:,R/OPF-1
+12,Abstract:,"SIMCON CDC Version 2 is written in FORTRAN IV and is a modified and extended version of the program developed originally for an IBM 370 computer at the Institute of Animal Resource Ecology, University of British Columbia, Vancouver, B.C., by Ray Hilborn, Bill Webb and Jeff Stander in 1976. This version can be implemented without modification on Control Data Corporation  CDC! 170 series, 70, and 6000 series computers under the Network Operating System NOS! ~ This document serves as an aid to the implementation and maintenance of SIMCON on general computer systems and as a reference guide to the SIMCON a1gorithm and subprogram functions."

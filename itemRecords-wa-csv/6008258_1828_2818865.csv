@@ -1,0 +1,14 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-R-05-002
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,Evaluating factors that influence microbial phenanthrene biodegradation rates by regression with categorical variables
+3,Author:,"Tang, Yinjie J."
+4,,"Qi, Lihong"
+5,,"Krieger-​Brockett, Barbara"
+6,Publication Year :,2005
+7,Source Citation:,"""Chemosphere,"" 59:729-741, 2005."
+8,# Pages / Video Length:,13
+9,Publication Type:,reprints (peer-reviewed)
+10,Program Report #:,WSG-TA 05-08
+11,Project #:,R/NP-2
+12,Abstract:,"To advance the accuracy of bioremediation measurements, it is useful before specific experiments to attribute or estimate the influence of both experimental as well as field conditions on the expected magnitudes of microbial degradation rate coefficients. This paper analyzes the numerical contribution, or influence, of categories of conditions, such as bacterial adaptive state, electron acceptor type, mixing, generalized sorption conditions/ and biodegradation temperature, on published phenanthrene biodegradation rates as an example of the authors' regression approach. A fundamental microbial degradation rate equation is transformed to an additive model, then using multiple linear regression on published data, coefficients (of categorical variables) and a linear model are presented that estimate first-order biodegradation rate coefficients to within a factor of 3. Numerical estimates of how much bacterial adaptive state and presence of a sorption phase, the two most statistically significant factors, alter the phenanthrene biodegradation rate are presented. The influence of some measurement or field conditions, for example, the influence of oxygen reduction versus optimal nitrate reduction, cannot be distinguished statistically given the available data and range. The regression model is tested using conditions from newly published papers to estimate a priori the expected rate, which compares very favorably to measurements reported in the papers. Due to limited published data and range for extreme cases, the current coefficients do not apply to degradation of very aged phenanthrene nor very low concentrations of electron acceptors. As estimating tools, however, the coefficients themselves and the regression approach have very beneficial roles in design of experiments for both laboratory and field settings. This method can be applied to other PAHs as sufficient data become available."

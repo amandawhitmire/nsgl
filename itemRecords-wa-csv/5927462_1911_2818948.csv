@@ -1,0 +1,14 @@
+,MetadataField,Metadata
+0,NSGL Document #:,MIT-R-02-009
+1,Sea Grant Program/Affiliate:,MIT Sea Grant
+2,Title:,Explore and return: experimental validation and real- time concurrent mapping and localization
+3,Author:,"Newman, P."
+4,,"Leonard, J."
+5,,"Tardos, J. D."
+6,,"Neira, J."
+7,Publication Year :,2002
+8,Source Citation:,"""Proceedings of the 2002 IEEE International Conference on Robotics & Automation,"" pp. 1802-1809, Washington D.C., May 2002."
+9,# Pages / Video Length:,8
+10,Publication Type:,reprints (peer-reviewed)
+11,Program Report #:,MITSG 03-20J
+12,Abstract:,"Here engineers describe a real-time implementation of feature-based concurrent mapping and localization running on a mobile robot in a dynamic indoor environment. Several innovations are combined to demonstrate the ability for a mobile robot to autonomously return back to its starting position within a few centimeters of precision, despite the presence of numerous people walking through the environment."

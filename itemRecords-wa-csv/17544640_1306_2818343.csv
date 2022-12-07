@@ -1,0 +1,13 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-T-15-005
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,Ecosystem goods and services of geoduck farming in South Puget Sound: A modelling analysis
+3,Author:,"Cubillo, Alhambra"
+4,,"Ferreira, Joao G."
+5,Publication Year :,2015
+6,# Pages / Video Length:,19
+7,Publication Type:,technical reports/surveys​/patents
+8,Program Report #:,WSG-TR 15-08
+9,Project #:,R/LME/N-5
+10,Notes:,"Prepared for the Pacific Shellfish Institute by Longline Environment, Ltd,"
+11,Abstract:,"We have simulated the ecosystem goods and services of geoduck farming in Eld Inlet Farm, property of Chelsea Farms. These results were then scaled to the whole Puget Sound basin. An individual geoduck clam (Panopea generosa) growth model was developed, based on our previously developed generic framework for bivalves (AquaShell). Geoduck growth performance was then calibrated and validated for the commercial farm. For the most part, equations were taken or adapted from the literature and parameterised for the studied site. The geoduck individual model was incorporated into the Farm Aquaculture Resource Management (FARM) model to simulate the production cycle, economics, and environmental effects of intertidal culture. Both the individual and farm-scale models are built in C++ using object-oriented programming. The FARM model was also used to classify the farm area with respect to its eutrophication status, applying the Assessment of Estuarine Trophic Status (ASSETS) model. Farm production of 17.3 t of clams per 5-year culture cycle is well reproduced by the model (14.4 t). In the area of Eld Inlet Farm, at the current culture density of 21 animals per square meter, geoduck farming provide an annual ecosystem service equivalent to 45 Population-​Equivalents (PEQ, i.e. loading from humans or equivalent loading from agriculture or industry) in reducing eutrophication symptoms. This represents a potential nutrient credit trading value of over US $1,800 per year. The potential income would add 1.5% to the annual profit (US $124,900) from clam sales. A scaling exercise to the whole of Puget Sound suggests that clams provide a significant ecosystem service, of the order of 1,840 PEQ per year (about US $74,000) in removing primary symptoms of eutrophication. The objective of this research was to determine and predict the potential production and ecological carrying capacities at a Pacific geoduck clam site in South Puget Sound and examine how these results can be of broader interest in analysing clam culture in the whole Puget Sound."

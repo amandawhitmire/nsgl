@@ -1,0 +1,25 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-R-14-006
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,Time-varying natural mortality in fisheries stock assessment models: identifying a default approach.
+3,Author:,"Johnson, Kelli F."
+4,,"Monnahan, Cole C."
+5,,"McGilliard, Carey R."
+6,,"Vert-pre, Katyana A."
+7,,"Anderson, Sean C."
+8,,"Cunningham, Curry J."
+9,,"Hurtado-Ferro, Felipe"
+10,,"Licandeo, Roberto R."
+11,,"Muradian, Melissa L."
+12,,"Ono, Kotaro"
+13,,"Szuwalski, Cody S."
+14,,"Valero, Juan L."
+15,,"Whitten, Athol R."
+16,,"Punt, A. E."
+17,Publication Year :,2014
+18,Source Citation:,"ICES Journal of Marine Science, Advance Access published, doi:10.1093/ice​sjms/fsu055, April 9, 2014"
+19,DOI #:,10.1093/icesjms​/fsu055
+20,# Pages / Video Length:,14
+21,Publication Type:,reprints (peer-reviewed)
+22,Program Report #:,WSG-TA 14-03
+23,Abstract:,"A typical assumption used in most fishery stock assessments is that natural mortality (M) is constant across time and age. However, M is rarely constant in reality as a result of the combined impacts of exploitation history, predation, environmental factors, and physiological trade-offs. Misspecificatio​n or poor estimation of M can lead to bias in quantities estimated using stock assessment methods, potentially resulting in biased estimates of fishery reference points and catch limits, with the magnitude of bias being influenced by life history and trends in fishing mortality. Monte Carlo simulations were used to evaluate the ability of statistical age-structured population models to estimate spawning-stock biomass, fishing mortality, and total allowable catch when the trueMwas age-invariant, but time-varying. Configurations of the stock assessment method, implemented in Stock Synthesis, included a single age- and time-​invariantMparam​eter, specified at one of the three levels (high, medium, and low) or an estimatedM. The min–max (i.e. most robust) approach to specifying M when it is thought to vary across time was to estimate M. The least robust approach for most scenarios examined was to fix M at a high value, suggesting that the consequences of misspecifying M are asymmetric."

@@ -1,0 +1,14 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-R-91-016
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,"A system-​of-​equations approach to modeling age structured fish populations: the case of Alaskan red king crab, ""Paralithodes camtschaticus"""
+3,Author:,"Greenberg, J. A."
+4,,"Matulich, S. C."
+5,,"Mittelhammer, R. C."
+6,Publication Year :,1991
+7,Source Citation:,"""Canadian Journal of Fisheries and Aquatic Sciences,"" 48(9):1613-​1622, 1991."
+8,# Pages / Video Length:,10
+9,Publication Type:,reprints (peer-reviewed)
+10,Program Report #:,WSG-TA 91-12
+11,Project #:,R/F-81
+12,Abstract:,"This paper presents a simultaneous system-​of-​equations approach to modeling age-structured populations using trawl survey age/size frequency data. The analysis builds upon a Ricker spawner-recruit structure and provides a cohort-based estimation method that retains the underlying dynamic properties of a delay- difference model. The framework shares a common spawner-recruit function across age-class equations. This exploits the commonality among cohort members and serves as an instrumental variable, lessening the effect of measurement errors in estimation. The dynamic features of the underlying age-structured population are retained through age-specific net survivability and growth parameters that link age-classes. A seemingly unrelated regression estimation method is required to address contemporaneous correlation of errors across age-classes. This framework is applied to trawl survey data for adult male Alaskan king crab."

@@ -1,0 +1,16 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WISCU-R-19-006
+1,Sea Grant Program/Affiliate:,Wisconsin Sea Grant
+2,Title:,Lifeguarding operational camera kiosk system (LOCKS) for flash rip warning: Development and application
+3,Author:,"Liu, Yuli"
+4,,"Wu, Chin H."
+5,Publication Year :,2019
+6,Source Citation:,"Coastal Engineering, 152: Article 103537, October 2019"
+7,DOI #:,10.1016/j.coast​aleng.2019.1035​37
+8,Publisher:,Elsevier
+9,# Pages / Video Length:,14
+10,Publication Type:,reprints (peer-reviewed)
+11,Program Report #:,WISCU-R-19-006
+12,Grant/Contract #:,NA18OAR4170097
+13,Project #:,R/RCE-09
+14,Abstract:,"A Lifeguarding Operational Camera Kiosk System (LOCKS) is developed and implemented at the North Beach of Port Washington, WI to provide real-time flash rip warnings to beach users for the first time. LOCKS has three components. First, a real-time environmental observation system acquires timely beach view images and local environmental condition data. Second, an integrated nowcast forecast operational system, a high performance and distributed computing infrastructure, digitally detects and assesses flash rip hazards in high, moderate or low risks. Third, an automated kiosk dynamically issues real-time warnings on site by a three-color dynamic lights and a digital display monitor. Results of flash rip detection show that the combined length threshold and HSV-based segmentation method can be used in both sunny and cloudy days with an overall accuracy of 83%. Nonstationary locations and intermittent occurrences of flash rips are observed and characterized. The length of the flash rip ranges between 10 and 50 m. The duration of flash rips varies from 1 to 5 min with 65% of flash rips less than 2 min. A flash rip occurrence checklist by adding two new (storm and visual observation) factors is constructed to reliably assesses the likelihood of hazardous flash rips. Public communication through media mentions, news releases, and website usages show the strong interest and support of the LOCKS as a new approach to issue timely and dynamic flash rip warnings to beach users. LOCKS can be used to issue warnings of other types of rips like bathymetry-​controlled and boundary-​controlled rip currents in the future."

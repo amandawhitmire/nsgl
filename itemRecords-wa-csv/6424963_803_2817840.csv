@@ -1,0 +1,18 @@
+,MetadataField,Metadata
+0,NSGL Document #:,MDU-R-13-003
+1,Sea Grant Program/Affiliate:,Maryland Sea Grant
+2,Title:,"Urban growth of the Washington, D.C.-Baltimore, MD metropolitan region from 1984 to 2010 by annual, Landsat-based estimates of impervious cover"
+3,Author:,"Sexton, Joseph O."
+4,,"Song, Xiao-Peng"
+5,,"Huang, Chengquan"
+6,,"Channan, Saurabh"
+7,,"Baker, Matthew E."
+8,,"Townshend, John R."
+9,Publication Year :,2013
+10,Source Citation:,"""Remote Sensing of Environment,"" 129:42-53, 2013."
+11,DOI #:,10.1016/j.rse.2​012.10.025
+12,# Pages / Video Length:,12
+13,Publication Type:,reprints (peer-reviewed)
+14,Program Report #:,UM-​SG-​RS-​2013-​03
+15,Project #:,R/UC-1
+16,Abstract:,"Cities and surrounding suburbs are Earth's fastest growing land use. Urban impervious surfaces affect hydrological and energy balances, as well as biological composition and functioning of ecosystems. Although datasets have been produced documenting urban growth at multiple time periods in coarse intervals, there remains an unmet need for observations spanning multiple decades at high frequency. We have developed an empirical method for retrieving annual, long-term continuous fields of impervious surface cover from the Landsat archive and applied it to the Washington, D.C.-Baltimore, MD megalopolis from 1984 to 2010. Fitting and applying a single regression model over time, the method relies on a multi-annual training sample of high-resolution impervious cover layers tied to coincident intra- and inter-annual Landsat image composites. These predictor images are composited and normalized to maximize discrimination of impervious surfaces from intermittently bare agricultural fields and minimize inter-annual variation due to phenology, solar illumination, and atmospheric noise. Excluding the year 2009 due to lack of data availability resulting from nearly continual winter snow cover, the resulting dataset is a continuous-​field representation of impervious surface cover at 30-m horizontal and annual temporal resolution from 1984 to 2010. Average error was approximately +/- 6% cover, with outliers due to shadows from large buildings in winter images. The region's impervious surface cover grew from 881 to 1176 +/- 11 km2 over the 27-year span--an average annual gain of approximately 11 +/- 2 km2/year--with great variability among local municipalities in terms of rate of development. Patterns including intensification (i.e., ""infill"") and expansion (i.e., exurban or ""sprawl"") of development, as well as fragmentation and isolation of natural areas were clearly visible in the data at various places and times. Neither impervious surface loss nor deceleration of growth were observed in any of the cities or counties over the study span. These findings show that empirical retrieval of impervious coverage at the spatial and temporal scale of the Landsat archive is possible using dense time-stacks of calibrated Landsat images, and that long-term records such as this can provide new opportunities for analyzing land-use patterns and their underlying causes to improve understanding of socio-economic processes and human-​environment interactions."

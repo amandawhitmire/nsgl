@@ -1,0 +1,12 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-R-94-034
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,Estimating the number of fish landed from their total weight and a sample average weight
+3,Author:,"Sampson, David B."
+4,Publication Year :,1994
+5,Source Citation:,"""Canadian Journal of Fisheries and Aquatic Sciences,"" 51:2537-2548, 1994."
+6,# Pages / Video Length:,12
+7,Publication Type:,reprints (peer-reviewed)
+8,Program Report #:,ORESU-R-94-034
+9,Project #:,R/ES-16
+10,Abstract:,"Assessing the status of a commercially exploited fish stock usually involves fitting a model for the stock's dynamics to observations of the number of fish landed. Typically, the number of fish landings estimated from the ratio of the total landed weight, which is known exactly, over the sample average weight of a fish. This paper examines how errors in the sample average weight are transformed asymmetrically into errors in the estimate of the numbers landed when samples consist of fixed numbers of fish. Two alternative estimators are developed and are shown, using Monte Carlo simulations, to be less biased than the standard estimator."

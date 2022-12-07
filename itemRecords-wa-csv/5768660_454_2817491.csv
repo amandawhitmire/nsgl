@@ -1,0 +1,15 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-I-98-002
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,Fish_Ideas help manual
+3,Author:,"Swartzman, Gordon"
+4,,"Sullivan, Pat"
+5,,"Heeley, Michael"
+6,,"Somerton, David"
+7,Publication Year :,1998
+8,# Pages / Video Length:,6
+9,Publication Type:,"web/blog sites (topical), other web-based resources"
+10,Program Report #:,WSG-AV 98-16
+11,Notes:,available online: http://www.cgs.​washington.edu/​~gordie/assessm​ent.advice.html​
+12,URL:,http://www.cgs.​washington.edu/​~gordie/assessm​ent.advice.html​
+13,Abstract:,"Fish-Ideas is an interactive computer environment for analyzing fisheries survey data. It requires a SUN Sparc workstation with Splus software and an X-Windows interface built on X11-R5 and running SUNOS 4.1. Fish-Ideas provides tools for abundance estimation and provides advice, diagnostic, and feedback to the user about assumptions inherent in various methods and their possible violation with current survey data. It is designed to help the user arrive at the most appropriate data assessment method and to carry out the assessment. This publication is a short manual on its use."

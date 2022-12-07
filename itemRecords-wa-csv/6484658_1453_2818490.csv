@@ -1,0 +1,16 @@
+,MetadataField,Metadata
+0,NSGL Document #:,MDU-R-13-008
+1,Sea Grant Program/Affiliate:,Maryland Sea Grant
+2,Title:,Potential stream density in Mid-Atlantic U.S. watersheds
+3,Author:,"Elmore, Andrew J."
+4,,"Julian, Jason P."
+5,,"Guinn, Steven M."
+6,,"Fitzpatrick, Matthew C."
+7,Publication Year :,2013
+8,Source Citation:,"""PLoS One,"" 8(8):e74819, doi: 10.1371/journal​.pone.0074819, August 2013."
+9,DOI #:,10.1371/journal​.pone.0074819
+10,# Pages / Video Length:,15
+11,Publication Type:,reprints (peer-reviewed)
+12,Program Report #:,UM-​SG-​RS-​2013-​08
+13,Project #:,R/WS-1
+14,Abstract:,"Stream network density exerts a strong influence on ecohydrologic processes in watersheds, yet existing stream maps fail to capture most headwater streams and therefore underestimate stream density. Furthermore, discrepancies between mapped and actual stream length vary between watersheds, confounding efforts to understand the impacts of land use on stream ecosystems. Here we report on research that predicts stream presence from coupled field observations of headwater stream channels and terrain variables that were calculated both locally and as an average across the watershed upstream of any location on the landscape. Our approach used maximum entropy modeling (MaxEnt), a robust method commonly implemented to model species distributions that requires information only on the presence of the entity of interest. In validation, the method correctly predicts the presence of 86% of all 10-m stream segments and errors are low (<1%) for catchments larger than 10 ha. We apply this model to the entire Potomac River watershed (37,800 km2) and several adjacent watersheds to map stream density and compare our results with the National Hydrography Dataset (NHD). We find that NHD underestimates stream density by up to 250%, with errors being greatest in the densely urbanized cities of Washington, DC and Baltimore, MD and in regions where the NHD has never been updated from its original, coarse-grain mapping. This work is the most ambitious attempt yet to map stream networks over a large region and will have lasting implications for modeling and conservation efforts."

@@ -1,0 +1,16 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-R-11-030
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,A model for estimating the minimum number of offspring to sample in studies of reproductive success
+3,Author:,"Anderson, Joseph H."
+4,,"Ward, Eric J."
+5,,"Carlson, Stephanie M."
+6,Publication Year :,2011
+7,Source Citation:,"""Journal of Heredity,"" 102(5):567-576, September-​October 2011."
+8,DOI #:,10.1093/jhered/​esr060
+9,# Pages / Video Length:,10
+10,Publication Type:,reprints (peer-reviewed)
+11,Program Report #:,WSG-TA 11-31
+12,Project #:,R/F-148
+13,,R/F-159
+14,Abstract:,"Molecular parentage permits studies of selection and evolution in fecund species with cryptic mating systems, such as fish, amphibians, and insects. However, there exists no method for estimating the number of offspring that must be assigned parentage to achieve robust estimates of reproductive success when only a fraction of offspring can be sampled. We constructed a 2-stage model that first estimated the mean (μ) and variance (v) in reproductive success from published studies on salmonid fishes and then sampled offspring from reproductive success distributions simulated from the μ and v estimates. Results provided strong support for modeling salmonid reproductive success via the negative binomial distribution and suggested that few offspring samples are needed to reject the null hypothesis of uniform offspring production. However, the sampled reproductive success distributions deviated significantly (χ2 goodness-of-fit test p value <0.05) from the known simulated reproductive success distribution at rates often>0.05 and as high as 0.24, even when hundreds of offspring were assigned parentage. In general, reproductive success patterns were less accurate when offspring were sampled from cohorts with larger numbers of parents and greater variance in reproductive success. Our model can be reparameterized with data from other species and will aid researchers in planning reproductive success studies by providing explicit sampling targets required to accurately assess reproductive success."

@@ -1,0 +1,16 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-R-08-017
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,P-LOCI: a computer program for choosing the most efficient set of loci for parentage assignment
+3,Author:,"Matson, Sean E."
+4,,"Camara, Mark D."
+5,,"Eichert, Will"
+6,,"Banks, Michael A."
+7,Publication Year :,2008
+8,Source Citation:,"""Molecular Ecology Resources,"" 8(4):765-768, 2008."
+9,DOI #:,10.1111/j.1755-​0998.2008.02128​.x
+10,# Pages / Video Length:,4
+11,Publication Type:,reprints (peer-reviewed)
+12,Program Report #:,ORESU-R-08-017
+13,Project #:,R/SAQ-10
+14,Abstract:,"Determining how many and which codominant marker loci are required for accurate parentage assignment is not straightforward because levels of marker polymorphism, linkage, allelic distributions among potential parents and other factors produce differences in the discriminatory power of individual markers and sets of markers. P-LOCI software identifies the most efficient set of codominant markers for assigning parentage at a user-defined level of success, using either simulated or actual offspring genotypes of known parentage. Simulations can incorporate linkage among markers, mating design and frequencies of null alleles and/or genotyping errors. P-LOCI is available for windows systems at http://marinere​search.oregonst​ate.edu/genetic​s/ploci.htm."

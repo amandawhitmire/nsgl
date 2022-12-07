@@ -1,0 +1,14 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-R-11-015
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,Better catch curves: incorporating age-specific natural mortality and logistic selectivity
+3,Author:,"Thorson, James T."
+4,,"Prager, Michael H."
+5,Publication Year :,2011
+6,Source Citation:,"""Transactions of the American Fisheries Society,"" 140:356?366, 2011."
+7,DOI #:,10.1080/0002848​7.2011.557016
+8,# Pages / Video Length:,11
+9,Publication Type:,reprints (peer-reviewed)
+10,Program Report #:,WSG-TA 11-15
+11,Project #:,E/I-17
+12,Abstract:,"Catch-curve analysis is one of the simplest methods for stock assessment and is widely applied in data-poor fisheries. Conventional catch-curve methods rely on the strong assumptions of constant fishing and natural mortality rates above some fully selected age that is usually estimated by visually inspecting a plot of catch at age. Here, we evaluate the performance of three catch-curve methods that relax or modify these assumptions by (1) estimating logistic selectivity parameters, (2) assuming Lorenzen-form natural mortality (natural mortality that decreases with weight), and (3) using both methods simultaneously. We used simulation modeling and decision tables to compare estimates of fishing mortality from four catch-curve methods, including the conventional method, across a variety of observable and unobservable data characteristics​. We then applied the methods to catch-at-age data for Atlantic menhaden Brevoortia tyrannus from the U.S. South Atlantic fishery management region and compared the resulting estimates with published estimates of fishing mortality (F). In our simulation modeling, catch curves that estimated logistic selectivity parameters performed better than those derived by the conventional method when logistic selectivity was present. There was generally little difference in performance between estimates assuming constant natural mortality and those assuming Lorenzen natural mortality. The improvements from estimating selectivity parameters were particularly pronounced when the sample sizes for catch-at-age data were large: in those instances, estimating selectivity improved the estimation accuracy for F by nearly 20%. In our example involving Atlantic menhaden, estimates of F assuming logistic selectivity were most similar to those of published stock assessments, which had previously estimated logistic selectivity at age. We recommend our logistic-​selectivity catch curve when selectivity is likely to be logistic because it improves accuracy at only a very small cost in terms of computational complexity."

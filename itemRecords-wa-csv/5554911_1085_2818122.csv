@@ -1,0 +1,14 @@
+,MetadataField,Metadata
+0,NSGL Document #:,HAWAU-R-90-019
+1,Sea Grant Program/Affiliate:,Hawaii Sea Grant
+2,Title:,Control and optical sensing in underwater robotic vehicles (URVs)
+3,Author:,"Yuh, J."
+4,,"Fox, Joel S."
+5,,"Lakshmi, R."
+6,Publication Year :,1990
+7,Source Citation:,"""Oceans '90 Conference Proceedings,"" pp. 88-93, Washington, D. C., September 24-26, 1990."
+8,# Pages / Video Length:,6
+9,Publication Type:,reprints (not peer-reviewed)
+10,Program Report #:,UNIHI-​SEAGRANT-​CP-​90-​05
+11,Project #:,R/OE-11
+12,Abstract:,"Progress in the development of an autonomous underwater robotic vehicle (URV) is described. One of the critical subsystems of the vehicle to increase its autonomy is the control and sensory system. Two adaptive control systems for URVs, conventional adaptive control algorithm and adaptive neural-net control algorithm, have been designed. In this paper, the performances of these two control systems are compared. A new algorithm for sensing vehicle motion utilizing the apparent flow of textured surfaces in video images of the ocean bottom is discussed."

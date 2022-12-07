@@ -1,0 +1,12 @@
+,MetadataField,Metadata
+0,NSGL Document #:,CASG-WR-08-002
+1,Sea Grant Program/Affiliate:,California Sea Grant
+2,Title:,Exploratory text mining of ocean law to measure overlapping agency and jurisdictional authority
+3,Author:,"Ekstrom, Julia A."
+4,,"Lau, Gloria T."
+5,Publication Year :,2008
+6,Source Citation:,"""9th Annual International Digital Government Research Conference,"" proceedings, pp. 53-62, Montreal, Canada, May 2008."
+7,# Pages / Video Length:,10
+8,Publication Type:,reprints (not peer-reviewed)
+9,Project #:,R/OPC-ENV-02
+10,Abstract:,"In this paper, we describe an innovative application of mining laws to identify and measure overlapping jurisdictions of government agencies. Laws (statutes and regulations) were used to represent ocean and coastal management for four geopolitical jurisdictions of federal and state levels (Washington, Oregon, and California). We developed preliminary metrics of overlap based on the number of statutes, regulations, and agencies associated with any given topic. The utility of these metrics was tested on 46 topics representing a range of activities and resources across ocean-related sectors within the geographic scope of laws investigated. We found the preliminary results of the overlaps metrics to reveal results similar to a recent review of federal ocean management. In addition, a network diagram graphical display of the data revealed multiple dimensions to facilitate interpretation of results."

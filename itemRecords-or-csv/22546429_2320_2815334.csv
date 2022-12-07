@@ -1,0 +1,18 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-WR-19-001
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,Incorporating a probabilistic climate emulator into an agent-based coastal futures forecasting system
+3,Author:,"Leung, Meredith"
+4,,"Ruggiero, Peter"
+5,,"Anderson, Dylan"
+6,,"Mendez, Fernando J."
+7,,"Rueda, Ana"
+8,,"Bolte, John"
+9,Publication Year :,2019
+10,Source Citation:,"Proceedings of the 9th International Conference on Coastal Sediments 2019 (CS19), May 27-31, 2019, Tampa/St. Petersburg, Florida"
+11,# Pages / Video Length:,8
+12,Publication Type:,reprints (not peer-reviewed)
+13,Program Report #:,ORESU-WR-19-001
+14,Grant/Contract #:,NA18OAR4170072
+15,Project #:,R/CNH-​30-​Ruggiero
+16,Abstract:,"Development of effective adaptation strategies for coping with future coastal hazards necessitates consideration of human-induced alterations to the system, climate-induced changes to environmental forcings, and the feedbacks between these drivers. This study expands on recent county-scale applications of Envision, a stakeholder-​driven, spatially explicit decision-making framework for exploring alternative coastal futures, by broadening the scope to the entire Oregon coast and explicitly incorporating climate variability into forecasted coastal hazards. This variability is introduced through TESLA- EX, a climate emulator capable of producing stochastic time series relevant to forcing the coastal evolution and flooding sub-models in Envision. The resulting outputs from TESLA-EX docked with Envision are designed to help coastal communities develop effective adaptation strategies against coastal hazards, and provide researchers, government officials, and community stakeholders with a quantitative understanding of the relative importance of adaptation decisions and climate variability in driving future changes to their community."

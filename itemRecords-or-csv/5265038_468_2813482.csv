@@ -1,0 +1,14 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-H-81-001
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,SIMCON: A SIMULATION CONTROL LANGUAGE AT OREGON STATE UNIVERSITY EXPLORE REALMS OF WONDER AND ADVENTURE
+3,Author:,"Beals, Eric L."
+4,,"Rexstad, Eric"
+5,Publication Year :,1981
+6,Publisher:,OSU Sea Grant
+7,# Pages / Video Length:,59
+8,Publication Type:,"handbooks, manuals, guides"
+9,Program Report #:,ORESU-H-81-001
+10,Grant/Contract #:,NOAA Sea Grant No. NA79AA-D-00106
+11,Project #:,R/OPF-1
+12,Abstract:,"This is the first of two documents describing the SIMCON computer system and is further divided into three parts. Part 1 is directed toward all users of SIMCON and contains a general introduction and description of the SIMCON system and a user's guide to running a model under SIMCON. Users need not be familiar with the FORTRAN programming language to read and use this part. Part 2 is a modeler's guide to SIMCON and is designed specifically to aid the FORTRAN programmer construct, models utilizing the SIMCON language. Part 3 contains a list of run-time error messages SIMCON is capable of generating. The errors are described and possible solutions to the errors are discussed."

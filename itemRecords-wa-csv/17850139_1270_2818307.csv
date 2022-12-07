@@ -1,0 +1,18 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-R-16-022
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,Can autocorrelated recruitment be estimated using integrated assessment models and how does it affect population forecasts?
+3,Author:,"Johnson, Kelli F."
+4,,"Councill, Elizabeth"
+5,,"Thorson, James T."
+6,,"Brooks, Elizabeth"
+7,,"Methot, Richard D."
+8,,"Punt, Andre E."
+9,Publication Year :,2016
+10,Source Citation:,"Fisheries Research, 183:222-232, November 2016"
+11,DOI #:,10.1016/j.shres​.2016.06.004
+12,# Pages / Video Length:,11
+13,Publication Type:,reprints (peer-reviewed)
+14,Program Report #:,WSG-TA 16-31
+15,Project #:,E/I-25
+16,Abstract:,"The addition of juveniles to marine populations (termed “recruitment”) is highly variable due to variability in the survival of fish through larval and juvenile stages. Recruitment estimates are often large or small for several years in a row (termed “autocorrelated​” recruitment). Autocorrelated recruitment can be due to numerous factors, but typically is attributed to multi-year environmental drivers affecting early life survival rates. Estimating the magnitude of recruitment autocorrelation within a stock assessment model and examinations on its effect on the quality of forecasts of spawning biomass within stock assessments is uncommon. We used a simulation experiment to evaluate the estimability of autocorrelation within a stock assessment model over a range of levels of autocorrelation in recruitment deviations. The precision and accuracy of estimated autocorrelation​, and the ability of an integrated age-structured stock assessment framework to forecast the dynamics of the system, were compared for scenarios where the autocorrelation parameter within the assessment was fixed at zero, fixed at its true value, internally estimated within the integrated model, or input as a fixed value determined using an external estimation procedure that computed the sample autocorrelation of estimated recruitment deviations. Internal estimates of autocorrelation were biased toward extreme values (i.e., towards 1.0 when true autocorrelation was positive and −1.0 when true autocorrelation was negative). Estimates of autocorrelation obtained from the external estimation procedure were nearly unbiased. Forecast performance was poor (i.e., true biomass outside the predictive interval for the forecasted biomass) when autocorrelation was ignored, but was non-zero in the simulation. Applying the external estimation procedure generally improved forecast performance by decreasing forecast error and improving forecast interval coverage. However, estimates of autocorrelation were shown to degrade when fewer than 40 years of recruitment estimates were available."

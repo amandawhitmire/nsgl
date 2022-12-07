@@ -1,0 +1,16 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-R-13-008
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,An inner-shelf wave forecasting system for the U.S. Pacific Northwest
+3,Author:,"Garcia-Medina, Gabriel"
+4,,"Ozkan-Haller, H. Tuba"
+5,,"Ruggiero, Peter"
+6,,"Oskamp, Jeffrey"
+7,Publication Year :,2013
+8,Source Citation:,"""Weather and Forecasting,"" 28(3):681-703, June 2013."
+9,DOI #:,10.1175/WAF-​D-​12-​00055.1
+10,# Pages / Video Length:,23
+11,Publication Type:,reprints (peer-reviewed)
+12,Program Report #:,ORESU-R-13-008
+13,Project #:,R/CNH-19
+14,Abstract:,"An operational inner-shelf wave forecasting system was implemented for the Oregon and southwest Washington coast in the U.S. Pacific Northwest (PNW). High-resolution wave forecasts are useful for navigational planning, identifying wave energy resources, providing information for site-specific coastal flood models, and having an informed recreational beach user group, among other things. This forecasting model is run once a day at 1200 UTC producing 84-h forecasts. A series of nested grids with increasing resolution shoreward are implemented to achieve a 30-arc-second resolution at the shelf level. This resolution is significantly higher than what the current operational models produce, thus improving the ability to quantify the alongshore variations of wave conditions on the PNW coast. Normalized root-​mean-​squared errors in significant wave height and mean wave period range from 0.13 to 0.24 and from 0.13 to 0.26, respectively. Visualization of the forecasts is made available online and is presently being used by recreational beach users and the scientific community. A series of simulations, taking advantage of having a validated shelf-scale numerical wave model, suggests that neither dissipation due to bottom friction nor wind generation is important in the region at this scale for wave forecasting and hindcasting when considering bulk parameters as opposed to the processes of refraction and shoaling. The Astoria and McArthur Canyons; the Stonewall, Perpetua, and Heceta Banks; and Cape Blanco are significant bathymetric features that are shown to be capable of producing alongshore variability of wave heights on the shelf."

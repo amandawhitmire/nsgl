@@ -1,0 +1,13 @@
+,MetadataField,Metadata
+0,NSGL Document #:,MIT-R-02-008
+1,Sea Grant Program/Affiliate:,MIT Sea Grant
+2,Title:,Cooperative concurrent mapping and localization
+3,Author:,"Fenwick, John W."
+4,,"Newman, Paul M."
+5,,"Leonard, John J."
+6,Publication Year :,2002
+7,Source Citation:,"""Proceedings of the 2002 IEEE International Conference on Robotics & Automation,"" pp. 1810-1817, Washington DC, May 2002."
+8,# Pages / Video Length:,8
+9,Publication Type:,reprints (peer-reviewed)
+10,Program Report #:,MITSG 03-19J
+11,Abstract:,"This paper reports the execution of an important step in the development of concurrent mapping and localization (CML): a CML algorithm for use by multiple collaborating autonomous vehicles. Sharing and combining observations of environmental features as well as of the collaborating vehicles can greatly enhance the performance of CML. This work demonstrates its feasibility and benefits by quantifying the improvement in CML performance achieved by collaboration, and comparing collaborative versus single- vehicle CML results in simulation."

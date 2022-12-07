@@ -1,0 +1,21 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-R-20-017
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,Integrated mixed-effect growth models for species with incomplete ageing histories: a case study for the loggerhead sea turtle Caretta caretta
+3,Author:,"Chasco, Brandon E."
+4,,"Thorson, James T."
+5,,"Heppell, Selina S."
+6,,"Avens, Larisa"
+7,,"McNeill, Joanne Braun"
+8,,"Bolten, Alan B."
+9,,"Bjorndal, Karen A."
+10,,"Ward, Eric J."
+11,Publication Year :,2020
+12,Source Citation:,"Marine Ecology Progress Series, 636: 221-234, February 20, 2020"
+13,DOI #:,10.3354/meps132​22
+14,Publisher:,Inter-Research
+15,# Pages / Video Length:,14
+16,Publication Type:,reprints (peer-reviewed)
+17,Program Report #:,ORESU-R-20-017
+18,Grant/Contract #:,NA16OAR4170190
+19,Abstract:,"For stochastic growth processes, integrated mixed-effects (IME) models of capture-​recapture data and size-at-age data from calcified structures such as otoliths can reduce bias in model parameters. Researchers have not fully explored the performance of IME models for simultaneously estimating the unknown ages, growth model parameters, and derived variables. We simulated capture-​recapture observations for tagging experiments and skeletochronolo​gy (i.e. humerus growth) observations for stranded loggerhead sea turtles Caretta caretta based on previously published parameter estimates for 3 growth processes (logistic, Gompertz, and von Bertalanffy). We then fit IME models to the integrated and non-integrated data. For the integrated data (both tagging and skeletochronolo​gy), we found decreased bias and uncertainty in estimated growth parameters and ages, and decreased misspecificatio​n of the growth process based on AIC. Applying the IME model to Western Atlantic loggerheads, the von Bertalanffy growth process provided the best fit to the skeletochronolo​gy data for the humeri from 389 stranded turtles and capture-​recapture data from 480 tagged turtles. The estimated mean growth coefficient (μk) and mean asymptotic straight carapace length (μ×) were equal to 0.076 yr-1 and 92.1 cm, respectively. The estimated mean ages of the stranded turtles and recaptured tagged turtles were 13.5 and 14.6 yr, respectively. Assuming the size-at-sexual maturity (SSM) is 95% of the asymptotic size, the mean and 95% predictive interval for the age-at-sexual maturity (ASM) was 38 (29, 49) yr. Our results demonstrate that IME models provide reduced bias of the growth parameters, unknown ages, and derived variables such as ASM."

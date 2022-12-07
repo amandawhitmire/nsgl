@@ -1,0 +1,13 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-T-73-002
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,ESTIMATION OF THE INTENSITY OF A FILTERED POISSON PROCESS AND ITS APPLICATION TO ACOUSTIC ASSESSMENT OF MARINE ORGANISMS
+3,Author:,"Ehrenberg, John E."
+4,Publication Year :,1973
+5,Publisher:,"University of Washington, Division of Marine Resources"
+6,# Pages / Video Length:,135
+7,Publication Type:,technical reports/surveys​/patents
+8,Program Report #:,WSG 73-2; NOAA-73102306
+9,Grant/Contract #:,NOAA Sea Grants 1-35320 and NG-1-72
+10,,Natl. Science Foundation Grant GH-66
+11,Abstract:,"This publication was originally submitted as a dissertation for the Ph.D. degree in electrical engineering at the University of Washington. The research reported here was supported by the Washington Sea Grant marine acoustics program. The marine acoustics program emphasizes an interdisciplina​ry approach for the development and application of acoustical techniques for assessing the population of biological organisms. One of the primary goals of this research was to analyze the role of signal processing in acoustic systems for estimating the abundance of marine organisms. In such an analysis, the first step is to design a reasonable model for the scattering environment. The model used here assumes that the organisms are distributed according to a spatial Poisson distribution. A method for estimating the probabiIity density function of the single scatterer target strength is discussed. The mean value of the target strength is required to scale the echo integrator output and obtain an absolute abundance estimate."

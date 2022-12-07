@@ -1,0 +1,25 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-R-16-007
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,The effect of length bin width on growth estimation in integrated age-structured stock assessments
+3,Author:,"Monnahan, Cole C."
+4,,"Ono, Kotaro"
+5,,"Anderson, Sean C."
+6,,"Rudd, Merrill B."
+7,,"Hicks, Allan C."
+8,,"Hurtado-Ferro, Felipe"
+9,,"Johnson, Kelli F."
+10,,"Kuriyama, Peter T."
+11,,"Licandeo, Roberto R."
+12,,"Stawitz, Christine C."
+13,,"Taylor, Ian G."
+14,,"Valero, Juan L."
+15,Publication Year :,2016
+16,Source Citation:,"Fisheries Research, 180:103-112, 2016"
+17,,"Fisheries Research, available online doi: 10.1016/j.fishr​es.2015.11.002,​ November 23, 2015"
+18,DOI #:,10.1016/j.fishr​es.2015.11.002
+19,# Pages / Video Length:,10
+20,Publication Type:,reprints (peer-reviewed)
+21,Program Report #:,WSG-TA 15-47
+22,Project #:,R/COCC/SS-1
+23,Abstract:,"Analysts conducting stock assessments using integrated, age-structured models must discretize length data into a limited number of bins (data bins). Furthermore, some modeling frameworks also allow users to specify a distinct structure for how lengths of fish are represented in the model (model bins). The effect of choices regarding the number and width of these bins on model output is unclear, and these choices are made inconsistently in assessments across regions and species. Here, we used the stock synthesis modeling framework, and the ss3sim stock assessment simulation package, to explore the effects of choices about length discretization on stock assessment performance for three fish life-history types and four data cases. We found that, with all other aspects of a model fixed, increasing the model bin width tended to increase estimates of spawning biomass, but this effect depended on the shape of length-based processes (e.g., growth, maturity, and selectivity). Thus, we suggest analysts using model bins wider than 1 cm explore the effect of this decision on derived management quantities. In the context of estimation, there generally was a predictable tradeoff between estimation accuracy and model run time, with finer model and data bins always improving estimation accuracy and model convergence, but increasing run time. In some cases, wider data bins reduced run time (by up to 50%) with little sacrifice in model estimation performance, particularly those using conditional age-at-length data. This study identifies key aspects to consider when binning length, and provides pertinent information for stock assessment best practice guidelines."

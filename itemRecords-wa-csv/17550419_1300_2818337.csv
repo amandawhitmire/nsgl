@@ -1,0 +1,25 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-R-16-006
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,"An empirical weight-at-age approach reduces estimation bias compared to modeling parametric growth in integrated, statistical stock assessment models when growth is time varying"
+3,Author:,"Kuriyama, Peter T."
+4,,"Ono, Kitaro"
+5,,"Hurtado-​Ferro, Felipe"
+6,,"Hicks, Allan C."
+7,,"Taylor, Ian G."
+8,,"Licandeo, Roberto R."
+9,,"Johnson, Kelli F."
+10,,"Anderson, Sean C."
+11,,"Monnahan, Cole C."
+12,,"Budd, Merrill B."
+13,,"Stawitz, Christine C."
+14,,"Valero, Juan L."
+15,Publication Year :,2016
+16,Source Citation:,", 180:119-127, 2016"
+17,,"Fisheries Research, Available online doi: 10.1016/j.fishr​es.2015.09.007,​ September 28, 2015"
+18,DOI #:,10.1016/j.fishr​es.2015.09.007
+19,# Pages / Video Length:,9
+20,Publication Type:,reprints (peer-reviewed)
+21,Program Report #:,WSG-TA 15-46
+22,Project #:,R/COCC/SS-1
+23,Abstract:,"Somatic growth in fishes often varies through time. Despite this, most stock assessments either fix or estimate a time-invariant growth relationship because estimating time-varying growth parameters can be data intensive and subject to multiple sources of bias. Additionally, estimates of growth are often confounded with estimates of selectivity, particularly if selectivity is also time varying. Incorporating empirical weight-at-age (EWAA) information into assessments is a little-studied alternative that accounts for time-varying growth, but foregoes fixing or estimating growth and length–weight relationships. However, this method requires annual measures of fish weights at each age, and missing values must therefore be interpolated. We used Stock Synthesis in a simulation-​testing framework to compare the effect of estimating a single time-invariant growth curve, time-varying growth curves, and incorporating EWAA information on management quantities and parameter estimates. We ran simulations across two fish life histories (hake-like and rockfish-like) and three data cases (data-rich, data-rich with a late-starting survey, and data-moderate). We found that when growth was time invariant, the EWAA approach was unbiased but had twice the median average relative error compared to a model that estimated growth from age and length data. However, for data-rich cases with time-varying growth, the EWAA method resulted in more accurate estimates of spawning stock biomass compared to the approach that estimated time-invariant and time-varying growth parameters, as evidenced by at least a five-fold reduction in range of median relative errors. The magnitude of this effect was greatest for the long-lived, slow-growing life history. For the relatively fast-growing species, estimates from the EWAA method were particularly sensitive to interpolating missing values."

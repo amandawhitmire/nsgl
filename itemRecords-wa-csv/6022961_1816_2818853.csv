@@ -1,0 +1,18 @@
+,MetadataField,Metadata
+0,NSGL Document #:,MIT-R-05-005
+1,Sea Grant Program/Affiliate:,MIT Sea Grant
+2,Title:,Ship hull inspection by hull-relative navigation and control
+3,Author:,"Vaganay, J."
+4,,"Elkins, M. L."
+5,,"Willcox, S."
+6,,"Hover, F. S."
+7,,"Damus, R. S."
+8,,"Desset, S."
+9,,"Morash, J. P."
+10,,"Polidoro, V. C."
+11,Publication Year :,2005
+12,Source Citation:,"""The Proceedings of MTS/IEEE Oceans,"" Washington, D.C., 2005."
+13,# Pages / Video Length:,6
+14,Publication Type:,reprints (peer-reviewed)
+15,Program Report #:,MITSG 05-13J
+16,Abstract:,"MIT and Bluefin Robotics designed the Hovering Autonomous Underwater Vehicle (HAUV) with a focus on ship hull inspection missions for anti-terrorism and force protection. Our hull-relative navigation and control are primarily based on a Doppler Velocity Log that the vehicle keeps pointed normal to the hull by means of a tilt actuator. A Dual Frequency Identification Sonar (DIDSON) is used to inspect the hull. The sonar is mounted on a separate tilt actuator in order to control the grazing angle relative to the hull. The vehicle has been successfully tested on the decommissioned heavy cruiser ""USS Salem (CA 139)"". The results of a demonstration to the US Navy are reported in this paper."

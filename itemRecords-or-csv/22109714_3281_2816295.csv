@@ -1,0 +1,18 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-R-17-029
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,Graphical coding data and operational guidance for implementation or modification of a LabVIEW-based pHstat system for the cultivation of microalgae
+3,Author:,"Golda, Rachel L."
+4,,"Golda, Mark D."
+5,,"Peterson, Tawnya D."
+6,,"Needoba, Joseph A."
+7,Publication Year :,2017
+8,Source Citation:,"Data in Brief, 12:463-470, 2017"
+9,DOI #:,10.1016/j.dib.2​017.04.046
+10,# Pages / Video Length:,8
+11,Publication Type:,reprints (peer-reviewed)
+12,Program Report #:,ORESU-R-17-029
+13,Project #:,E/INT-116
+14,Notes:,open access
+15,,See also ORESU-R-17-028
+16,Abstract:,"The influence of pH on phytoplankton physiology is an important facet of the body of research on ocean acidification. Researchers provide data developed during the design and implementation of a novel pH stat system capable of maintaining both static and dynamic pH environments in a laboratory setting. These data both help improve functionality of the system, and provide specific coding blocks for controlling the pHstat using a LabVIEW virtual instrument (VI). The data in this paper support the research article “Development of an economical, autonomous pHstat system for culturing phytoplankton under steady state or dynamic conditions” (Golda, et al). These data will be of interest to researchers studying the effects of changing pH on phytoplankton in a laboratory context, and to those desiring to build their own pHstat system(s).These data can also be used to facilitate modification of the pHstat system to control salinity, temperature, or other environmental factors."

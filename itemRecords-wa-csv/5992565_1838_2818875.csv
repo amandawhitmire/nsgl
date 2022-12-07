@@ -1,0 +1,11 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-X-04-004
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,Long range evolution-based path planning for UAVs through realistic weather environments
+3,Author:,"Torroella, Juan Carlos Rubio"
+4,Publication Year :,2004
+5,# Pages / Video Length:,2
+6,Publication Type:,theses/disserta​tions
+7,Program Report #:,WSG-TH 05-01
+8,Project #:,R/OT-22
+9,Abstract:,"The application of an evolution-based path planner for UAVs in long-range flights is presented. The planner makes use of wind information from actual weather forecast databases and considers areas of potential icing hazard. Weather variability in both 3-D space and time is taken into account for the planning of the complete path. Examples show how the planning system makes use of favorable winds for fuel consumption benefit, avoids areas of potential icing, and is able to follow weather reconnaissance type of trajectories by visiting areas of interest as well as scanning the atmosphere with desired vertical maneuvers. A spherical Earth model for path generation has been implemented within the planner for long-range applications. Vehicle performance and fuel consumption models are integrated into the planner with the use of performance tables, allowing the system to plan for any type of vehicle. The planner is capable of making in-flight modifications to further refine or adapt its path to updated weather information."

@@ -1,0 +1,11 @@
+,MetadataField,Metadata
+0,NSGL Document #:,MDU-R-89-005
+1,Sea Grant Program/Affiliate:,Maryland Sea Grant
+2,Title:,Displaying taxonomic data analyses using SAS/Graph
+3,Author:,"Jacobs, Dan"
+4,Publication Year :,1989
+5,Source Citation:,"""Second Annual Conference of the NorthEast SAS Users Group,"" Washington, D.C., October 29-31, 1989."
+6,# Pages / Video Length:,8
+7,Publication Type:,reprints (not peer-reviewed)
+8,Program Report #:,UM-SG-RS-90-05
+9,Abstract:,"Taxonomic studies frequently include cluster, principal component and principal coordinate analyses of the similarity between organisms derived from physiological data, RNA sequences, and results from DNA homology experiments. Similarity triangles, dendrograms, and principal coordinate plots are examples of graphical displays that assist the interpretation of the results. SAS and SAS/GRAPH have a number of procedures which perform the data analyses and produce plots. Dendrograms produced with one of these procedures, PROC TREE, are hard to interpret, and no procedure produces similarity triangle graphs. This paper demonstrates that these graphs can be created using some creative data manipulation and PROC GPLOT."

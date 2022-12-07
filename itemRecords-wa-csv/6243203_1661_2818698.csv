@@ -1,0 +1,15 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-R-07-011
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,Constructing a coherent joint prior while respecting biological realism: application to marine mammal stock assessments
+3,Author:,"Brandon, John R."
+4,,"Breiwick, Jeffrey M."
+5,,"Punt, Andre E."
+6,,"Wade, Paul R."
+7,Publication Year :,2007
+8,Source Citation:,"Ices Journal of Marine Science, 64(6):1085-​1100, September 2007"
+9,# Pages / Video Length:,16
+10,Publication Type:,reprints (peer-reviewed)
+11,Program Report #:,WSG-TA 07-10
+12,Project #:,E/I-10
+13,Abstract:,"Bayesian estimation methods, employing the Sampling - Importance - Resampling algorithm, are currently used to perform stock assessments for several stocks of marine mammals, including the Bering - Chukchi - Beaufort Seas stock of bowhead whales (Balaena mysticetus) and walrus (Odobenus rosmarus rosmarus) off Greenland. However, owing to the functional relationships among parameters in deterministic age-structured population dynamics models, placing explicit priors on each life history parameter in addition to the population growth rate parameter results in an incoherent joint prior distribution (i.e. two different priors on the estimated parameters). One solution to constructing a coherent joint prior is to solve for juvenile survival analytically, using values generated from the prior distributions for the remaining parameters. However, certain combinations of model parameter values result in values for juvenile survival that are larger than adult survival, which is biologically implausible. Therefore, to respect biological realism, certain parameter values must be rejected for some or all the remaining parameters. This study investigates several alternative resampling schemes for obtaining a realistic joint prior distribution, given the constraint on survival rates. The sensitivity of assessment results is investigated for data-rich (bowhead) and data-poor (walrus) scenarios. The results based on limited data are especially sensitive to the choice of alternative resampling scheme."

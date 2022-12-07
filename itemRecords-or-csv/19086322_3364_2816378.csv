@@ -1,0 +1,14 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-R-17-007
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,Evaluation of bias correction methods for wave modeling output
+3,Author:,"Parker, K."
+4,,"Hill, D. F."
+5,Publication Year :,2017
+6,Source Citation:,"Ocean Modelling, 110:52-65, 2017"
+7,DOI #:,10.1016/j.ocemo​d.2016.12.008
+8,# Pages / Video Length:,14
+9,Publication Type:,reprints (peer-reviewed)
+10,Program Report #:,ORESU-R-17-007
+11,Project #:,R/CNH-25
+12,Abstract:,"Models that seek to predict environmental variables invariably demonstrate bias when compared to ob- servations. Bias correction (BC) techniques are common in the climate and hydrological modeling com- munities, but have seen fewer applications to the field of wave modeling. In particular there has been no investigation as to which BC methodology performs best for wave modeling. This paper introduces and compares a subset of BC methods with the goal of clarifying a “best practice”method​ology for application of BC in studies of wave-related processes. Specific focus is paid to comparing parametric vs. empirical methods as well as univariate vs. bivariate methods. The techniques are tested on global WAVEWATCH III historic and future period datasets with comparison to buoy observations at multiple locations. Both wave height and period are considered in order to investigate BC effects on inter-variable correlation. Re- sults show that all methods perform uniformly in terms of correcting statistical moments for individual variables with the exception of a copula based method underperforming for wave period. When compar- ing parametric and empirical methods, no difference is found. Between bivariate and univariate methods, results show that bivariate methods greatly improve inter-variable correlations. Of the bivariate methods tested the copula based method is found to be not as effective at correcting correlation while a “shuf- fling”method is unable to handle changes in correlation from historic to future periods. In summary, this study demonstrates that BC methods are effective when applied to wave model data and that it is essential to employ methods that consider dependence between variables."

@@ -1,0 +1,17 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-R-13-014
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,"Tsunami inundation modeling in constructed environments: A physical and numerical comparison of free-surface elevation, velocity, and momentum flux"
+3,Author:,"Park, Hyoungsu"
+4,,"Cox, Daniel T."
+5,,"Lynett, Patrick J."
+6,,"Wiebe, Dane M."
+7,,"Shin, Sungwon"
+8,Publication Year :,2013
+9,Source Citation:,"""Coastal Engineering,"" 79:9-21, 2013."
+10,DOI #:,10.1016/j.coast​aleng.2013.04.0​02
+11,# Pages / Video Length:,13
+12,Publication Type:,reprints (peer-reviewed)
+13,Program Report #:,ORESU-R-13-014
+14,Project #:,R/CNH-22
+15,Abstract:,"A laboratory benchmark test for tsunami inundation through an urban waterfront including free surface elevation, velocity, and specific momentum flux is presented and compared with a numerical model (COULWAVE). The physical model was a 1:50 scale idealization of the town Seaside, Oregon, designed to observe the complex tsunami flow around the macro-roughness such as buildings idealized as impermeable, rectangular blocks. Free surface elevation and velocity time series were measured and analyzed at 31 points along 4 transects. Optical measurements of the leading bore front were used in conjunction with the in-situ velocity and free surface measurements to estimate the time-dependent specific momentum flux at each location. The maximum free surface elevation and specific momentum flux sharply decreased from the shoreline to the landward measurement locations, while the cross-shore velocity slowly decreased linearly. The experimental results show that the maximum specific momentum flux is overestimated by 60 to 260%, if it is calculated using the each maximum values of the free surface elevation and cross-shore velocity. Comparisons show that the numerical model is in good agreement with the physical model at most locations when tuned to a friction factor of 0.005. When the friction factor decreased by a factor of 10 (from 0.01 to 0.001), the average maximum free surface elevation increased 15%, and the average cross-shore velocity and specific momentum flux increased 95 and 208%, respectively. This highlights the importance of comparing velocity in the validation and verification process of numerical models of tsunami inundation."

@@ -1,0 +1,14 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-R-93-016
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,Mathematical models and logic for the computer control of batch retorts: conduction-​heated foods
+3,Author:,"Simpson, Ricardo"
+4,,"Almonacid-​Merino, Sergio F."
+5,,"Torres, J. Antonio"
+6,Publication Year :,1993
+7,Source Citation:,"""Journal of Food Engineering,"" 20: 283-295, 1993."
+8,# Pages / Video Length:,13
+9,Publication Type:,reprints (peer-reviewed)
+10,Program Report #:,ORESU-R-93-016
+11,Project #:,E/ISG-6
+12,Abstract:,"A computer program was developed to implement a mathematical model to control on-line batch retort operations for conduction- heated foods. The model is based on a numeric solution for heat transfer in cylindrical cans. The heat transfer equation was solved using a numeric method with a variable grid. Integrated lethality values are calculated assuming first-order kinetics for microbial inactivation, taking into account the cumulative lethality of the heating and cooling period. The program adjusts process time automatically to compensate for any unexpected variation in retort temperature, and was validated using processes reported in the literature. The computational speed of the numeric method described could be applied to other calculation-​intensive simulations."

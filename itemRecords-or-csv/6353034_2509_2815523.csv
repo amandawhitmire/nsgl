@@ -1,0 +1,21 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-R-11-012
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,Remote sensing classification of grass seed cropping practices in western Oregon
+3,Author:,"Mueller-​Warrant, George W."
+4,,"Whittaker, Gerald W."
+5,,"Griffith, Stephen M."
+6,,"Banowetz, Gary M."
+7,,"Dugger, Bruce D."
+8,,"Garcia, Tiffany S."
+9,,"Giannico, Guillermo"
+10,,"Boyer, Kathryn L."
+11,,"McComb, Brenda C."
+12,Publication Year :,2011
+13,Source Citation:,"""International Journal of Remote Sensing,"" 32(9):2451-​2480, May 2011."
+14,DOI #:,10.1080/0143116​1003698351
+15,# Pages / Video Length:,30
+16,Publication Type:,reprints (peer-reviewed)
+17,Program Report #:,ORESU-R-11-012
+18,Project #:,A/ESG-07
+19,Abstract:,"Our primary objective was extending knowledge of major crop rotations and stand establishment conditions present in 4800 grass seed fields surveyed over three years in western Oregon to the entire Willamette Valley through classification of multiband Landsat images and multi-temporal Moderate Resolution Imaging Spectroradiomet​er (MODIS) 16-day composite Normalized Difference Vegetation Index (NDVI). Mismatch in resolution between MODIS and Landsat data was resolved by edging of training and test validation areas using 3 by 3 neighbourhood tests for class uniformity, resampling of MODIS data to 50-m resolution followed by 3 by 3 neighbourhood smoothing to artificially enhance resolution, and resampling to 30 m for stacking data in groups of up to 64, 55 and 81 bands in 2004-2005, 2005-2006 and 2006-2007. Imposing several object-based rules raised final classification accuracies to 84.7, 77.1 and 87.6% for 16 categories of cropping practices in 2005, 2006 and 2007. Total grass seed area was under-predicted by 3.9, 5.4 and 1.8% compared to yearly Cooperative Extension Service estimates, with Italian ryegrass overestimated by an average of 8.4% and perennial ryegrass, orchardgrass and tall fescue underestimated by 10.4, 3.3 and 2.1%. Knowledge of field disturbance patterns will be crucial in future landscape-level analyses of relationships among ecosystem services."

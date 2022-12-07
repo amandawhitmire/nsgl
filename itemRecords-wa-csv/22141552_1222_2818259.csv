@@ -1,0 +1,16 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-R-17-019
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,Implications of process error in selectivity for approaches to weighting compositional data in fisheries stock assessments
+3,Author:,"Stewart, Ian J."
+4,,"Monnahan, Cole C."
+5,Publication Year :,2017
+6,Source Citation:,"Fisheries Research,192:12​6-​134, 2017"
+7,DOI #:,10.1016/j.fishr​es.2016.06.018
+8,Publisher:,Elsevier
+9,# Pages / Video Length:,9
+10,Publication Type:,reprints (peer-reviewed)
+11,Program Report #:,WSG-TA 17-18
+12,Grant/Contract #:,NA10OAR4320148
+13,Project #:,E/I-21
+14,Abstract:,"Lack-of-fit in a stock assessment model can be related to both data weighting and the treatment of process error. Although these contributing factors have been studied separately, interactions between them are potentially problematic. In this study we set up a simple simulation intended to provide general guidance to analysts on the performance of an age-structured model under differing assignments of compositional data weight and process variance. We compared cases where the true sample size is under-, ‘right-’ or over-weighted, and the degree of process variance (in this case temporal variability in selectivity) is under, correctly, or overestimated. Each case was evaluated with regard to estimation of spawning biomass, and MSY-related quantities. We also explored the effects of the estimation of natural mortality, steepness, as well as incorrectly specifying process error in selectivity when there is none. Results showed that right-weighted estimation models assuming the correct degree of process error performed best in estimating all quantities. Underweighting produced larger relative errors in spawning biomass, particularly when too much process error was allowed. Conversely, overweighting produced larger errors mainly when the degree of process error was underestimated. MSY-related quantities were sensitive to both the estimation of natural mortality, and particularly steepness. We suggest that data weighting and the treatment of process error should not be considered independently: estimation is most likely to be robust when process error is allowed (even if overestimated) and when compositional data are not excessively down-weighted."

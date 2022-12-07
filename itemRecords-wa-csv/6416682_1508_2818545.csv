@@ -1,0 +1,15 @@
+,MetadataField,Metadata
+0,NSGL Document #:,MIT-R-11-006
+1,Sea Grant Program/Affiliate:,MIT Sea Grant
+2,Title:,Short paper: towards underwater video transmission
+3,Author:,"Dubreuil, Vall Laura"
+4,,"Sura, Daniel"
+5,,"Stojanovic, Milica"
+6,Publication Year :,2011
+7,Source Citation:,"""Sixth ACM International Workshop on Underwater Networks, WUWNet '11,"" Seattle, Washington, December 1-2, 2011."
+8,DOI #:,10.1145/2076569​.2076573
+9,# Pages / Video Length:,6
+10,Publication Type:,reprints (peer-reviewed)
+11,Program Report #:,MITSG_11-27
+12,Project #:,2009-R/RCM-26
+13,Abstract:,"This paper addresses the feasibility of underwater wireless video transmission using an acoustic system, which consists of a video compressor/deco​mpressor and an OFDM modulator/demod​ulator. This work includes two main parts: the design of an algorithm aimed to compensate for the Doppler effect and the assessment of a set of error resilience tools offered by the MPEG-4 standard. The results of the simulations and in-air experiments demonstrate the performance improvement in terms of visual quality of the received video in cases with motion, as well as the system robustness against channel induced errors."

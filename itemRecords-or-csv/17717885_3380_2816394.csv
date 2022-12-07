@@ -1,0 +1,19 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-R-11-027
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,Fine-grained categorization of fish motion patterns in underwater videos
+3,Author:,"Amer, Mohamed"
+4,,"Bilgazyev, Emil"
+5,,"Todorovic, Sinisa"
+6,,"Shah, Shishir"
+7,,"Kakadiaris, Ioannis"
+8,,"Ciannelli, Lorenzo"
+9,Publication Year :,2011
+10,Source Citation:,"IEEE International Conference on Computer Vision (ICCV) Workshops, pp. 1488-1495, November 6-13, 2011"
+11,DOI #:,10.1109/ICCVW.2​011.6130426
+12,Publisher:,IEEE
+13,# Pages / Video Length:,8
+14,Publication Type:,reprints (peer-reviewed)
+15,Program Report #:,ORESU-R-11-027
+16,Project #:,R/ECO-23
+17,Abstract:,"Marine biologists commonly use underwater videos for their research. Their video analysis, however, is typically based on visual inspection. This incurs prohibitively large user costs, and severely limits the scope of biological studies. There is a need for developing vision algorithms that can address specific needs of marine biologists, such as fine-grained categorization of fish motion patterns. This is a difficult problem, because of very small inter-class and large intra-class differences between fish motion patterns. Our approach consists of three steps. First, we apply our new fish detector to identify and localize fish occurrences in each frame, under partial occlusion, and amidst dynamic texture patterns formed by whirls of sand on the sea bed. Then, we conduct tracking-​by-​detection. Given the similarity between fish detections, defined in terms of fish appearance and motion properties, we formulate fish tracking as transitively linking similar detections between every two consecutive frames, so as to maintain their unique track IDs. Finally, we extract histograms of fish displacements along the estimated tracks. The histograms are classified by the Random Forest technique to recognize distinct classes of fish motion patterns. Evaluation on challenging underwater videos demonstrates that our approach outperforms the state-​of-​the-​art techniques. This paper presents an approach to video categorization aimed at facilitating a particular marine biology study. There is a critical need for developing computer vision approaches to help marine biologists in their analysis of underwater videos."

@@ -1,0 +1,15 @@
+,MetadataField,Metadata
+0,NSGL Document #:,WASHU-R-12-003
+1,Sea Grant Program/Affiliate:,Washington Sea Grant
+2,Title:,Development and application of an agent-based model to evaluate methods for estimating relative abundance indices for shoaling fish such as Pacific rockfish (Sebastes spp.)
+3,Author:,"Thorson, James T."
+4,,"Stewart, Ian"
+5,,"Punt, Andre"
+6,Publication Year :,2012
+7,Source Citation:,"""Ices Journal of Marine Science,"" 69(4):635-647, May 2012."
+8,DOI #:,10.1093/icesjms​/fss003
+9,# Pages / Video Length:,13
+10,Publication Type:,reprints (peer-reviewed)
+11,Program Report #:,WSG-TA 12-05
+12,Project #:,E/I-17
+13,Abstract:,"Many marine fish, including Pacific rockfish (Sebastes spp.), exhibit habitat-​selective and shoaling behaviors, which can lead to imprecision when using survey data to estimate an annual index of stock abundance. We develop a spatial agent-based model (ABM) for Pacific rockfish, which generates data similar to those observed in existing bottom-trawl surveys and can represent various spatial and shoaling behaviors. We use the ABM to evaluate the performance of a model that uses mixture distribution methods to account for fish shoals and delta-methods to account for range expansion or contraction. This delta-mixture model is compared with conventional delta-​generalized linear models (delta-GLMs) and a quantile regression delta-model. The delta-mixture increases precision by 15% relative to delta-GLMs in estimated abundance indices when shoaling behaviors are present, whereas precision is similar between delta-GLM and delta-mixture models when shoals are absent. The delta-quantile method has similar improvements over conventional delta-GLM methods, and the improved precision from delta-mixture and delta-quantile methods is decreased but not eliminated by decreased sampling intensities. These simulations represent the first evaluation of delta-mixture models for index standardization and show a substantial improvement over conventional delta-GLMs for shoaling species such as Pacific rockfish."

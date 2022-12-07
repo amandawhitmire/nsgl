@@ -1,0 +1,11 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-Y-12-008
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,Nearshore wave predictions along the Oregon and southwest Washington coast
+3,Author:,"Garcia-Medina, Gabriel"
+4,Publication Year :,2012
+5,# Pages / Video Length:,70
+6,Publication Type:,theses/disserta​tions
+7,Program Report #:,ORESU-Y-12-008
+8,Project #:,R/CNH-19
+9,Abstract:,"This thesis contains a manuscript describing the implementation of a high resolution wave forecasting model for the coasts of Washington and Oregon. The purpose of this project was to advance the wave predictive capabilities of the states of Oregon and the southwest part of Washington by including the effects of local bathymetric features in the operational forecasts. A 30 arc-second resolution wave forecasting model was implemented making use of the WAVEWATCH III numerical code covering the coastal region from Klamath, CA to Taholah, WA. The wave forecasts extend to the continental shelf at this resolution. To assess the performance of the model, its output was compared against in situ data, with normalized root-​mean-​squared errors in significant wave height in the vicinity of 0.20 and linear correlation coefficients greater than 0.80. Making use of the resulting validated regional scale wave forecasting system, an evaluation of the model sensitivity to the inclusion of bottom friction and wind input at the shelf level was performed. Results suggest that neither dissipation due to bottom friction or wind generation are significant for long term forecasting/hin​dcasting in the region. Results from a series of hindcasts suggest that several significant offshore features may affect the nearshore wave field. To evaluate it, a shelf scale SWAN model was implemented and a series of numerical experiments performed. Results suggest that the Astoria and McArthur Canyons; the Stonewall, Perpetua, and Heceta Banks; and Cape Blanco are significant bathymetric features that are capable of producing significant alongshore variability in wave heights nearshore."

@@ -1,0 +1,18 @@
+,MetadataField,Metadata
+0,NSGL Document #:,ORESU-R-16-002
+1,Sea Grant Program/Affiliate:,Oregon Sea Grant
+2,Title:,An agent-based model of a multimodal near-field tsunami evacuation: Decision-making and life safety
+3,Author:,"Wang, Haizhong"
+4,,"Mostafizi, Alireza"
+5,,"Cramer, Lori A."
+6,,"Cox, Dan"
+7,,"Park, Hyoungsu"
+8,Publication Year :,2016
+9,Source Citation:,"Transportation Research Part C: Emerging Technologies, 64:86-100, March 2016"
+10,DOI #:,10.1016/j.trc.2​015.11.010
+11,Publisher:,Elsevier
+12,# Pages / Video Length:,15
+13,Publication Type:,reprints (peer-reviewed)
+14,Program Report #:,ORESU-R-16-002
+15,Project #:,R/CNH-26
+16,Abstract:,"This paper presents a multimodal evacuation simulation for a near-field tsunami through an agent-based modeling framework in Netlogo. The goals of this paper are to investigate (1) how the varying decisn time impacts the mortality rate, (2) how the choice of different modes of transportation (i.e., walking and automobile), and (3) how existence of vertical evacuation gates impacts the estimation of casualties. Using the city of Seaside, Oregon as a case study site, different individual decision-making time scales are included in the model to assess the mortality rate due to immediate evacuation right after initial earthquake or after a specified milling time. The results show that (1) the decision-making time (s) and the variations in decision time (r) are strongly correlated with the mortality rate; (2) the provision of vertical evacuation structures is effective to reduce the mortality rate; (3) the mortality rate is sensitive to the variations in walking speed of the evacuee population; and (4) the higher percentage of automobile use in tsunami evacuation, the higher the mortality rate. Following the results, this paper concludes with a description of the challenges ahead in agent-based tsunami evacuation modeling and simulation, and the modeling of complex interactions between agents (i.e., pedestrian and car interactions) that would arise for a multi-hazard scenario for the Cascadia Subduction Zone."
