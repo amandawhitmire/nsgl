@@ -35,53 +35,37 @@ You can find the data as a CSV file in this repo as 'NOAA-IR-metadata.csv'.
 
 ## Repo Contents
 
-├── archive/
-
-├── catalogRecords-raw/
-
-├── images/
-
-├── itemDownloads/
-
-├── itemRecords-ca-csv/
-
-├── itemRecords-or-csv/
-
-├── itemRecords-wa-csv/
-
-├── pages-searchResults_CA/
-
-├── pages-searchResults_OR/
-
-├── pages-searchResults_WA/
-
-* buildCatalog.Rmd
-* LICENSE.md
-* NOAA-IR-metadata.csv
-* nsgl-all-records.csv
-* nsgl-ca-catalogscrape_selenium.ipynb
-* nsgl-or-catalogscrape_selenium.ipynb
-* nsgl-wa-catalogscrape_selenium.ipynb
-* README.md (this file)
-* seagrant-ca-ids.txt
-* seagrant-or-ids.txt
-* seagrant-wa-ids.txt
-
-## test
-
-      ├── code               
-            ├── neuston-ner.ipynb      # Runs the Python code
-      ├── data
-            ├──                        # Text files that are corrected OCR from scanned cruise logs
-      ├── docs
-            ├── helm.jsonl             # Contains the custom entities for the spaCy NER pipeline
-            └── dataset-summary.xlsx   # Describes dates of cruises, text files, and other descriptive info
-      ├── environment.yml              # Decribes environment dependencies, etc.
-      ├── LICENSE 
-      ├── ner
-            ├── Cruise-XX ...          # Text files with results of NER for each cruise narrative
-            ├── soe-ner-all.txt        # All of the NER results toegther in one file            
-      └── README
+	├── archive/
+		├── 
+	├── catalogRecords-raw/
+		├── 
+	├── images/
+		├── 
+	├── itemDownloads/
+		├── 
+	├── itemRecords-ca-csv/
+		├──
+	├── itemRecords-or-csv/
+		├──
+	├── itemRecords-wa-csv/
+		├──
+	├── pages-searchResults_CA/
+		├──
+	├── pages-searchResults_OR/
+		├──
+	├── pages-searchResults_WA/
+		├──
+	├──  buildCatalog.Rmd
+	├──  LICENSE.md
+	├──  NOAA-IR-metadata.csv
+	├──  nsgl-all-records.csv
+	├──  nsgl-ca-catalogscrape_selenium.ipynb
+	├──  nsgl-or-catalogscrape_selenium.ipynb
+	├──  nsgl-wa-catalogscrape_selenium.ipynb
+	├──  seagrant-ca-ids.txt
+	├──  seagrant-or-ids.txt
+	├──  seagrant-wa-ids.txt
+	└── README.md (this file)
 
 ## Acknowledgements
 
