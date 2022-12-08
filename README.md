@@ -1,4 +1,5 @@
 # Scraping the National Sea Grant Library online catalog
+
 [Amanda Whitmire](https://amandawhitmire.github.io/) :mermaid:
 
 ## Background
