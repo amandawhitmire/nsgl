@@ -33,7 +33,8 @@ You can find the data as a CSV file in this repo as 'NOAA-IR-metadata.csv'.
 
 ## Acknowledgements
 
-- [Peter Broadwell](https://library.stanford.edu/people/pmb), Research Developer at the Center for Interdisciplinary Digital Research, for support with how to do the web scraping
-- Deborah Mongeau, Professor Emerita, University of Rhode Island Libraries & former National Sea Grant librarian, for taking care of this amazing collection.
+- [Peter Broadwell](https://library.stanford.edu/people/pmb), :star_struck: Research Developer at the Center for Interdisciplinary Digital Research, Stanford University, for support with web scraping techniques 
+- Claudia A. Engel, :sunglasses: Academic Technology Specialist and Lecturer, Department of Anthropology, Stanford University, for helping me with merging CSV records in R
+- Deborah Mongeau, :owl: Professor Emerita, University of Rhode Island Libraries & former National Sea Grant librarian, for taking care of this amazing collection.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
