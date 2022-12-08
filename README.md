@@ -34,37 +34,35 @@ The NOAA IR offers direct download of metadata from the catalog (:sparkles: happ
 You can find the data as a CSV file in this repo as 'NOAA-IR-metadata.csv'.
 
 ## Repo Contents
-
-	├── archive/
-		├── 
+ 
 	├── catalogRecords-raw/
-		├── 
+		├── a csv file for each state with the compiled catalog records
 	├── images/
-		├── 
+		├── screenshots of various things (NSGL catalog, etc.)
 	├── itemDownloads/
-		├── 
+		├── PDFs from when I was trying to get them. Incomplete. N=779
 	├── itemRecords-ca-csv/
-		├──
+		├── individual csv files for each catalog record scraped from NSGL for CA
 	├── itemRecords-or-csv/
-		├──
+		├── individual csv files for each catalog record scraped from NSGL for OR
 	├── itemRecords-wa-csv/
-		├──
+		├── individual csv files for each catalog record scraped from NSGL for WA
 	├── pages-searchResults_CA/
-		├──
+		├── txt files with item IDs & html pages for each page of 100 NSGL search results for CA
 	├── pages-searchResults_OR/
-		├──
+		├── txt files with item IDs & html pages for each page of 100 NSGL search results for OR
 	├── pages-searchResults_WA/
-		├──
-	├──  buildCatalog.Rmd
+		├── txt files with item IDs & html pages for each page of 100 NSGL search results for WA
+	├──  buildCatalog.Rmd	R code for compiling the catalog from individual text files
 	├──  LICENSE.md
-	├──  NOAA-IR-metadata.csv
-	├──  nsgl-all-records.csv
-	├──  nsgl-ca-catalogscrape_selenium.ipynb
-	├──  nsgl-or-catalogscrape_selenium.ipynb
-	├──  nsgl-wa-catalogscrape_selenium.ipynb
-	├──  seagrant-ca-ids.txt
-	├──  seagrant-or-ids.txt
-	├──  seagrant-wa-ids.txt
+	├──  NOAA-IR-metadata.csv	CSV file with metadata records for the Sea Grant Collection 
+	├──  nsgl-all-records.csv	De-duplicated catalog records for all three states in one CSV file. 11,451 rows
+	├──  nsgl-ca-catalogscrape_selenium.ipynb	Jupyter notebook for scraping CA records from teh NSGL online catalog
+	├──  nsgl-or-catalogscrape_selenium.ipynb	Jupyter notebook for scraping OR records from teh NSGL online catalog
+	├──  nsgl-wa-catalogscrape_selenium.ipynb	Jupyter notebook for scraping WA records from teh NSGL online catalog
+	├──  seagrant-ca-ids.txt	compiled from txt files in /pages-searchResults_CA
+	├──  seagrant-or-ids.txt	compiled from txt files in /pages-searchResults_OR
+	├──  seagrant-wa-ids.txt	compiled from txt files in /pages-searchResults_WA
 	└── README.md (this file)
 
 ## Acknowledgements
