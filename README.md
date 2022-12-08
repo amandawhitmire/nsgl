@@ -10,7 +10,7 @@ The National Sea Grant Library (NSGL), which was housed on the Bay Campus of the
 >The online catalog provides global access to tens of thousands of full-text digital documents.  The Pell Library at the University of Rhode Island has become the archive for Sea Grant — preserving and enabling access to information-rich documents and publications from the 1960s through 2020.  For those documents that aren’t available electronically, anyone can request a PDF be created as part of the Digitization on Demand program. 
 
 ## Plan for the collection
-NOAA Central Library is taking existing digital copies of titles into the NOAA IR, but the images are not up to current standards. It is not clear how much of the collection has been scanned. 
+The [NOAA Central Library](https://library.noaa.gov/) is taking existing digital copies of titles into the [NOAA Institutional Repository](https://repository.library.noaa.gov/), but the scans are not up to current standards. It is not clear how much of the collection has been scanned, but initial sampling indicates that it is less than half of the collection (excluding peer-reviewed articles in the analysis b/c they are available via other sources). 
 
 There are 2 copies of each print title. As of now, Internet Archive will be taking the archival copy of the entire colelction. The circulating copies have been offered in batches by state to any library willing to tkae them. Because of space limitations, URI will only be retaining the Rhode Island Sea Grant material. If no home is found for the 2nd copy of the items, they will go to the trash. 
 
