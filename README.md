@@ -1,4 +1,5 @@
-# The National Sea Grant Library has closed 
+# Scraping the National Sea Grant Library online catalog
+[Amanda Whitmire](https://amandawhitmire.github.io/) :mermaid:
 
 ## Background
 The National Sea Grant Library (NSGL), which was housed on the Bay Campus of the University of Rhode Island, is no longer being funded and the entire collection is being deaccessioned. The collection consists of 2 print copies of each title published by every state Sea Grant program going back to the 1970's.  Subject areas include research, trade and popular material on the scientific, economic, political and social aspects of the coastal zones of the U.S., including the Great Lakes. Many of these titles have only a handful of libraries holding them or the NSG library is the only library.
