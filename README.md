@@ -30,3 +30,10 @@ The NOAA IR offers direct download of metadata from the catalog (:sparkles: happ
 * https://repository.library.noaa.gov/fedora/export/download/collection/noaa%3A11 (JSON)
 
 You can find the data as a CSV file in this repo as 'NOAA-IR-metadata.csv'.
+
+## Acknowledgements
+
+- [Peter Broadwell](https://library.stanford.edu/people/pmb), Research Developer at the Center for Interdisciplinary Digital Research, for support with how to do the web scraping
+- Deborah Mongeau, Professor Emerita, University of Rhode Island Libraries & former National Sea Grant librarian, for taking care of this amazing collection.
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
