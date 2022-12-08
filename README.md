@@ -67,6 +67,22 @@ You can find the data as a CSV file in this repo as 'NOAA-IR-metadata.csv'.
 * seagrant-or-ids.txt
 * seagrant-wa-ids.txt
 
+## test
+
+      ├── code               
+            ├── neuston-ner.ipynb      # Runs the Python code
+      ├── data
+            ├──                        # Text files that are corrected OCR from scanned cruise logs
+      ├── docs
+            ├── helm.jsonl             # Contains the custom entities for the spaCy NER pipeline
+            └── dataset-summary.xlsx   # Describes dates of cruises, text files, and other descriptive info
+      ├── environment.yml              # Decribes environment dependencies, etc.
+      ├── LICENSE 
+      ├── ner
+            ├── Cruise-XX ...          # Text files with results of NER for each cruise narrative
+            ├── soe-ner-all.txt        # All of the NER results toegther in one file            
+      └── README
+
 ## Acknowledgements
 
 - [Peter Broadwell](https://library.stanford.edu/people/pmb), :star_struck: Research Developer at the Center for Interdisciplinary Digital Research, Stanford University, for support with web scraping techniques 
