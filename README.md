@@ -35,27 +35,27 @@ You can find the data as a CSV file in this repo as 'NOAA-IR-metadata.csv'.
 
 ## Repo Contents
 
-|- archive/
-- buildCatalog.Rmd
-|- catalogRecords-raw/
-|- images/
-|- itemDownloads/
-|- itemRecords-ca-csv/
-|- itemRecords-or-csv/
-|- itemRecords-wa-csv/
-- LICENSE.md
-- NOAA-IR-metadata.csv
-- nsgl-all-records.csv
-- nsgl-ca-catalogscrape_selenium.ipynb
-- nsgl-or-catalogscrape_selenium.ipynb
-- nsgl-wa-catalogscrape_selenium.ipynb
-|- pages-searchResults_CA/
-|- pages-searchResults_OR/
-|- pages-searchResults_WA/
-- README.md
-- seagrant-ca-ids.txt
-- seagrant-or-ids.txt
-- seagrant-wa-ids.txt
+├── archive/
+├── catalogRecords-raw/
+├── images/
+├── itemDownloads/
+├── itemRecords-ca-csv/
+├── itemRecords-or-csv/
+├── itemRecords-wa-csv/
+├── pages-searchResults_CA/
+├── pages-searchResults_OR/
+├── pages-searchResults_WA/
+buildCatalog.Rmd
+LICENSE.md
+NOAA-IR-metadata.csv
+nsgl-all-records.csv
+nsgl-ca-catalogscrape_selenium.ipynb
+nsgl-or-catalogscrape_selenium.ipynb
+nsgl-wa-catalogscrape_selenium.ipynb
+README.md (this file)
+seagrant-ca-ids.txt
+seagrant-or-ids.txt
+seagrant-wa-ids.txt
 
 ## Acknowledgements
 
