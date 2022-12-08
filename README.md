@@ -14,7 +14,7 @@ The [NOAA Central Library](https://library.noaa.gov/) is taking existing digital
 
 There are 2 copies of each print title. As of now, Internet Archive will be taking the archival copy of the entire collection. The circulating copies have been offered in batches by state to any library willing to take them. Because of space limitations, URI will only be retaining the Rhode Island Sea Grant material. If no home is found for the 2nd copy of the items, they will go to the trash. 
 
-The Harold A. Miller Library, a branch of the Stanford Libraries located at Hopkins Marine Station, has received shipment of the entire California Sea Grant Collection. According to the [National Sea Grant Catalog](https://eos.ucs.uri.edu/EOSWebOPAC/OPAC/Index.aspx), there are 4,398 CA items between the 'California Sea Grant' and 'Southern California Sea Grant' program, about 40 linear shelf feet according to the retiring NSGL Librarian. The librarian was unable to retrieve catalog records from Ye Olde Online Catalog, so this GH Repo is for code & files related to scraping the NSGL online catalog and processing the records.
+The Harold A. Miller Library, a branch of the Stanford Libraries located at Hopkins Marine Station, has received shipment of the entire California Sea Grant Collection. According to the [National Sea Grant Catalog](https://eos.ucs.uri.edu/EOSWebOPAC/OPAC/Index.aspx), there are 4,398 CA items between the 'California Sea Grant' and 'Southern California Sea Grant' programs, filling about 40 linear feet of shelf space according to the retiring NSGL Librarian. The librarian was unable to retrieve catalog records from Ye Olde Online Catalog, so this GH Repo is for code & files related to scraping the NSGL online catalog and processing the records.
 
 ## Outputs
 
@@ -24,3 +24,9 @@ Files for individual states can be found in ~/catalogRecords-raw as:
 * 'nsgl-ca-records.csv' for California
 * 'nsgl-or-records.csv' for Oregon
 * 'nsgl-wa-records.csv' for Washington
+
+The NOAA IR offers direct download of metadata from the catalog (:sparkles: happy :sparkles:). You can find information about this [here](https://repository.library.noaa.gov/help). To download the Sea Grant Collection, use 'noaa%3A11' as the PID. Here are some example URLs:
+* https://repository.library.noaa.gov/fedora/export/download/collection/csv/noaa%3A11 (CSV)
+* https://repository.library.noaa.gov/fedora/export/download/collection/noaa%3A11 (JSON)
+
+You can find the data as a CSV file in this repo as 'NOAA-IR-metadata.csv'.
