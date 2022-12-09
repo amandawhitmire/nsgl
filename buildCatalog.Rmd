@@ -74,11 +74,21 @@ data_all <- list.files(path = "~/github/nsgl/catalogRecords-raw",  # Identify al
   bind_rows                                         # Combine data sets into one data set 
 data_all
 
-str_replace(data_all[[1]], "/Users/thalassa/github/nsgl/itemRecords-csv","")
-str_replace(data_all[[1]], "/Users/thalassa/github/nsgl/itemRecords-wa-csv","")
-str_replace(data_all[[1]], "/Users/thalassa/github/nsgl/itemRecords-or-csv","")
+data_all <- data_all %>% 
+  mutate(id = str_replace_all(id, "/Users/thalassa/github/nsgl/itemRecords-csv/",""))
 
-records <- data_all %>% distinct()
+data_all <- data_all %>% 
+  mutate(id = str_replace_all(id, "/Users/thalassa/github/nsgl/itemRecords-or-csv/",""))
+
+data_all <- data_all %>% 
+  mutate(id = str_replace_all(id, "/Users/thalassa/github/nsgl/itemRecords-wa-csv/",""))
+
+# remove duplicates
+records <- data_all %>%
+  distinct_at(vars("NSGL Document #:"), .keep_all = TRUE)
+
+# save the data to a CSV file. You can now move to OpenRefine
+write_csv(records,"nsgl-all-records.csv")
 ```
 
 
